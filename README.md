@@ -42,7 +42,7 @@ MergeEPG.exe "C:\guide1.xml" "C:\guide2.xml" "C:\guide1+2.xml"
 
 #### Exemple d'utilisation
 ```sh
-PrettyXMLTV "C:\TVGuide.xml" "C:\TVGuide.xml"
+PrettyXMLTV "C:\guide.xml" "C:\guide.xml"
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;
 
