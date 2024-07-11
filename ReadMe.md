@@ -34,7 +34,7 @@ MergeEPG.exe "C:\guide1.xml" "C:\guide2.xml" "C:\guide1+2.xml"
 &nbsp;&nbsp;
 
 ## PrettyXMLTV
-**PrettyXMLTV** indente les fichiers XMLTV EPG pour une meilleure lisibilité.
+**PrettyXMLTV** indente et applique une mise en forme aux fichiers XMLTV pour une meilleure lisibilité.
 
 #### Fonctionnalités
 - Indentation.
@@ -48,4 +48,4 @@ PrettyXMLTV "C:\guide.xml" "C:\guide.xml"
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Prérequis
-Assurez-vous d'avoir installé **Microsoft Visual Studio 2022 Community Edition** et être familiarisé avec **Microsoft Visual Basic .NET**.
+Assurez-vous d'avoir installé **Microsoft Visual Studio 2022 Community Edition** et être familiarisé avec **Microsoft Visual Basic .NET** et le **Framework .NET 4.8**.
