@@ -1,5 +1,6 @@
 # XMLTV-Tools
-Outils développés pour faciliter la manipulation et la gestion de fichiers XMLTV.
+Outils développés pour faciliter la manipulation et la gestion de fichiers **XMLTV**.
+
 XMLTV est un format standard pour la description des programmes télévisés, utilisé par de nombreux services de télévision et applications de gestion des programmes.
 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,8 +37,8 @@ MergeEPG.exe "C:\guide1.xml" "C:\guide2.xml" "C:\guide1+2.xml"
 **PrettyXMLTV** indente les fichiers XMLTV EPG pour une meilleure lisibilité.
 
 #### Fonctionnalités
-- Indentation
-- Mise en forme de fichiers XMLTV.
+- Indentation.
+- Mise en forme.
 
 
 #### Exemple d'utilisation
@@ -47,4 +48,4 @@ PrettyXMLTV "C:\guide.xml" "C:\guide.xml"
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Prérequis
-Assurez-vous d'avoir installé Microsoft Visual Studio 2022 Community Edition et être familiarisé avec Visual Basic .NET.
+Assurez-vous d'avoir installé **Microsoft Visual Studio 2022 Community Edition** et être familiarisé avec **Microsoft Visual Basic .NET**.
