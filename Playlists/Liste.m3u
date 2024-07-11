@@ -1,0 +1,1512 @@
+#EXTM3U
+
+#EXTREM: #EXT-X-VERSION:1
+#EXTREM: #EXT-X-ALLOW-CACHE:YES
+#EXTREM: #EXT-X-MEDIA:TYPE=VIDEO
+
+#EXTREM: #EXTVLCOPT:network-caching=9000
+#EXTREM: #EXTVLCOPT–http-reconnect=true
+#EXTREM: #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/40.0
+
+#EXTREM: Généré pour être utilisé avec "PVR IPTV Simple Client" 
+#EXTREM: 2024-07-11 13:22:07
+
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: http://totv.org/channels
+#EXTREM: https://www.infinite-streaming.live/tv-live-france
+#EXTREM: https://www.stream4free.live/tv-live-france/
+#EXTREM: https://github.com/naveenland4/iptvfr/tree/main/playlists/iptv
+#EXTREM: https://github.com/schumijo/iptv/tree/main/playlists
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: GUIDES TV
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: https://xmltvfr.fr/xmltv/xmltv.zip
+#EXTREM: https://github.com/Catch-up-TV-and-More/xmltv
+#EXTREM: https://xmltv.ch/xmltv/xmltv-complet.zip
+#EXTREM: http://tlofnorogepg.alwaysdata.net/epg/quebec_spe.xml
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: https://github.com/pshanmu3/dailymotion_to_m3u8/tree/main/scripts
+#EXTREM: 
+#EXTREM: https://github.com/Sphinxroot
+#EXTREM: https://github.com/Sphinxroot/Tele-Franco-Direct-/blob/main/FrancaisINT.md
+#EXTREM: 
+#EXTREM: https://github.com/ipstreet312/freeiptv
+#EXTREM: https://receptioniptv.blogspot.com/
+#EXTREM: 
+#EXTREM: http://iptv.journalsat.com
+#EXTREM: 
+#EXTREM: https://github.com/iptv-org/epg
+#EXTREM: https://github.com/iptv-org/awesome-iptv#epg-sources
+#EXTREM:
+#EXTREM: https://github.com/epgshare01/share01
+#EXTREM: https://i.mjh.nz/
+#EXTREM: 
+#EXTREM: http://www.xmltv.fr/
+#EXTREM: https://xmltv.ch/
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: Channel Logos
+#EXTREM: https://www.tv-logo.com
+#EXTREM: https://www.pngegg.com
+#EXTREM: https://lyngsat-logo.com
+#EXTREM: https://logodix.com
+#EXTREM: https://seeklogo.com
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: https://github.com/iptv-restream/iptv-channels
+#EXTREM: https://www.apsattv.com/redbox.m3u
+#EXTREM: https://github.com/geonsey/Free2ViewTV
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: Asia Pacific Satellite TV (APSAT TV)
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: https://www.apsattv.com
+#EXTREM: http://www.apsattv.com/streams.html
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: IPTV-ORG
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: https://iptv-org.github.io
+#EXTREM: https://iptv-org.github.io/iptv/countries/ca.m3u
+#EXTREM: https://iptv-org.github.io/iptv/countries/ch.m3u
+#EXTREM: https://iptv-org.github.io/iptv/countries/fr.m3u
+#EXTREM: https://iptv-org.github.io/iptv/countries/uk.m3u
+#EXTREM: https://iptv-org.github.io/iptv/countries/us.m3u
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: https://fir.gcn.net.tw/iptv-org/
+#EXTREM: https://github.com/iptv-org/iptv
+#EXTREM: https://github.com/iptv-org/api
+#EXTREM: https://githubmemory.com/repo/iptv-org/iptv
+#EXTREM: https://www.bountysource.com/teams/freearhey-iptv/issues
+#EXTREM: https://pythonrepo.com/repo/Free-TV-IPTV
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: https://www.dailymotion.com/embed/video/x2lefik?autoplay=1
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: https://www.youtube.com/watch?v=o3NRq9Iw68A
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: https://thefrugalstreamer.blogspot.com/p/free2viewtvpage1.html
+#EXTREM: https://github.com/geonsey/Free2ViewTV
+#EXTREM: https://github.com/geonsey/Free2ViewTV/blob/master/Free2ViewTV-2020-Remote.m3u
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: http://www.callofliberty.fr/tv/tv.php
+#EXTREM: http://www.centraltv.fr/
+#EXTREM: http://www.freeintertv.com/Main/
+#EXTREM: 
+#EXTREM: https://you.mensup.fr/mensuptv/
+#EXTREM: https://www.rougetv.ch/
+#EXTREM: https://www.ln24.be/direct
+#EXTREM: https://fr.euronews.com/live
+#EXTREM: https://hqm.es/canales/rock-hqm-directo/
+#EXTREM:
+#EXTREM: https://ustv247.tv/
+#EXTREM: https://watchnewslive.tv/
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: http://tv.10dailythings.com/
+#EXTREM: https://assimilator.tv/
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: http://thgss.com/FR/index.php?p=download
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: https://raw.githubusercontent.com/ipstreet312/freeiptv/master/frenchtv
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: https://github.com/michaz1988/repo/tree/master/plugin.video.vavooto
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25BA_android_streaming
+#EXTREM: ------------------------------------------------------------------------------------------------
+
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: Information
+#EXTREM: ------------------------------------------------------------------------------------------------
+
+#EXTINF:0 tvg-id="BBCNews.uk" tvg-logo="https://static.filmon.com/assets/channels/27/big_logo.png" group-name="Information",BBC News
+plugin://plugin.video.vavootoUK/?name=BBC+NEWS
+#EXTREM: https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
+#EXTREM: https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTREM: plugin://plugin.video.tvone11/play/4/268/play.pvr
+#EXTREM: plugin://plugin.video.tvone111/play/1305/play.pvr
+#EXTREM: plugin://script.module.7of9-live/play/47/play.pvr
+#EXTREM: plugin://plugin.acme.tvnsports/?mode=play&amp;category=live_tv&amp;url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fbbc-news&amp;title=BBC+News&amp;img=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F27%2Fbig_logo.png&amp;site=filmon&amp;play=True
+#EXTREM: plugin://plugin.video.tvone/play/47/play.pvr
+#EXTREM: https://www.filmon.com/vr-streams/27.high/playlist.m3u8
+#EXTREM: http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+#EXTREM: https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+#EXTREM: http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
+#EXTREM: http://185.236.229.31:9981/play/a072
+#EXTREM: https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+
+
+#EXTINF:0 tvg-id="BFMTV.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-481.png" group-name="Information",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:0 tvg-id="BFMTV.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-481.png" group-name="Information",BFM TV
+plugin://plugin.video.vavooto/?name=BFM+TV
+#EXTREM: https://bfmtvalive1-a.akamaihd.net/r253dc974e55741fdaa2b250a83d40fa2/eu-central-1/876450610001/playlist.m3u8
+#EXTREM: https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTREM: https://mit2-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=054akapminjaseksmkrg/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTREM: https://i.ibb.co/kckRLh5/bfm.png
+#EXTREM: plugin://plugin.video.vavooto/?name=BFM
+#EXTREM: https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/profile_0/6098d3cd8e854224b424c4d58755040c/chunklist_ssaiV.m3u8
+#EXTREM: https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2765?protocol=hls
+#EXTREM: https://bfmtvhds-lh.akamaihd.net/i/BFMTV_ESYTLS@664114/master.m3u8
+#EXTREM: https://bfmtvalive1-a.akamaihd.net/316e573c8855429887f65feb189fb5a7/eu-central-1/876450610001/playlist.m3u8
+#EXTREM: plugin://plugin.video.dailymotion_com/?url=xgz4t1&mode=playLiveVideo
+#EXTREM: plugin://plugin.video.youtube/play/?video_id=fjaT5H2abcU
+#EXTREM: plugin://plugin.video.tvone111/play/1685/play.pvr
+#EXTREM: plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/bfmtv/get_live_url/?_pickle_=8004954c000000000000007d94288c075f7469746c655f948c0642464d205456948c08786d6c74765f6964948c14433438312e6170692e74656c6572616d612e6672948c076974656d5f6964948c0562666d747694752e
+#EXTREM: https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
+#EXTREM: https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/profile_1/b0486ae3ca4147b0953f02e67e80ac8d/chunklist_ssaiV.m3u8
+#EXTREM: https://www.dailymotion.com/video/xgz4t1#tab_embed.m3u8
+#EXTREM: plugin://plugin.video.youtube/play/?video_id=fjaT5H2abcU
+#EXTREM: https://www.youtube.com/channel/UCXwDLMDV86ldKoFVc_g8P0g
+#EXTREM: https://s13.tntendirect.com/bmftv/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://s6.tntendirect.com/bmftv/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/xgz4t1
+#EXTREM: http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xgz4t1
+
+
+#EXTINF:0 tvg-id="BFMParis.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_BFM_Paris_2016.svg/240px-Logo_BFM_Paris_2016.svg.png" group-name="Information",BFM Paris
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
+#EXTREM: plugin://plugin.video.vavooto/?name=BFM+PARIS
+#EXTREM: https://lyo2-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=00s1tgmpvbl6qfbhclug/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
+#EXTREM: https://bdx1-cdn-edge-live03.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=0514m0hs8pvhlq9sblbg/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
+#EXTREM: https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?sd=10&rebase=on|X-Forwarded-For=194.4.244.50
+#EXTREM: https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u
+#EXTREM: https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?sd=10&rebase=on
+#EXTREM: https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?sd=10&rebase=on
+#EXTREM: http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
+#EXTREM: http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/index_1024_av-p.m3u8?sd=10&rebase=on
+#EXTREM: http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/index_1024_av-b.m3u8?sd=10&rebase=on
+#EXTREM: http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/index_780_av-p.m3u8?sd=10&rebase=on
+#EXTREM: http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/index_780_av-b.m3u8?sd=10&rebase=on
+#EXTREM: plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/bfmregion/get_live_url/?_pickle_=80049530000000000000007d94288c075f7469746c655f948c0942464d205061726973948c076974656d5f6964948c0862666d706172697394752e
+#EXTREM: https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/BFM-Paris-IDF-2022.svg/240px-BFM-Paris-IDF-2022.svg.png
+
+#EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-226.png" group-name="Information",CNews
+https://live-b.cf.dmcdn.net/sec2(zQAROCvey1UWDe1K7R9ZLY424_7FfiGiianKrqc-8fb-2KGGidjK90TM1IplqyHGW5ObXO0FmIgWz2e7bGspewVFVtxLY6SbiTyxQR9mv4c)/dm/3/x3b68jn/d/live-4.m3u8#cell=lcfb
+
+#EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-226.png" group-name="Information",CNews
+https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/CNEWS.m3u8
+#EXTREM: https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-ad-hd/hls-ios-fhd-clair/cnews-clair-ad-hd.m3u8
+#EXTREM: https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
+#EXTREM: http://gratuittv.free.fr/Files/cnews/live/playlist.m3u8|X-Forwarded-For=163.172.70.225
+#EXTREM: plugin://plugin.video.dailymotion_com/?url=x3b68jn&mode=playLiveVideo
+#EXTREM: plugin://plugin.video.vavooto/?name=CNEWS
+#EXTREM: plugin://plugin.video.vavooto/?name=C+NEWS
+#EXTREM: plugin://plugin.video.vavooto/?name=C-NEWS
+#EXTREM: http://gratuittv.free.fr/Files/cnews/live/playlist.m3u8
+#EXTREM: https://i.imgur.com/q5TOZ29.png
+#EXTREM: http://stream.tvtap.live:8081/live/cnews.stream/playlist.m3u8
+#EXTREM: https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/x3b68jn
+#EXTREM: http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3b68jn
+#EXTREM: https://www.dailymotion.com/video/x3b68jn#tab_embed.m3u8
+#EXTREM: plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/cnews/get_live_url/?_pickle_=8004954b000000000000007d94288c075f7469746c655f948c05434e657773948c08786d6c74765f6964948c14433232362e6170692e74656c6572616d612e6672948c076974656d5f6964948c05636e65777394752e
+
+#EXTINF:0 tvg-id="CNN.us" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-53.png" group-name="Information",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 tvg-id="CNN.us" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-53.png" group-name="Information",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTREM: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png
+#EXTREM: https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTREM: https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTREM: plugin://plugin.video.tvone11/play/5/194/play.pvr
+#EXTREM: plugin://script.module.7of9-live/play/82/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/5/194/play.pvr
+#EXTREM: https://logodix.com/logo/38042.png
+#EXTREM: https://cnnsd.newscdn.org/FGxBJzIFrDnXyPFgEVL_DA==,1627515627/1677200617/tracks-v1a1/mono.m3u8
+#EXTREM: https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTREM: https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTREM: http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+#EXTREM: plugin://plugin.video.youtube/play/?video_id=7pACSPykzdw
+#EXTREM: plugin://plugin.video.youtube/play/?video_id=MZE7XULLWKw
+#EXTREM: https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
+#EXTREM: http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="CNN.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CNNinternational-logo.png/320px-CNNinternational-logo.png" group-name="Information",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:0 tvg-id="CNNInternationalEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CNNinternational-logo.png/320px-CNNinternational-logo.png" group-name="Information",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTREM: https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8
+#EXTREM: https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
+#EXTREM: https://d1mj4zol5huu6l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tp1e68v8mb0lb/index.m3u8
+#EXTREM: https://doq6y2m748j16.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CNN-prod/playlist.m3u8
+#EXTREM: https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTREM: plugin://plugin.video.tvone11/play/4/308/play.pvr
+#EXTREM: plugin://plugin.video.tvone111/play/1340/play.pvr
+#EXTREM: https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTREM: https://logodix.com/logo/38042.png
+#EXTREM: plugin://plugin.video.swiftstreams/play/4/308/play.pvr
+#EXTREM: https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTREM: https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTREM: https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
+#EXTREM: https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTREM: https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTREM: https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="FoxNewsChannel.us" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-name="Information",FOX News
+plugin://plugin.video.tvone111/play/1252/play.pvr
+#EXTREM: plugin://script.module.7of9-live/play/119/play.pvr
+#EXTREM: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png
+#EXTREM: plugin://plugin.video.tvone11/play/5/149/play.pvr
+#EXTREM: plugin://plugin.video.tvone11/play/5/149/play.pvr
+#EXTREM: plugin://plugin.video.tvone/play/119/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/5/149/play.pvr
+#EXTREM: plugin://plugin.video.youtube/play/?video_id=u_O9lkHKC3Y
+#EXTREM: https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+#EXTREM: https://lnc-fox-news-now.tubi.video/index.m3u8
+#EXTREM: https://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
+#EXTREM: https://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/index_300000_av-p.m3u8
+#EXTREM: https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+
+#EXTINF:0 tvg-id="FranceInfo.fr" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-name="Information",franceinfo:
+https://live-b.cf.dmcdn.net/sec2(hHZAqPzOOgtGgHFRw5Z7_6SjjgVs7Ponlexte79srCJM5lJ3YWu1mhnOPFNl_gOBfpJPAdN4h9GPuTDNVrhyndYVaLOG-ZjaR2wzzJyVE6k)/dm/3/x4rdeu6/d/live-3.m3u8#cell=lcfb
+
+#EXTINF:0 tvg-id="FranceInfo.fr" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-name="Information",franceinfo:
+plugin://plugin.video.vavooto/?name=FRANCEINFO
+#EXTREM: plugin://plugin.video.dailymotion_com/?url=x4rdeu6&mode=playLiveVideo
+#EXTREM: https://hdfauth.ftven.fr/esi/TA?format=txt&url=https://simulcast-p.ftven.fr/simulcast/France_Info/hls_monde_frinfo/index.m3u8
+#EXTREM: https://hdfauth.ftven.fr/esi/TA?format=json&url=https://simulcast-p.ftven.fr/simulcast/France_Info/hls_monde_frinfo/index.m3u8
+#EXTREM: https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/x4rdeu6
+#EXTREM: http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x4rdeu6
+#EXTREM: http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live
+#EXTREM: https://www.dailymotion.com/video/x4rdeu6#tab_embed.m3u8
+#EXTREM: https://www.dailymotion.com/video/x26eox4#tab_embed.m3u8
+#EXTREM: plugin://plugin.video.youtube/play/?video_id=7pACSPykzdw
+#EXTREM: plugin://plugin.video.youtube/play/?video_id=Z-Nwo-ypKtM
+#EXTREM: plugin://plugin.video.youtube/play/?channel_id=UCO6K_kkdP-lnSCiO3tPx7WA&live=1
+
+#EXTINF:0 tvg-id="I24news.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-781.png" group-name="Information",i24
+plugin://plugin.video.vavooto/?name=I24+NEWS
+#EXTINF:0 tvg-id="I24news.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-781.png" group-name="Information",i24
+http://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+#EXTINF:0 tvg-id="I24news.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-781.png" group-name="Information",i24
+http://gratuittv.free.fr/Files/i24news/live/playlist.m3u8|X-Forwarded-For=163.172.70.225
+#EXTREM: https://rplayer.surge.sh/?url=https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
+#EXTREM: https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
+#EXTREM: https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png
+#EXTREM: https://edge-07.playmedia-cdn.net/origin02/amlst:i24-news/playlist.m3u8
+#EXTREM: http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/i24news-14366340/hls/03.m3u8
+#EXTREM: http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTREM: https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+
+#EXTINF:0 tvg-id="Martinique1ere.mq" tvg-logo="https://i.imgur.com/rBhc87a.png" group-name="Undefined",Martinique la 1ère
+https://ythls.armelin.one/channel/UCgA9V57lQlZFXkDfhVGTWSg.m3u8
+
+#EXTINF:0 tvg-id="NewsmaxTV.us" tvg-logo="https://logodix.com/logo/2063472.gif" group-name="Information",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0 tvg-id="NewsmaxTV.us" tvg-logo="https://logodix.com/logo/2063472.gif" group-name="Information",Newsmax
+https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
+
+#EXTINF:0 tvg-id="SkyNewsHD.uk" tvg-logo="https://www.survation.com/wp-content/uploads/2014/02/large-square-sky-news-logo.png" group-name="Information",Sky News
+plugin://plugin.video.vavootoUK/?name=SKY+NEWS
+#EXTREM: plugin://plugin.video.rbtv/play/1081/play.pvr
+#EXTREM: http://62.2.85.68:39981/play/a01g
+#EXTREM: http://163.172.111.138:8030/data/img/files/skynews.png
+#EXTREM: http://163.172.111.138:8030/data/img/files/skynews.png
+#EXTREM: plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE
+#EXTREM: plugin://script.module.7of9-live/play/203/play.pvr
+#EXTREM: plugin://plugin.video.tvone/play/203/play.pvr
+#EXTREM: https://seeklogo.com/images/S/sky-news-logo-58C26F12A7-seeklogo.com.png
+
+
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: Documentaires
+#EXTREM: ------------------------------------------------------------------------------------------------
+
+#EXTINF:0 tvg-id="ABXploreFR.fr" tvg-logo="https://rmb.be/files/pictures/brands/logo/47/47-thumb.00b6.jpg" group-name="Documentaires",ABXplore
+plugin://plugin.video.vavooto/?name=AB+EXPLORE
+
+#EXTINF:0 tvg-id="CrimeDistrict.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-2037.png" group-name="Documentaires",Crime District
+plugin://plugin.video.vavooto/?name=CRIME+DISTRICT
+#EXTREM: plugin://plugin.video.tvone11/play/20/1908/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1908/play.pvr
+
+#EXTINF:0 tvg-id="PlanetePlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-147.png" group-name="Documentaires",Planète+ Aventure
+plugin://plugin.video.vavooto/?name=PLANET
+
+#EXTINF:0 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1400.png" group-name="Documentaires",RMC Découverte
+plugin://plugin.video.vavooto/?name=RMC+DECOUVERTE
+#EXTINF:0 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1400.png" group-name="Documentaires",RMC Découverte
+https://i.mjh.nz/SamsungTVPlus/FRBD4100008QS.m3u8
+#EXTINF:0 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1400.png" group-name="Documentaires",RMC Découverte
+plugin://plugin.video.vavooto/?name=USHUAIA+TV
+#EXTINF:0 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1400.png" group-name="Documentaires",RMC Découverte
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTREM: https://s13.tntendirect.com/rmcdecouverte/live/playlist.m3u8
+#EXTREM: https://i.imgur.com4:34 PM 2021-08-23/FVrOYXe.jpg
+#EXTREM: https://s6.tntendirect.com/rmcdecouverte/live/playlist.m3u8
+
+#EXTREM: #EXTINF:0 tvg-id="ca#821693763/smithsonian-channel-canada" tvg-logo="https://www.aje-dc.org/wp-content/uploads/2020/01/Smithsonian-Logo.jpg" group-name="Documentaires",Smithsonian Channel
+#EXTREM: https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTREM: #EXTINF:0 tvg-id="ca#821693763/smithsonian-channel-canada" tvg-logo="https://www.aje-dc.org/wp-content/uploads/2020/01/Smithsonian-Logo.jpg" group-name="Documentaires",Smithsonian Channel
+#EXTREM: https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTREM: #EXTINF:0 tvg-id="ca#821693763/smithsonian-channel-canada" tvg-logo="https://www.aje-dc.org/wp-content/uploads/2020/01/Smithsonian-Logo.jpg" group-name="Documentaires",Smithsonian Channel
+#EXTREM: https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
+#EXTREM: https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/40965_smithsonian.jpg
+#EXTREM: plugin://plugin.video.swiftstreams/play/5/1914/play.pvr
+
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: Nature
+#EXTREM: ------------------------------------------------------------------------------------------------
+
+#EXTINF:0 tvg-id="Animaux.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-12.png" group-name="Nature",Animaux
+plugin://plugin.video.vavooto/?name=ANIMAUX
+#EXTREM: plugin://plugin.video.rbtv/play/1683/play.pvr
+#EXTREM: plugin://plugin.video.tvone111/play/1683/play.pvr
+#EXTREM: plugin://plugin.video.tvone11/play/20/1178/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1178/play.pvr
+#EXTREM: http://flusonic-4.platinum-tv.com/animaux/index.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/animaux/mono.m3u8?token=test
+#EXTREM: http://190.2.138.13/animaux/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed42eded-81ff-4c9c-bba1-34045d129f9b/PLEX_BBCEarth_Logo_Light_1500X1000.png" group-name="Nature",BBC Earth
+https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed42eded-81ff-4c9c-bba1-34045d129f9b/PLEX_BBCEarth_Logo_Light_1500X1000.png" group-name="Nature",BBC Earth
+https://r.mjh.nz/PlutoTV/656535fc2c46f30008870fae-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
+#EXTREM: https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7.m3u8
+
+#EXTINF:0 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-name="Nature",Love Nature
+https://i.mjh.nz/Roku/479fe0d11f3f5132a3f36b617547da3b.m3u8|user-agent=rokuandroid
+#EXTINF:0 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-name="Nature",Love Nature
+https://i.mjh.nz/SamsungTVPlus/USBA3400003IP.m3u8
+#EXTREM: https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8
+#EXTREM: https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8
+#EXTREM: http://bamus-eng-roku.amagi.tv/playlist1080p.m3u800
+#EXTREM: https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTREM: https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTREM: https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTREM: https://image.xumo.com/v1/channels/channel/99991398/300x300.png?type=smartCast_channelTile
+#EXTREM: https://starsat.co.za/wp-content/uploads/2019/12/Love-Nature.png
+#EXTREM: https://vikacreativemedia.com/wp-content/uploads/2014/08/L_N_logo.jpg
+#EXTREM: https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png
+#EXTREM: https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+#EXTREM: https://bamus-eng-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-usa/CDN/playlist.m3u8
+#EXTREM: http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+#EXTREM: http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="NationalGeographic.fr" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/national-geographic-channel.jpg" group-name="Nature",National Geographic Channel
+plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
+#EXTREM: plugin://plugin.video.tvone11/play/20/1169/play.pvr
+#EXTREM: https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/50319_NATGEOFR.jpg
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1169/play.pvr
+
+#EXTINF:0 tvg-id="NatGeoWild.fr" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/nat-geo-wild.jpg" group-name="Nature",Nat Geo Wild
+plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
+#EXTREM: plugin://plugin.video.tvone11/play/20/1171/play.pvr
+#EXTREM: https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/18039_NATGEOWILDFR.jpg
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1171/play.pvr
+
+#EXTINF:0 tvg-id="XXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sky_Nature.svg/512px-Sky_Nature.svg.png" group-name="Nature",Sky Nature
+plugin://plugin.video.vavootoUK/?name=SKY+NATURE
+
+#EXTREM: #EXTINF:0 tvg-id="UltraNature.fr" tvg-logo="https://www.hdnumerique.com/medias/articles/500/ultra-nature-logo.jpg" group-name="Nature",Ultra Nature 4K
+#EXTREM: http://185.236.229.31:9981/play/a01d
+
+#EXTINF:0 tvg-id="UshuaiaTV.fr" tvg-logo="https://tf1pub.fr/sites/default/files/thumbnails/image/ushuaia-tv.jpg" group-name="Nature",Ushuaïa TV
+plugin://plugin.video.vavooto/?name=USHUAIA
+#EXTINF:0 tvg-id="UshuaiaTV.fr" tvg-logo="https://tf1pub.fr/sites/default/files/thumbnails/image/ushuaia-tv.jpg" group-name="Nature",Ushuaïa TV
+plugin://plugin.video.vavooto/?name=USHUA%C3%8FA+TV
+#EXTREM: http://193.252.43.21:10200/play/a0ch
+
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: Science
+#EXTREM: ------------------------------------------------------------------------------------------------
+
+#EXTINF:0 tvg-id="01TV.fr" tvg-logo="https://i.ibb.co/443jKxq/techco.png" group-name="Science",BFM Tech & Co
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
+#EXTINF:0 tvg-id="01TV.fr" tvg-logo="https://i.ibb.co/443jKxq/techco.png" group-name="Science",BFM Tech & Co
+https://bcovlive-a.akamaihd.net/df743f86a96e492790ba96a09ede4149/eu-central-1/6306058915001/playlist.m3u8
+
+#EXTINF:0 tvg-id="DiscoveryChannel.fr" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/2599/brand.gif" group-name="Science",Discovery
+plugin://plugin.video.vavooto/?name=DISCOVERY
+#EXTREM: plugin://plugin.video.tvone11/play/20/1167/play.pvr
+#EXTREM: https://p.kindpng.com/picc/s/396-3964365_023-discovery-discovery-channel-logo-2019-hd-png.png
+#EXTREM: https://focus.telerama.fr/250x250/60/0000/00/01/clear-400.png
+#EXTREM: http://190.2.138.13/discovery/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/discovery/index.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/discovery/mono.m3u8?token=test
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1167/play.pvr
+
+#EXTINF:0 tvg-id="ScienceEtVieTV.fr" tvg-logo="https://www.ladn.eu/wp-content/uploads/2016/07/actu_23715_vignette.jpg" group-name="Science",Science & Vie TV
+plugin://plugin.video.vavooto/?name=SCIENCE+%26+VIE+TV
+#EXTINF:0 tvg-id="ScienceEtVieTV.fr" tvg-logo="https://www.ladn.eu/wp-content/uploads/2016/07/actu_23715_vignette.jpg" group-name="Science",Science & Vie TV
+plugin://plugin.video.vavooto/?name=SCIENCE+%26+VIE
+#EXTREM: plugin://plugin.video.vavooto/?name=SCIENCES+%26+VIE
+#EXTREM: plugin://plugin.video.vavooto/?name=SCIENCE+ET+VIE
+
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: Histoire
+#EXTREM: ------------------------------------------------------------------------------------------------
+
+#EXTINF:0 tvg-id="TouteHistoire.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-7.png" group-name="Histoire",Toute l'histoire
+plugin://plugin.video.vavooto/?name=TOUTE+HISTOIRE
+#EXTINF:0 tvg-id="TouteHistoire.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-7.png" group-name="Histoire",Toute l'histoire
+plugin://plugin.video.vavooto/?name=TOUTE+L+HISTOIRE
+#EXTREM: https://yt3.ggpht.com/ytc/AMLnZu_fbaA0ZJkSSJctwyDYmsAme3Y9NA_xxOctFOVXAQ=s900-c-k-c0x00ffffff-no-rj
+
+#EXTINF:0 tvg-id="Histoire.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-88.png" group-name="Histoire",Histoire TV
+plugin://plugin.video.vavooto/?name=HISTOIRE
+#EXTINF:0 tvg-id="Histoire.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-88.png" group-name="Histoire",Histoire TV
+plugin://plugin.video.vavooto/?name=HISTOIRE+TV
+#EXTREM: http://190.2.138.13/histoire/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/histoire/index.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/histoire/mono.m3u8?token=test
+#EXTREM: https://focus.telerama.fr/250x250/60/0000/00/01/clear-88.png
+
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: Divertissement
+#EXTREM: ------------------------------------------------------------------------------------------------
+
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: Comédie
+#EXTREM: ------------------------------------------------------------------------------------------------
+
+#EXTINF:0 tvg-id="ComediePlus.fr" tvg-logo="https://i1.wp.com/www.planetecsat.com/wp-content/uploads/2015/08/Com%C3%A9die-1-1.jpg?fit=822%2C737&ssl=1&w=640" group-name="Comédie",Comédie+
+plugin://plugin.video.vavooto/?name=COMEDIE
+#EXTINF:0 tvg-id="ComediePlus.fr" tvg-logo="https://i1.wp.com/www.planetecsat.com/wp-content/uploads/2015/08/Com%C3%A9die-1-1.jpg?fit=822%2C737&ssl=1&w=640" group-name="Comédie",Comédie+
+plugin://plugin.video.vavooto/?name=COMEDIE%2B
+#EXTREM: plugin://plugin.video.tvone11/play/20/1160/play.pvr
+#EXTREM: https://i1.wp.com/www.planetecsat.com/wp-content/uploads/2015/08/Com%C3%A9die-1-1.jpg?fit=822%2C737&ssl=1&w=640
+#EXTREM: https://focus.telerama.fr/250x250/60/0000/00/01/clear-54.png
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1160/play.pvr
+
+#EXTREM: #EXTINF:0 tvg-id="ComedyCentral.fr" tvg-logo="https://www.creativefabrica.com/wp-content/uploads/2019/03/Monogram-MS-Logo-Design-by-Greenlines-Studios-580x386.jpg" group-name="Comédie",MS Comedy
+#EXTREM: plugin://plugin.video.vavooto/?name=MS+COMEDY
+
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: Séries et Films
+#EXTREM: ------------------------------------------------------------------------------------------------
+
+#EXTINF:0 tvg-id="Action.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-10.png" group-name="Films",Action
+plugin://plugin.video.vavooto/?name=CINE%2B+ACTION
+#EXTINF:0 tvg-id="Action.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-10.png" group-name="Films",Action
+plugin://plugin.video.vavooto/?name=ACTION
+#EXTREM: plugin://plugin.video.rbtv/play/1682/play.pvr
+#EXTREM: plugin://plugin.video.tvone11/play/20/1177/play.pvr
+#EXTREM: plugin://plugin.video.tvone111/play/1682/play.pvr
+#EXTREM: https://www.tv-direct.fr/assets/logo/chaines/action.jpg
+#EXTREM: http://190.2.138.13/action/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/action/index.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/action/mono.m3u8?token=test
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1177/play.pvr
+
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 1
+#EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+1
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 2
+#EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+2
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 3
+#EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+3
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 4
+#EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+4
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 5
+#EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+5
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 6
+#EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+6
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 7
+#EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+7
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 8
+#EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+8
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 9
+#EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+9
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 10
+#EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+10
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 11
+#EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+11
+
+#EXTREM: #EXTINF:0 tvg-id="AmazonPrime1.fr" tvg-logo="https://focus.telerama.fr/0000/00/02/clear-106.png" group-name="Films",Amazon Prime 1
+#EXTREM: plugin://plugin.video.vavooto/?name=AMAZON+PRIME+1
+#EXTREM: #EXTINF:0 tvg-id="AmazonPrime2.fr" tvg-logo="https://focus.telerama.fr/0000/00/02/clear-106.png" group-name="Films",Amazon Prime 2
+#EXTREM: plugin://plugin.video.vavooto/?name=AMAZON+PRIME+2
+#EXTREM: #EXTINF:0 tvg-id="AmazonPrime3.fr" tvg-logo="https://focus.telerama.fr/0000/00/02/clear-106.png" group-name="Films",Amazon Prime 3
+#EXTREM: plugin://plugin.video.vavooto/?name=AMAZON+PRIME+3
+#EXTREM: #EXTINF:0 tvg-id="AmazonPrime4.fr" tvg-logo="https://focus.telerama.fr/0000/00/02/clear-106.png" group-name="Films",Amazon Prime 4
+#EXTREM: plugin://plugin.video.vavooto/?name=AMAZON+PRIME+4
+#EXTREM: #EXTINF:0 tvg-id="AmazonPrime5.fr" tvg-logo="https://focus.telerama.fr/0000/00/02/clear-106.png" group-name="Films",Amazon Prime 5
+#EXTREM: plugin://plugin.video.vavooto/?name=AMAZON+PRIME+5
+#EXTREM: #EXTINF:0 tvg-id="AmazonPrime6.fr" tvg-logo="https://focus.telerama.fr/0000/00/02/clear-106.png" group-name="Films",Amazon Prime 6
+#EXTREM: plugin://plugin.video.vavooto/?name=AMAZON+PRIME+6
+#EXTREM: #EXTINF:0 tvg-id="AmazonPrime7.fr" tvg-logo="https://focus.telerama.fr/0000/00/02/clear-106.png" group-name="Films",Amazon Prime 7
+#EXTREM: plugin://plugin.video.vavooto/?name=AMAZON+PRIME+7
+#EXTREM: #EXTREM: https://download.logo.wine/logo/Amazon_Prime/Amazon_Prime-Logo.wine.png
+
+#EXTREM: #EXTINF:0 tvg-id="CanalPlusBoxOffice.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-3779.png" group-name="Films",Box Office 1
+#EXTREM: plugin://plugin.video.vavooto/?name=OCS+FRANCEBOX+1
+#EXTREM: #EXTINF:0 tvg-id="CanalPlusBoxOffice.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-3779.png" group-name="Films",Box Office 1
+#EXTREM: plugin://plugin.video.vavooto/?name=ORANGE+FRANCEBOX+1
+
+#EXTREM: #EXTINF:0 tvg-id="XXXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/SkyBoxOfficeNZ.PNG/240px-SkyBoxOfficeNZ.PNG" group-name="Films",Box Office 2
+#EXTREM: plugin://plugin.video.vavooto/?name=OCS+FRANCEBOX+2
+#EXTREM: #EXTINF:0 tvg-id="XXXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/SkyBoxOfficeNZ.PNG/240px-SkyBoxOfficeNZ.PNG" group-name="Films",Box Office 2
+#EXTREM: plugin://plugin.video.vavooto/?name=ORANGE+FRANCEBOX+2
+
+#EXTREM: #EXTINF:0 tvg-id="XXXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/SkyBoxOfficeNZ.PNG/240px-SkyBoxOfficeNZ.PNG" group-name="Films",Box Office 3
+#EXTREM: plugin://plugin.video.vavooto/?name=OCS+FRANCEBOX+3
+#EXTREM: #EXTINF:0 tvg-id="XXXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/SkyBoxOfficeNZ.PNG/240px-SkyBoxOfficeNZ.PNG" group-name="Films",Box Office 3
+#EXTREM: plugin://plugin.video.vavooto/?name=ORANGE+FRANCEBOX+3
+
+#EXTREM: #EXTINF:0 tvg-id="XXXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/SkyBoxOfficeNZ.PNG/240px-SkyBoxOfficeNZ.PNG" group-name="Films",Box Office 4
+#EXTREM: plugin://plugin.video.vavooto/?name=OCS+FRANCEBOX+4
+#EXTREM: #EXTINF:0 tvg-id="XXXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/SkyBoxOfficeNZ.PNG/240px-SkyBoxOfficeNZ.PNG" group-name="Films",Box Office 4
+#EXTREM: plugin://plugin.video.vavooto/?name=ORANGE+FRANCEBOX+4
+
+#EXTREM: #EXTINF:0 tvg-id="XXXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/SkyBoxOfficeNZ.PNG/240px-SkyBoxOfficeNZ.PNG" group-name="Films",Box Office 5
+#EXTREM: plugin://plugin.video.vavooto/?name=OCS+FRANCEBOX+5
+#EXTREM: #EXTINF:0 tvg-id="XXXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/SkyBoxOfficeNZ.PNG/240px-SkyBoxOfficeNZ.PNG" group-name="Films",Box Office 5
+#EXTREM: plugin://plugin.video.vavooto/?name=ORANGE+FRANCEBOX+5
+
+#EXTREM: #EXTINF:0 tvg-id="XXXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/SkyBoxOfficeNZ.PNG/240px-SkyBoxOfficeNZ.PNG" group-name="Films",Box Office 8
+#EXTREM: plugin://plugin.video.vavooto/?name=BOX+OFFICE+8
+#EXTREM: https://iili.io/mwfrAB.png
+
+#EXTREM: #EXTINF:0 tvg-id="" tvg-logo="https://image.winudf.com/v2/image/Y29tLnRoZWJvc3N0di5ib3NzdHZfc2NyZWVuc2hvdHNfM19hM2Y3ZmUyYg/screen-3.jpg?fakeurl=1&type=.webp" group-name="Films",BossTV Movies 1
+#EXTREM: plugin://plugin.video.vavooto/?name=BTV+MOVIES+1
+#EXTREM: #EXTINF:0 tvg-id="" tvg-logo="https://image.winudf.com/v2/image/Y29tLnRoZWJvc3N0di5ib3NzdHZfc2NyZWVuc2hvdHNfM19hM2Y3ZmUyYg/screen-3.jpg?fakeurl=1&type=.webp" group-name="Films",BossTV Movies 3
+#EXTREM: plugin://plugin.video.vavooto/?name=BTV+MOVIES+3
+#EXTREM: #EXTINF:0 tvg-id="" tvg-logo="https://image.winudf.com/v2/image/Y29tLnRoZWJvc3N0di5ib3NzdHZfc2NyZWVuc2hvdHNfM19hM2Y3ZmUyYg/screen-3.jpg?fakeurl=1&type=.webp" group-name="Films",BossTV Movies 7
+#EXTREM: plugin://plugin.video.vavooto/?name=BTV+MOVIES+7
+#EXTREM: #EXTINF:0 tvg-id="" tvg-logo="https://image.winudf.com/v2/image/Y29tLnRoZWJvc3N0di5ib3NzdHZfc2NyZWVuc2hvdHNfM19hM2Y3ZmUyYg/screen-3.jpg?fakeurl=1&type=.webp" group-name="Films",BossTV Movies 8
+#EXTREM: plugin://plugin.video.vavooto/?name=BTV+MOVIES+8
+#EXTREM: https://image.winudf.com/v2/image/Y29tLnRoZWJvc3N0di5ib3NzdHZfc2NyZWVuc2hvdHNfMF9hYmFmYjg2OA/screen-0.jpg?h=500&fakeurl=1&type=.jpg
+
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 2
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+2
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 3
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+3
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 4
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+4
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 5
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+5
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 6
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+6
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 7
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+7
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 8
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+8
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 9
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+9
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 10
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+10
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 11
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+11
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 12
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+12
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 13
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+13
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 14
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+14
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 15
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+15
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 16
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+16
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 17
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+17
+#EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 18
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+18
+
+#EXTINF:0 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-34.png" group-name="Généraliste",Canal+
+plugin://plugin.video.vavooto/?name=CANAL
+#EXTINF:0 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-34.png" group-name="Généraliste",Canal+
+plugin://plugin.video.vavooto/?name=CANAL%2B
+#EXTINF:0 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-34.png" group-name="Généraliste",Canal+
+plugin://plugin.video.vavooto/?name=CINE%2B+ISSON
+#EXTREM: https://dailymotionlive.akamaized.net/sec(3uHXKsK7_-J9YIYIiNPgOBfPWlkyo4f9dh9ulgXaIvGIevx3n7gfDKi-MzkXvZYw)/p/dm/3/x5gv6be/d/live-4.m3u8#cell=lcore
+#EXTREM: http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5gv6be
+#EXTREM: http://193.252.43.21:10200/play/a0b7
+#EXTREM: plugin://plugin.video.dailymotion_com/?url=x5gv6be&mode=playLiveVideo
+#EXTREM: http://flusonic-4.platinum-tv.com/canal+/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://www.callofliberty.fr/stream/CANALPLUS/index.m3u8
+#EXTREM: https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/x5gv6be
+#EXTREM: https://www.dailymotion.com/video/x5gv6be#tab_embed.m3u8
+#EXTREM: http://flusonic-4.platinum-tv.com/canal+/mono.m3u8?token=test
+#EXTREM: http://stream.tvtap.live:8081/live/fr-canaplus.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="CanalPlusDecale.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-30.png" group-name="Généraliste",Canal+ Décalé
+plugin://plugin.video.vavooto/?name=CANAL%2B+DECALE
+#EXTINF:0 tvg-id="CanalPlusDecale.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-30.png" group-name="Généraliste",Canal+ Décalé
+plugin://plugin.video.vavooto/?name=CANAL+DECALE
+#EXTREM: http://193.252.43.21:10200/play/a0b6
+
+#EXTINF:0 tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-33.png" group-name="Films",Canal+ Cinéma
+plugin://plugin.video.vavooto/?name=CANAL+PLUS+C+NEMA
+#EXTINF:0 tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-33.png" group-name="Films",Canal+ Cinéma
+plugin://plugin.video.vavooto/?name=CANAL%2B+CINEMA
+#EXTREM: plugin://plugin.video.tvone11/play/20/1138/play.pvr
+#EXTREM: https://focus.telerama.fr/250x250/60/0000/00/01/clear-33.png
+#EXTREM: http://flusonic-4.platinum-tv.com/canal+cinema/mono.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/canal+cinema/index.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/canal+cinema/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1138/play.pvr
+#EXTREM: http://193.252.43.21:10200/play/a0b3
+
+#EXTREM: #EXTINF:0 tvg-id="CanalPlusKIDS.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/80/C%2B_Kids.png" group-name="Jeunesse",Canal+ Kids
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+FAMILY
+#EXTREM: #EXTINF:0 tvg-id="CanalPlusKIDS.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/80/C%2B_Kids.png" group-name="Jeunesse",Canal+ Kids
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL%2B+FAMILY
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1136/play.pvr
+
+#EXTINF:0 tvg-id="CanalPlusSeries.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1563.png" group-name="Séries",Canal+ Séries
+plugin://plugin.video.vavooto/?name=CANAL%2B+SERIES
+#EXTREM: plugin://plugin.video.tvone11/play/20/1135/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1135/play.pvr
+#EXTREM: http://193.252.43.21:10200/play/a0b1
+
+#EXTINF:0 tvg-id="CinePlusClassic.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-287.png" group-name="Films",Ciné+ Classic
+plugin://plugin.video.vavooto/?name=CINE+CLASSIC
+#EXTINF:0 tvg-id="CinePlusClassic.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-287.png" group-name="Films",Ciné+ Classic
+plugin://plugin.video.vavooto/?name=CINA%2B+CLASSIC
+#EXTREM: plugin://plugin.video.vavooto/?name=CINE%2B+CLASSIC
+#EXTREM: plugin://plugin.video.tvone11/play/20/1145/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1145/play.pvr
+
+#EXTINF:0 tvg-id="CinePlusClub.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-285.png" group-name="Films",Ciné+ Club
+plugin://plugin.video.vavooto/?name=CINE+CLUB
+#EXTINF:0 tvg-id="CinePlusClub.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-285.png" group-name="Films",Ciné+ Club
+plugin://plugin.video.vavooto/?name=CINE%2B+CLUB
+
+#EXTINF:0 tvg-id="CinePlusEmotion.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-283.png" group-name="Films",Ciné+ Émotion
+plugin://plugin.video.vavooto/?name=CINE%2B+EMOTION
+
+#EXTINF:0 tvg-id="CinePlusFamiz.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-401.png" group-name="Films",Ciné+ Famiz
+plugin://plugin.video.vavooto/?name=CINE+FAMIZ
+#EXTINF:0 tvg-id="CinePlusFamiz.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-401.png" group-name="Films",Ciné+ Famiz
+plugin://plugin.video.vavooto/?name=CINE%2B+FAMIZ
+#EXTREM: http://193.252.43.21:10200/play/a0d5
+#EXTREM: plugin://plugin.video.tvone11/play/20/1144/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1144/play.pvr
+
+#EXTINF:0 tvg-id="CinePlusFrisson.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/320px-CinePlusFrisson.svg.png" group-name="Films",Ciné+ Frisson
+plugin://plugin.video.vavooto/?name=CINE+FRISSON
+#EXTINF:0 tvg-id="CinePlusFrisson.fr" tvg-logo="https://canalplus.azureedge.net/media/15e360a3-e879-4d4a-8560-e9e44b70d4fb.png" group-name="Films",Ciné+ Frisson
+plugin://plugin.video.vavooto/?name=CINE%2B+FRISSON
+
+#EXTINF:0 tvg-id="PolarPlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-2326.png" group-name="Films",Ciné Polar+
+plugin://plugin.video.vavooto/?name=CINE+POLAR%2B
+#EXTINF:0 tvg-id="PolarPlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-2326.png" group-name="Films",Ciné Polar+
+plugin://plugin.video.vavooto/?name=POLAR
+#EXTREM: http://193.252.43.21:10200/play/a0at
+#EXTREM: plugin://plugin.video.vavooto/?name=CIN+POLAR
+#EXTREM: plugin://plugin.video.vavooto/?name=POLAR%2B
+#EXTREM: plugin://plugin.video.tvone11/play/20/1141/play.pvr
+#EXTREM: https://focus.telerama.fr/250x250/60/0000/00/01/clear-2326.png
+#EXTREM: https://www.swiftstreamz.cc/SwiftStreamzv2.4/images/29373_cinepolor.jpg
+#EXTREM: http://190.2.138.13/polar+/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/polar+/index.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/polar+/mono.m3u8?token=test
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1141/play.pvr
+
+#EXTINF:0 tvg-id="CinePlusPremier.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-282.png" group-name="Films",Ciné+ Premier
+plugin://plugin.video.vavooto/?name=CINE+PREMIER
+#EXTINF:0 tvg-id="CinePlusPremier.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-282.png" group-name="Films",Ciné+ Premier
+plugin://plugin.video.vavooto/?name=CINE%2B+PREMIER
+#EXTREM: plugin://plugin.video.tvone11/play/20/1140/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1140/play.pvr
+#EXTREM: plugin://plugin.video.vavooto/?name=CINA%2B+PREMIER
+#EXTREM: http://193.252.43.21:10200/play/a0be
+
+
+#EXTINF:0 tvg-id="CStar.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-458.png" group-name="Musique",CStar
+plugin://plugin.video.vavooto/?name=CINE%2B+STAR
+#EXTREM: plugin://plugin.video.vavooto/?name=CSTAR
+#EXTREM: plugin://plugin.video.vavooto/?name=C+STAR
+#EXTREM: http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test|X-Forwarded-For=194.4.244.50
+#EXTREM: https://i.imgur.com/4fLTTUm.jpg
+#EXTREM: http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://s13.tntendirect.com/d17/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://s6.tntendirect.com/d17/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/x5gv5v0
+#EXTREM: http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5gv5v0
+#EXTREM: http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
+#EXTREM: plugin://plugin.video.dailymotion_com/?url=x5gv5v0&mode=playLiveVideo
+#EXTREM: https://www.dailymotion.com/video/x5gv5v0#tab_embed.m3u8
+
+#EXTINF:0 tvg-id="OCSPulp.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-732.png" group-name="Films",OCS pulp
+plugin://plugin.video.vavooto/?name=OCS+PULP
+#EXTINF:0 tvg-id="OCSPulp.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-732.png" group-name="Films",OCS pulp
+plugin://plugin.video.tvone112/play/45/155/play.pvr
+#EXTINF:0 tvg-id="OCSPulp.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-732.png" group-name="Films",OCS pulp
+plugin://plugin.video.tvone112/play/45/154/play.pvr
+#EXTREM: plugin://plugin.video.vavooto/?name=OCS+CITY
+#EXTREM: plugin://plugin.video.rbtv/play/1678/play.pvr
+#EXTREM: plugin://plugin.video.tvone112/play/45/154/play.pvr
+#EXTREM: plugin://plugin.video.tvone11/play/20/1153/play.pvr
+#EXTREM: plugin://plugin.video.tvone111/play/1678/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1153/play.pvr
+
+#EXTINF:0 tvg-id="OCSGeants.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-734.png" group-name="Films",OCS géants
+plugin://plugin.video.vavooto/?name=OCS+GEANTS
+#EXTINF:0 tvg-id="OCSGeants.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-734.png" group-name="Films",OCS géants
+plugin://plugin.video.vavooto/?name=OCS+GEANET
+#EXTINF:0 tvg-id="OCSGeants.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-734.png" group-name="Films",OCS géants
+plugin://plugin.video.tvone112/play/45/2687/play.pvr
+#EXTREM: plugin://plugin.video.vavooto/?name=OCS+GEANT
+
+#EXTINF:0 tvg-id="OCSMax.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-730.png" group-name="Films",OCS max
+plugin://plugin.video.vavooto/?name=OCS+MAX
+#EXTINF:0 tvg-id="OCSMax.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-730.png" group-name="Films",OCS max
+plugin://plugin.video.tvone112/play/45/156/play.pvr
+#EXTREM: plugin://plugin.video.rbtv/play/1676/play.pvr
+#EXTREM: http://193.252.43.21:10200/play/a0br
+#EXTREM: plugin://plugin.video.tvone11/play/20/1154/play.pvr
+#EXTREM: plugin://plugin.video.tvone111/play/1676/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1154/play.pvr
+
+#EXTINF:0 tvg-id="ParamountChannel.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1562.png" group-name="Films",Paramount Channel
+plugin://plugin.video.vavooto/?name=PARAMOUNT+CHANNEL
+
+#EXTINF:0 tvg-id="ParamountChannelDecale.fr" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/5f5f638c20919/uploads/media/Paramount_Channel.png" group-name="Films",Paramount Channel Décalé
+plugin://plugin.video.vavooto/?name=PARAMOUNT+CHANNEL+DECALE
+#EXTINF:0 tvg-id="ParamountChannelDecale.fr" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/5f5f638c20919/uploads/media/Paramount_Channel.png" group-name="Films",Paramount Channel Décalé
+plugin://plugin.video.vavooto/?name=PARAMOUNT+DECALE
+
+#EXTINF:0 tvg-id="serieclub.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Serie_club_hd.png/300px-Serie_club_hd.png" group-name="Séries",serieclub
+plugin://plugin.video.vavooto/?name=SERIE+CLUB
+#EXTREM: plugin://plugin.video.vavooto/?name=SERIES+CLUB
+
+#EXTINF:0 tvg-id="Super.Ecran.(SE).ca" tvg-logo="http://img.rapidstreams.io/1/data/images/62004_Super_Ecran_logo_150x150.png" group-name="Films",Super Écran 1
+plugin://plugin.video.tvone112/play/145/2555/play.pvr
+#EXTREM: Super.Ecran.HDTV.(SEHD).ca
+
+#EXTINF:0 tvg-id="Super.Ecran.2.(SE2).ca" tvg-logo="http://img.rapidstreams.io/1/data/images/62004_Super_Ecran_logo_150x150.png" group-name="Films",Super Écran 2
+plugin://plugin.video.tvone112/play/145/2555/play.pvr
+#EXTREM: Super.Ecran.2.HDTV.(SE2HD).ca
+
+#EXTINF:0 tvg-id="Super.Ecran.3.(SE3).ca" tvg-logo="http://img.rapidstreams.io/1/data/images/62004_Super_Ecran_logo_150x150.png" group-name="Films",Super Écran 3
+plugin://plugin.video.tvone112/play/145/2555/play.pvr
+
+#EXTINF:0 tvg-id="Super.Ecran.4.(SE4).ca" tvg-logo="http://img.rapidstreams.io/1/data/images/62004_Super_Ecran_logo_150x150.png" group-name="Films",Super Écran 4
+plugin://plugin.video.tvone112/play/145/2555/play.pvr
+
+#EXTINF:0 tvg-id="Syfy.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-479.png" group-name="Séries",Syfy
+plugin://plugin.video.vavooto/?name=SYFY
+#EXTREM: plugin://plugin.video.tvone11/play/20/1149/play.pvr
+#EXTREM: http://flusonic-4.platinum-tv.com/Syfy/mono.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/Syfy/index.m3u8?token=test
+#EXTREM: http://190.2.138.13/Syfy/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1149/play.pvr
+
+#EXTINF:0 tvg-id="TCM.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-185.png" group-name="Films",TCM Cinéma
+plugin://plugin.video.vavooto/?name=TCM+CINEMA
+#EXTREM: plugin://plugin.video.rbtv/play/1673/play.pvr
+#EXTREM: plugin://plugin.video.tvone111/play/1673/play.pvr
+
+#EXTINF:0 tvg-id="temoin.ca" tvg-logo="https://aliant.bell.ca/Styles/tv/channels/logos/TEMOIN_logo_Noir_Plein_RGB.jpg" group-name="Séries",Témoin
+https://temoindirect.akamaized.net/no/V-MOICIE/V-MOICIE.isml/playlist.m3u8
+#EXTINF:0 tvg-id="temoin.ca" tvg-logo="https://aliant.bell.ca/Styles/tv/channels/logos/TEMOIN_logo_Noir_Plein_RGB.jpg" group-name="Séries",Témoin
+https://temoindirect.akamaized.net/no/V-MOICIE/V-MOICIE.isml/V-MOICIE.m3u8
+#EXTINF:0 tvg-id="temoin.ca" tvg-logo="https://aliant.bell.ca/Styles/tv/channels/logos/TEMOIN_logo_Noir_Plein_RGB.jpg" group-name="Séries",Témoin
+https://temoindirect.akamaized.net/no/V-MOICIE/V-MOICIE.isml/V-MOICIE-audio_track_0_0_fre=128000-video_track=1850000.m3u8?__nn__=5529128749001
+
+#EXTINF:0 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1404.png" group-name="Séries",TF1 Séries Films
+plugin://plugin.video.vavooto/?name=TF+1+SERIES+FILMS
+#EXTINF:0 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1404.png" group-name="Séries",TF1 Séries Films
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1sf.m3u8
+#EXTREM: plugin://plugin.video.vavooto/?name=TFI+SERIES+AND+FILM
+#EXTREM: plugin://plugin.video.vavooto/?name=HD1
+#EXTREM: https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
+#EXTREM: https://s13.tntendirect.com/hd1/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://190.2.138.13/HD1/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/HD1/index.m3u8?token=test
+#EXTREM: https://i.ibb.co/41Dt9TY/TF1Serie.png
+#EXTREM: https://s6.tntendirect.com/hd1/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://flusonic-1.platinum-tv.com/HD1/mono.m3u8?token=test
+#EXTREM: https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8|X-Forwarded-For=194.4.244.50
+
+#EXTINF:0 tvg-id="WarnerTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WarnerTV_France_2021.svg/130px-WarnerTV_France_2021.svg.png" group-name="Films",Warner TV
+plugin://plugin.video.vavooto/?name=WARNER
+#EXTINF:0 tvg-id="WarnerTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WarnerTV_France_2021.svg/130px-WarnerTV_France_2021.svg.png" group-name="Films",Warner TV
+plugin://plugin.video.vavooto/?name=WARNER+TV
+#EXTREM: http://193.252.43.21:10200/play/a0au
+
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: Généraliste
+#EXTREM: ------------------------------------------------------------------------------------------------
+
+#EXTINF:0 tvg-id="13eRue.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/13EME_RUE_2018.png" group-name="Généraliste",13ème Rue
+plugin://plugin.video.vavooto/?name=13+EME+RUE
+#EXTINF:0 tvg-id="13eRue.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/13EME_RUE_2018.png" group-name="Généraliste",13ème Rue
+plugin://plugin.video.vavooto/?name=13EME+RUE
+#EXTREM: https://pbs.twimg.com/profile_images/837739597748649986/V8aYLf5R_400x400.jpg
+
+#EXTINF:0 tvg-id="6ter.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1403.png" group-name="Généraliste",6ter
+plugin://plugin.video.vavooto/?name=6TER
+#EXTINF:0 tvg-id="6ter.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1403.png" group-name="Généraliste",6ter
+plugin://plugin.video.vavooto/?name=6+TER
+#EXTREM: http://stream.tvtap.live:8081/live/fr-6ter.stream/playlist.m3u8
+#EXTREM: https://static1.ozap.com/articles/5/47/42/05/@/4488475-logo-6ter-article_media_image-1.jpg
+#EXTREM: http://31.220.41.86:8081/live/fr-6ter.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-5.png" group-name="Généraliste",AB1
+plugin://plugin.video.vavooto/?name=AB+1
+#EXTINF:0 tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-5.png" group-name="Généraliste",AB1
+plugin://plugin.video.vavooto/?name=AB1
+#EXTREM: http://flusonic-4.platinum-tv.com/AB1/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://190.2.138.13/AB1/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: https://i.imgur.com/alYq7vX.png
+
+#EXTINF:0 tvg-id="AB3.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-254.png" group-name="Généraliste",AB3
+plugin://plugin.video.vavooto/?name=AB+3
+#EXTINF:0 tvg-id="AB3.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-254.png" group-name="Généraliste",AB3
+plugin://plugin.video.vavooto/?name=AB3
+#EXTREM: http://flusonic-4.platinum-tv.com/AB3/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: https://static.wikia.nocookie.net/logopedia/images/7/73/AB3_2004.jpg
+#EXTREM: http://190.2.138.13/AB3/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:0 tvg-id="Arte.fr" tvg-logo="https://focus.telerama.fr/0000/00/02/clear-11.png" group-name="Généraliste",arte
+plugin://plugin.video.vavooto/?name=ARTE
+#EXTINF:0 tvg-id="Arte.fr" tvg-logo="https://focus.telerama.fr/0000/00/02/clear-11.png" group-name="Généraliste",arte
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1729?protocol=hls
+#EXTREM: http://www.callofliberty.fr/stream/ARTE/master.m3u8
+#EXTREM: plugin://plugin.acme.tvnsports/?mode=play&amp;category=live_tv&amp;url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Farte-francais&amp;title=ARTE+Fran%C3%A7ais&amp;img=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F1729%2Fbig_logo.png&amp;site=filmon&amp;play=True
+#EXTREM: https://s13.tntendirect.com/arte/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://s6.tntendirect.com/arte/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTREM: https://artesimulcast.akamaized.net/hls/live/2031003-b/artelive_fr/master_v720.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1729?protocol=hl
+#EXTREM: https://www.filmon.com/vr-streams/1729.high/playlist.m3u8
+#EXTREM: https://i.imgur.com/zthzjPs.png
+#EXTREM: http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8?|X-Forwarded-For=217.70.184.38
+#EXTREM: http://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_1_av-p.m3u8?sd=10&rebase=on|X-Forwarded-For=217.70.184.38
+#EXTREM: http://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_1_av-b.m3u8?sd=10&rebase=on|X-Forwarded-For=217.70.184.38
+#EXTREM: http://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_2_av-b.m3u8?sd=10&rebase=on|X-Forwarded-For=217.70.184.38
+#EXTREM: http://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_2_av-p.m3u8?sd=10&rebase=on|X-Forwarded-For=217.70.184.38
+#EXTREM: http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8
+#EXTREM: http://stream.tvtap.net:8081/live/fr-arte.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-445.png" group-name="Généraliste",C8
+plugin://plugin.video.vavooto/?name=C8
+#EXTINF:0 tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-445.png" group-name="Généraliste",C8
+https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/C8.m3u8
+#EXTREM: plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
+#EXTREM: plugin://plugin.video.vavooto/?name=D8
+#EXTREM: https://s13.tntendirect.com/d8/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://s6.tntendirect.com/d8/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/x5gv5rr
+#EXTREM: https://www.dailymotion.com/video/x5gv5rr#tab_embed.m3u8
+#EXTREM: http://190.2.138.13/D8/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://stream.tvtap.live:8081/live/fr-c8.stream/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5gv5rr
+#EXTREM: http://flusonic-4.platinum-tv.com/D8/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/mycanal/get_live_url/?_pickle_=80049545000000000000007d94288c075f7469746c655f948c024338948c08786d6c74765f6964948c14433434352e6170692e74656c6572616d612e6672948c076974656d5f6964948c02633894752e
+#EXTREM: https://i.ibb.co/cQbcrGZ/c8.png
+
+#EXTINF:0 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1399.png" group-name="Généraliste",Chérie 25
+plugin://plugin.video.vavooto/?name=CHERIE+25
+#EXTINF:0 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1399.png" group-name="Généraliste",Chérie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
+#EXTREM: https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/master.m3u8?|X-Forwarded-For=217.70.184.38
+#EXTREM: https://s13.tntendirect.com/cherie25/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://s6.tntendirect.com/cherie25/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+
+#EXTINF:0 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-4.png" group-name="Généraliste",France 2
+plugin://plugin.video.vavooto/?name=FRANCE+2
+#EXTINF:0 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-4.png" group-name="Généraliste",France 2
+http://livetv.ktv.zone/104/play.m3u8
+#EXTREM: plugin://plugin.video.vavooto/?name=FRANCE+02
+#EXTREM: plugin://plugin.video.tvone11/play/20/1123/play.pvr
+#EXTREM: plugin://plugin.video.tvone111/play/1666/play.pvr
+#EXTREM: https://s13.tntendirect.com/france2/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://s6.tntendirect.com/france2/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1717?protocol=hls
+#EXTREM: https://focus.telerama.fr/250x250/60/0000/00/01/clear-4.png
+#EXTREM: https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1717?protocol=hls
+#EXTREM: https://i.imgur.com/zg1VRRE.png
+#EXTREM: http://95.211.153.98/live/france2/chunks.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+#EXTREM: http://flusonic-4.platinum-tv.com/france2/index.m3u8?token=test|X-Forwarded-For=194.4.244.50
+#EXTREM: http://95.211.153.98/live/france2/chunks.m3u8
+#EXTREM: http://190.2.138.13/france2/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/france2/index.m3u8?token=test
+#EXTREM: http://190.2.138.13/france2/tracks-v1a1/mono.m3u8?token=test|X-Forwarded-For=194.4.244.50
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1123/play.pvr
+
+#EXTINF:0 tvg-id="France3.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-80.png" group-name="Généraliste",France 3
+plugin://plugin.video.vavooto/?name=FRANCE+3
+#EXTINF:0 tvg-id="France3.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-80.png" group-name="Généraliste",France 3
+http://livetv.ktv.zone/105/play.m3u8
+#EXTREM: plugin://plugin.video.rbtv/play/1667/play.pvr
+#EXTREM: plugin://plugin.video.tvone11/play/20/1124/play.pvr
+#EXTREM: plugin://plugin.video.tvone111/play/1667/play.pvr
+#EXTREM: https://s13.tntendirect.com/france3/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://s6.tntendirect.com/france3/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://edge-1192-ch-gv.filmon.com/live/3890.high.stream/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://focus.telerama.fr/250x250/60/0000/00/01/clear-80.png
+#EXTREM: http://edge9.iptvnetwork.net/live/france3/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://95.211.153.98/live/france3/chunks.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://antoinegassion.com/2015/wp-content/uploads/2020/10/Logo-FR-3.jpg
+#EXTREM: http://190.2.138.13/france3/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/france3/index.m3u8?token=test
+#EXTREM: http://190.2.138.13/france3/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://edge9.iptvnetwork.net/live/france3/chunks.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://95.211.153.98/live/france3/chunks.m3u8
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1124/play.pvr
+
+#EXTREM: #EXTINF:0 tvg-id="France3Alpes.fr" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/france-3.jpg" group-name="Généraliste",France 3 Alpes
+#EXTREM: https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3890?protocol=hls
+#EXTREM: https://www.filmon.com/vr-streams/3893.high/playlist.m3u8
+
+#EXTREM: #EXTINF:0 tvg-id="France3RhoneAlpes.fr" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/france-3.jpg" group-name="Généraliste",France 3 Rhône-Alpes
+#EXTREM: https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3893?protocol=hls
+#EXTREM: plugin://plugin.acme.tvnsports/?mode=play&amp;category=live_tv&amp;url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Ffrance-3-rhone-alpes&amp;title=France+3+Rh%C3%B4ne-Alpes&amp;img=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F3890%2Fbig_logo.png&amp;site=filmon&amp;play=True
+#EXTREM: https://www.filmon.com/vr-streams/3890.high/playlist.m3u8
+#EXTREM: http://antoinegassion.com/2015/wp-content/uploads/2020/10/Logo-FR-3.jpg
+
+#EXTINF:0 tvg-id="France4.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-78.png" group-name="Généraliste",France 4
+plugin://plugin.video.vavooto/?name=FRANCE+4
+#EXTREM: plugin://plugin.video.tvone11/play/20/1125/play.pvr
+#EXTREM: plugin://plugin.video.tvone111/play/1668/play.pvr
+#EXTREM: plugin://plugin.video.tvone11/play/20/1125/play.pvr
+#EXTREM: https://s13.tntendirect.com/france4/live/playlist.m3u8
+#EXTREM: https://s6.tntendirect.com/france4/live/playlist.m3u8
+#EXTREM: https://focus.telerama.fr/250x250/60/0000/00/01/clear-78.png
+#EXTREM: https://i.imgur.com/FLaq3fo.png
+#EXTREM: http://flusonic-4.platinum-tv.com/france4/index.m3u8?token=test|X-Forwarded-For=194.4.244.50
+#EXTREM: http://190.2.138.13/france4/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/france4/index.m3u8?token=test
+#EXTREM: http://edge9.iptvnetwork.net/live/france4/chunks.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://95.211.153.98/live/france4/chunks.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://190.2.138.13/france4/tracks-v1a1/mono.m3u8?token=test|X-Forwarded-For=194.4.244.50
+#EXTREM: http://edge9.iptvnetwork.net/live/france4/chunks.m3u8
+#EXTREM: http://95.211.153.98/live/france4/chunks.m3u8
+#EXTREM: http://edge9.iptvnetwork.net/live/france4/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1125/play.pvr
+
+#EXTINF:0 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-47.png" group-name="Généraliste",France 5
+plugin://plugin.video.vavooto/?name=FRANCE+5
+#EXTREM: plugin://plugin.video.tvone11/play/20/1126/play.pvr
+#EXTREM: plugin://plugin.video.tvone111/play/1669/play.pvr
+#EXTREM: https://focus.telerama.fr/250x250/60/0000/00/01/clear-47.png
+#EXTREM: https://i.imgur.com/eRQAsS5.png
+#EXTREM: http://edge9.iptvnetwork.net/live/france5/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://flusonic-4.platinum-tv.com/france5/index.m3u8?token=test|X-Forwarded-For=194.4.244.50
+#EXTREM: http://edge9.iptvnetwork.net/live/france5/chunks.m3u8
+#EXTREM: http://95.211.153.98/live/france5/chunks.m3u8
+#EXTREM: http://190.2.138.13/france5/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/france5/index.m3u8?token=test
+#EXTREM: http://edge9.iptvnetwork.net/live/france5/chunks.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://95.211.153.98/live/france5/chunks.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://190.2.138.13/france5/tracks-v1a1/mono.m3u8?token=test|X-Forwarded-For=194.4.244.50
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1126/play.pvr
+
+#EXTINF:0 tvg-id="LaUne.be" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-164.png" group-name="Généraliste",La Une
+plugin://plugin.video.vavooto/?name=LA+UNE
+#EXTREM: plugin://plugin.video.vavooto/?name=LA+UNE+BE
+#EXTREM: plugin://plugin.video.tvone11/play/31/1451/play.pvr
+#EXTREM: plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?_pickle_=8004954c000000000000007d94288c075f7469746c655f948c064c6120556e65948c08786d6c74765f6964948c14433136342e6170692e74656c6572616d612e6672948c076974656d5f6964948c056c61756e6594752e
+#EXTREM: https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png
+#EXTREM: http://www.callofliberty.fr/stream/laune/04.m3u8
+#EXTREM: plugin://plugin.video.swiftstreams/play/31/1451/play.pvr
+
+#EXTINF:0 tvg-id="LaTrois.be" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-892.png" group-name="Généraliste",La Trois
+plugin://plugin.video.vavooto/?name=LA+TROIS
+#EXTREM: plugin://plugin.video.tvone11/play/31/1449/play.pvr
+#EXTREM: plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?_pickle_=80049550000000000000007d94288c075f7469746c655f948c084c612054726f6973948c08786d6c74765f6964948c14433839322e6170692e74656c6572616d612e6672948c076974656d5f6964948c076c6174726f697394752e
+#EXTREM: https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png
+#EXTREM: http://www.callofliberty.fr/stream/latrois/04.m3u8
+#EXTREM: plugin://plugin.video.swiftstreams/play/31/1449/play.pvr
+
+#EXTINF:0 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-118.png" group-name="Généraliste",M6
+plugin://plugin.video.vavooto/?name=M6
+#EXTINF:0 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-118.png" group-name="Généraliste",M6
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/m6.m3u8
+#EXTINF:0 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-118.png" group-name="Généraliste",M6
+https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_2.m3u8
+#EXTREM: https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTREM: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/317px-M6_logo.svg.png
+#EXTREM: plugin://plugin.video.tvone11/play/20/1130/play.pvr
+#EXTREM: http://gratuittv.free.fr/Files/m6/live/playlist.m3u8|X-Forwarded-For=163.172.70.225
+#EXTREM: https://s13.tntendirect.com/m6/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://s6.tntendirect.com/m6/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://shls-m6-france-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
+#EXTREM: https://shls-m6-france-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index_1.m3u8
+#EXTREM: https://www.tv-direct.fr/assets/logo/chaines/m6.jpg
+#EXTREM: http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test
+#EXTREM: http://stream.tvtap.live:8081/live/fr-m6.stream/playlist.m3u8
+#EXTREM: http://flusonic-4.platinum-tv.com/M6/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://190.2.138.13/M6/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1130/play.pvr
+
+#EXTINF:0 tvg-id="M6International.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/M6_International_logo_2020.png" group-name="Généraliste",M6 International
+plugin://plugin.video.vavooto/?name=M6+INTERNATIONAL
+#EXTINF:0 tvg-id="M6International.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/M6_International_logo_2020.png" group-name="Généraliste",M6 International
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8|X-Forwarded-For=194.4.244.50
+#EXTINF:0 tvg-id="M6International.fr" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-name="Généraliste",M6 International
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
+#EXTREM: https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: plugin://plugin.video.tvone111/play/1672/play.pvr
+
+#EXTINF:0 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-444.png" group-name="Généraliste",NRJ 12
+plugin://plugin.video.vavooto/?name=NRJ+12
+#EXTINF:0 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-444.png" group-name="Généraliste",NRJ 12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTREM: plugin://plugin.video.vavooto/?name=NRJ12
+#EXTREM: https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8
+#EXTREM: https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-b.m3u8?|X-Forwarded-For=217.70.184.38
+#EXTREM: https://i.imgur.com/Zdh9bTw.png
+#EXTREM: https://s13.tntendirect.com/nrj12/live/playlist.m3u8
+#EXTREM: https://s6.tntendirect.com/nrj12/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="Numero23.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1402.png" group-name="Généraliste",RMC Story
+plugin://plugin.video.vavooto/?name=NUMERO+23
+#EXTINF:0 tvg-id="Numero23.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1402.png" group-name="Généraliste",RMC Story
+plugin://plugin.video.vavooto/?name=RMC+STORY
+#EXTINF:0 tvg-id="Numero23.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1402.png" group-name="Généraliste",RMC Story
+https://i.mjh.nz/SamsungTVPlus/FRBD41000097I.m3u8
+#EXTINF:0 tvg-id="Numero23.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1402.png" group-name="Généraliste",RMC Story
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+
+#EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac1-neg.jpg" group-name="Généraliste",carac1
+http://edge17.vedge.infomaniak.com/livecast/ik:rougetv/chunklist.m3u8
+#EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac1-neg.jpg" group-name="Généraliste",carac1
+https://edge14.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac1-neg.jpg" group-name="Généraliste",carac1
+https://rougetv.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+#EXTREM: https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/CARAC1_logo_2023.svg/750px-CARAC1_logo_2023.svg.png
+#EXTREM: plugin://plugin.video.vavooto/?name=ROUGE+TV
+#EXTREM: https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
+#EXTREM: https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTREM: https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTREM: https://edge20.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+#EXTREM: https://livevideo.infomaniak.com/streaming/livecast/rougetv/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://edge1.vedge.infomaniak.com/livecast/ik:rougetv/playlist.m3u8
+#EXTREM: https://edge1.vedge.infomaniak.com/livecast/ik:rougetv/chunklist_w1268346676.m3u8
+#EXTREM: https://edge6.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTREM: https://edge6.vedge.infomaniak.com/livecast/rougetv/chunklist_w1363747311.m3u8
+#EXTREM: https://edge8.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+#EXTREM: https://edge8.vedge.infomaniak.com/livecast/rougetv.stream/chunklist_w256155805.m3u8
+#EXTREM: https://livevideo.infomaniak.com/streaming/livecast/rougetv/playlist.m3u8
+#EXTREM: https://edge10.vedge.infomaniak.com/livecast/rougetv.stream/chunklist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://rougetv.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+#EXTREM: http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTREM: https://edge7.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://edge17.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+#EXTREM: https://edge15.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+#EXTREM: https://edge12.vedge.infomaniak.com/livecast/rougetv.stream/chunklist_w1920668982.m3u8
+#EXTREM: http://gratuittv.free.fr/Files/rougetv/live/playlist.m3u8
+#EXTREM: https://edge.vedge.infomaniak.com/livecast/ik:event/.m3u8
+#EXTREM: https://www.bejart.ch/wp-content/uploads//carac-400x304.png
+#EXTREM: http://edge17.vedge.infomaniak.com/livecast/ik:rougetv/chunklist_w187773015.m3u8
+
+#EXTREM: #EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac2-neg.jpg" group-name="Généraliste",Carac2
+#EXTREM: https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8
+#EXTREM: http://edge18.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w1196062371_b3000000.m3u8
+#EXTREM: http://edge18.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
+
+#EXTREM: #EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac3-neg.jpg" group-name="Généraliste",Carac3
+#EXTREM: https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8
+#EXTREM: http://edge16.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1745452948_b3000000.m3u8
+#EXTREM: http://edge16.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist.m3u8
+#EXTREM: https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+
+#EXTREM: #EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac4-neg.jpg" group-name="Généraliste",Carac4
+#EXTREM: https://edge.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8
+
+#EXTREM: #EXTINF:0 tvg-id="RTSUn.ch" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7072.1566905659.png" group-name="Généraliste",RTS Un
+#EXTREM: http://62.2.85.68:39981/play/a004
+#EXTREM: http://185.236.229.31:9981/play/a00j
+
+#EXTINF:0 tvg-id="RTSDeux.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1200px-RTS_2_logo_2019.svg.png" group-name="Généraliste",RTS Deux
+plugin://plugin.video.vavooto/?name=RTS+DEUX
+#EXTINF:0 tvg-id="RTSDeux.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1200px-RTS_2_logo_2019.svg.png" group-name="Généraliste",RTS Deux
+plugin://plugin.video.vavooto/?name=RTS+2
+#EXTREM: http://185.236.229.31:9981/play/a00k
+
+#EXTINF:0 tvg-id="RTL9.fr" tvg-logo="https://www.rtl9.com/upload/media/rtl9-600af3b43b005.png" group-name="Généraliste",RTL9
+plugin://plugin.video.swiftstreams/play/20/1175/play.pvr
+#EXTINF:0 tvg-id="RTL9.fr" tvg-logo="https://www.rtl9.com/upload/media/rtl9-600af3b43b005.png" group-name="Généraliste",RTL9
+plugin://plugin.video.tvone112/play/45/157/play.pvr
+#EXTREM: plugin://plugin.video.rbtv/play/1680/play.pvr
+#EXTREM: plugin://plugin.video.tvone111/play/1680/play.pvr
+#EXTREM: plugin://plugin.video.tvone11/play/20/1175/play.pvr
+
+#EXTINF:0 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-192.png" group-name="Généraliste",TF1
+plugin://plugin.video.vavooto/?name=TF1
+#EXTINF:0 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-192.png" group-name="Généraliste",TF1
+https://live-tf1-hls-dai.cdn-1.diff.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+#EXTINF:0 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-192.png" group-name="Généraliste",TF1
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
+#EXTREM: plugin://plugin.video.vavooto/?name=TF+1
+#EXTREM: plugin://plugin.video.vavooto/?name=TFI
+#EXTREM: https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+#EXTREM: http://193.252.43.21:10200/play/a06a
+#EXTREM: plugin://plugin.video.tvone11/play/20/1129/play.pvr
+#EXTREM: plugin://plugin.video.tvone111/play/1671/play.pvr
+#EXTREM: https://s13.tntendirect.com/tf1/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://s6.tntendirect.com/tf1/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://i.ibb.co/M8GjLmy/TF1.png
+#EXTREM: http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
+#EXTREM: http://edge.iptvnetwork.net/live/TF1/playlist.m3u8
+#EXTREM: http://stream.tvtap.net:8081/live/fr-tf1.stream/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://stream.tvtap.live:8081/live/fr-tf1.stream/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://190.2.138.13/TF1/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://stream.suboroiptv.tv:80/TF1/playlist.m3u8
+#EXTREM: http://edge9.iptvnetwork.net/live/TF1/playlist.m3u8
+#EXTREM: http://stream.suboroiptv.tv:80/TF1/playlist.m3u8
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1129/play.pvr
+
+#EXTINF:0 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-195.png" group-name="Généraliste",TMC
+plugin://plugin.video.vavooto/?name=TMC
+#EXTINF:0 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-195.png" group-name="Généraliste",TMC
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tmc.m3u8
+#EXTREM: https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
+#EXTREM: http://stream.suboroiptv.tv/TMC/playlist.m3u8
+#EXTREM: https://s13.tntendirect.com/tmc/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://flusonic-4.platinum-tv.com/TMC/index.m3u8?token=test
+#EXTREM: http://190.2.138.13/TMC/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://s6.tntendirect.com/tmc/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://flusonic-1.platinum-tv.com/TMC/mono.m3u8?token=test
+
+#EXTINF:0 tvg-id="NT1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-446.png" group-name="Généraliste",TFX
+plugin://plugin.video.vavooto/?name=TFX
+#EXTINF:0 tvg-id="NT1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-446.png" group-name="Généraliste",TFX
+plugin://plugin.video.vavooto/?name=NT1
+#EXTINF:0 tvg-id="NT1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-446.png" group-name="Généraliste",TFX
+plugin://plugin.video.vavooto/?name=CINE%2B+FX
+#EXTINF:0 tvg-id="NT1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-446.png" group-name="Généraliste",TFX
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tfx.m3u8
+#EXTREM: plugin://plugin.video.tvone11/play/20/1143/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1143/play.pvr
+#EXTREM: https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
+#EXTREM: https://s13.tntendirect.com/nt1/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://flusonic-4.platinum-tv.com/NT1/index.m3u8?token=test
+#EXTREM: http://190.2.138.13/NT1/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: https://i.imgur.com/LLbpKZh.png
+#EXTREM: https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://s6.tntendirect.com/nt1/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://flusonic-1.platinum-tv.com/NT1/mono.m3u8?token=test
+
+#EXTINF:0 tvg-id="TvBreizh.fr" tvg-logo="https://images.ladepeche.fr/api/v1/images/view/5d247b328fe56f73481f64a7/full/image.jpg" group-name="Généraliste",TV Breizh
+plugin://plugin.video.vavooto/?name=TV+BREIZH
+
+#EXTINF:0 tvg-id="W9.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-119.png" group-name="Généraliste",W9
+plugin://plugin.video.vavooto/?name=W9
+#EXTREM: plugin://plugin.video.tvone11/play/20/1174/play.pvr
+#EXTREM: https://s13.tntendirect.com/w9/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1174/play.pvr
+#EXTREM: https://www.tv-direct.fr/assets/logo/chaines/w9.jpg
+#EXTREM: https://focus.telerama.fr/250x250/60/0000/00/01/clear-119.png
+#EXTREM: http://flusonic-4.platinum-tv.com/W9/mono.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/W9/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://190.2.138.13/W9/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: https://s6.tntendirect.com/w9/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://31.220.41.86:8081/live/fr-w9.stream/playlist.m3u8
+#EXTREM: http://flusonic-1.platinum-tv.com/W9/mono.m3u8?token=test
+
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: Sports
+#EXTREM: ------------------------------------------------------------------------------------------------
+
+#EXTINF:0 tvg-id="beINSPORTS1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1290.png" group-name="Sports",beIN Sports 1
+plugin://plugin.video.tvone112/play/38/1669/play.pvr
+
+#EXTINF:0 tvg-id="beINSPORTS1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1290.png" group-name="Sports",beIN Sports 1
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+1
+#EXTINF:0 tvg-id="beINSPORTS1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1290.png" group-name="Sports",beIN Sports 1
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+1+BACKUP
+#EXTREM: plugin://script.module.7of9-live/play/49/play.pvr
+#EXTREM: plugin://plugin.acme.livenet/play/593/play.pvr
+#EXTREM: plugin://plugin.video.tvone11/play/8/763/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/8/763/play.pvr
+#EXTREM: https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png
+#EXTREM: http://31.220.41.88:8081/live/fr-beinsport1.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="beINSPORTS2.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1304.png" group-name="Sports",beIN Sports 2
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+2
+#EXTINF:0 tvg-id="beINSPORTS2.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1304.png" group-name="Sports",beIN Sports 2
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+2+BACKUP
+#EXTREM: plugin://plugin.video.tvone11/play/8/764/play.pvr
+#EXTREM: plugin://plugin.acme.livenet/play/594/play.pvr
+#EXTREM: plugin://script.module.7of9-live/play/51/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/8/764/play.pvr
+#EXTREM: https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png
+#EXTREM: http://31.220.41.88:8081/live/fr-beinsport2.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="beINSPORTS3.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1335.png" group-name="Sports",beIN Sports 3
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+3
+#EXTINF:0 tvg-id="beINSPORTS3.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1335.png" group-name="Sports",beIN Sports 3
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+3+BACKUP
+#EXTREM: plugin://plugin.video.tvone11/play/8/765/play.pvr
+#EXTREM: plugin://plugin.acme.livenet/play/595/play.pvr
+#EXTREM: plugin://script.module.7of9-live/play/52/play.pvr
+
+#EXTREM: #EXTINF:0 tvg-id="beINSPORTSMAX4.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1336.png" group-name="Sports",beIN Sports Max 4
+#EXTREM: plugin://plugin.video.vavooto/?name=BEIN+SPORTS+MAX+4
+#EXTREM: plugin://script.module.7of9-live/play/451/play.pvr
+#EXTREM: https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png
+#EXTREM: http://31.220.41.88:8081/live/fr-beinmax4.stream/playlist.m3u8
+
+#EXTREM: #EXTINF:0 tvg-id="beINSPORTSMAX5.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1337.png" group-name="Sports",beIN Sports Max 5
+#EXTREM: plugin://plugin.video.vavooto/?name=BEIN+SPORTS+MAX+5
+#EXTREM: plugin://script.module.7of9-live/play/452/play.pvr
+#EXTREM: https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png
+#EXTREM: http://31.220.41.88:8081/live/fr-beinmax5.stream/playlist.m3u8
+
+#EXTREM: #EXTINF:0 tvg-id="beINSPORTSMAX6.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1338.png" group-name="Sports",beIN Sports Max 6
+#EXTREM: plugin://plugin.video.vavooto/?name=BEIN+SPORTS+MAX+6
+#EXTREM: plugin://script.module.7of9-live/play/453/play.pvr
+#EXTREM: https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png
+#EXTREM: http://31.220.41.88:8081/live/fr-beinmax6.stream/playlist.m3u8
+
+#EXTREM: #EXTINF:0 tvg-id="beINSPORTSMAX7.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1339.png" group-name="Sports",beIN Sports Max 7
+#EXTREM: plugin://plugin.video.vavooto/?name=BEIN+SPORTS+MAX+7
+#EXTREM: plugin://script.module.7of9-live/play/454/play.pvr
+#EXTREM: https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png
+#EXTREM: http://31.220.41.88:8081/live/fr-beinmax7.stream/playlist.m3u8
+
+#EXTREM: #EXTINF:0 tvg-id="beINSPORTSMAX8.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1340.png" group-name="Sports",beIN Sports Max 8
+#EXTREM: plugin://plugin.video.vavooto/?name=BEIN+SPORTS+MAX+8
+
+#EXTREM: #EXTINF:0 tvg-id="beINSPORTSMAX9.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1341.png" group-name="Sports",beIN Sports Max 9
+#EXTREM: plugin://plugin.video.vavooto/?name=BEIN+SPORTS+MAX+9
+
+#EXTREM: #EXTINF:0 tvg-id="beINSPORTSMAX10.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1342.png" group-name="Sports",beIN Sports Max 10
+#EXTREM: plugin://plugin.video.vavooto/?name=BEIN+SPORTS+MAX+10
+
+#EXTINF:0 tvg-id="beINSportsUSA.us" tvg-logo="https://i1.sndcdn.com/avatars-000209668148-ir7hx8-t240x240.jpg" group-name="Sports",beIN Sports USA
+plugin://plugin.video.tvone111/play/1102/play.pvr
+#EXTINF:0 tvg-id="beINSportsUSA.us" tvg-logo="https://i1.sndcdn.com/avatars-000209668148-ir7hx8-t240x240.jpg" group-name="Sports",beIN Sports USA
+plugin://plugin.video.tvone112/play/145/2408/play.pvr
+#EXTINF:0 tvg-id="beINSportsUSA.us" tvg-logo="https://i1.sndcdn.com/avatars-000209668148-ir7hx8-t240x240.jpg" group-name="Sports",beIN Sports USA
+plugin://plugin.acme.livenet/play/601/play.pvr
+#EXTREM: plugin://plugin.video.tvone11/play/8/735/play.pvr
+#EXTREM: plugin://script.module.7of9-live/play/415/play.pvr
+#EXTREM: plugin://plugin.video.tvone/play/415/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/8/735/play.pvr
+#EXTREM: https://i1.sndcdn.com/avatars-000209668148-ir7hx8-t240x240.jpg
+#EXTREM: https://echo-g.livenettv.to/1/d0dbe9/bein_sports_usa.png
+#EXTREM: https://rocktalk.net/tv/images/channel_imgs/041017012448beinus.jpg
+#EXTREM: https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/55060_beinusa.jpg
+#EXTREM: http://163.172.111.138:8030/data/img/files/82405_beinusa.jpg
+#EXTREM: https://www.tv-direct.fr/assets/logo/bouquet/free-bein-sports.jpg
+#EXTREM: https://www.tv-direct.fr/assets/logo/chaines/bein-sport.jpg
+#EXTREM: https://i1.sndcdn.com/avatars-000209668148-ir7hx8-t240x240.jpg
+
+#EXTREM: #EXTINF:0 tvg-id="XXXX" tvg-logo="https://echo-g.livenettv.to/1/d0dbe9/box_nation.png" group-name="Sports",Box Nation
+#EXTREM: plugin://plugin.video.tvone111/play/1091/play.pvr
+#EXTREM: plugin://plugin.video.tvone1112/play/119/play.pvr
+#EXTREM: plugin://plugin.video.tvone11/play/8/711/play.pvr
+#EXTREM: plugin://plugin.acme.livenet/play/119/play.pvr
+#EXTREM: plugin://script.module.7of9-live/play/55/play.pvr
+#EXTREM: plugin://plugin.video.tvone/play/55/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/8/711/play.pvr
+
+#EXTREM: #EXTINF:0 tvg-id="CanalPlusSport.fr" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/10/cpl.png" group-name="Sports",Canal+ Sport
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL%2B+PL
+
+#EXTREM: #EXTINF:0 tvg-id="CanalPlusSport.fr" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/canal-plus-sport.jpg" group-name="Sports",Canal+ Sport
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL+SPORT
+#EXTREM: #EXTINF:0 tvg-id="CanalPlusSport.fr" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/canal-plus-sport.jpg" group-name="Sports",Canal+ Sport
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT
+#EXTREM: http://193.252.43.21:10200/play/a0b4
+#EXTREM: plugin://script.module.7of9-live/play/316/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1134/play.pvr
+#EXTREM: https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/85/7/chn43fb_177.72857.png
+#EXTREM: https://focus.telerama.fr/250x250/60/0000/00/01/clear-35.png
+#EXTREM: http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8|X-Forwarded-For=194.4.244.50
+
+#EXTREM: #EXTINF:0 tvg-id="CanalPlusSport1.af" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/canal-plus-sport.jpg" group-name="Sports",Canal+ Sport 1
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT+1
+
+#EXTREM: #EXTINF:0 tvg-id="CanalPlusSport2.af" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/canal-plus-sport.jpg" group-name="Sports",Canal+ Sport 2
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT+2
+
+#EXTREM: #EXTINF:0 tvg-id="CanalPlusSport5.af" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/canal-plus-sport.jpg" group-name="Sports",Canal+ Sport 5
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT+5
+
+#EXTINF:0 tvg-id="NHLNetwork.us" tvg-logo="http://163.172.111.138:8030/data/img/files/nhl.png" group-name="Sports",NHL Network
+plugin://plugin.video.tvone111/play/2167/play.pvr
+#EXTREM: plugin://plugin.video.tvone11/play/5/1916/play.pvr
+#EXTREM: https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/42536_nhlnetwork.jpg
+#EXTREM: plugin://plugin.video.swiftstreams/play/5/1916/play.pvr
+
+#EXTINF:0 tvg-id="RDS.ca" tvg-logo="http://img.rapidstreams.io/1/data/images/91466_android-chrome-192x192_150x150.png" group-name="Sports",RDS
+plugin://plugin.video.tvone112/play/145/2563/play.pvr
+
+#EXTINF:0 tvg-id="RDS2.ca" tvg-logo="http://img.rapidstreams.io/1/data/images/91466_android-chrome-192x192_150x150.png" group-name="Sports",RDS 2
+plugin://plugin.video.tvone112/play/145/2563/play.pvr
+
+#EXTINF:0 tvg-id="RDSInfo.ca" tvg-logo="http://img.rapidstreams.io/1/data/images/91466_android-chrome-192x192_150x150.png" group-name="Sports",RDS Info
+plugin://plugin.video.tvone112/play/145/2563/play.pvr
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSport1.fr" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1427.png" group-name="Sports",RMC Sport 1
+#EXTREM: plugin://plugin.video.tvone111/play/1201/play.pvr
+#EXTREM: #EXTINF:0 tvg-id="RMCSport1.fr" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1427.png" group-name="Sports",RMC Sport 1
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+1
+#EXTREM: plugin://script.module.7of9-live/play/598/play.pvr
+#EXTREM: plugin://plugin.video.tvone/play/598/play.pvr
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSport2.fr" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1428.png" group-name="Sports",RMC Sport 2
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+2
+#EXTREM: plugin://plugin.video.tvone111/play/1202/play.pvr
+#EXTREM: plugin://script.module.7of9-live/play/599/play.pvr
+#EXTREM: plugin://plugin.video.tvone/play/599/play.pvr
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSport3.fr" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1429.png" group-name="Sports",RMC Sport 3
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+3
+#EXTREM: #EXTINF:0 tvg-id="RMCSport3.fr" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1429.png" group-name="Sports",RMC Sport 3
+#EXTREM: plugin://plugin.video.tvone111/play/1203/play.pvr
+#EXTREM: plugin://script.module.7of9-live/play/600/play.pvr
+#EXTREM: plugin://plugin.video.tvone/play/600/play.pvr
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSport4.fr" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1430.png" group-name="Sports",RMC Sport 4
+#EXTREM: plugin://plugin.video.tvone111/play/1204/play.pvr
+#EXTREM: #EXTINF:0 tvg-id="RMCSport4.fr" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1430.png" group-name="Sports",RMC Sport 4
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+4
+#EXTREM: plugin://script.module.7of9-live/play/601/play.pvr
+#EXTREM: plugin://plugin.video.tvone/play/601/play.pvr
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSport5.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport 5
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+5
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSport6.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport 6
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+6
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSport7.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport 7
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+7
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSport8.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport 8
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+8
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSport9.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport 9
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+9
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSport10.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport 10
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+10
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSport11.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport 11
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+11
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSport12.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport 12
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+12
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSport13.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport 13
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+13
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSport14.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport 14
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+14
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSportAccess1.fr" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1431.png" group-name="Sports",RMC Sport Access 1
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+1+ACCESS
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSportAccess2.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport Access 2
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+2+ACCESS
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSportAccess3.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport Access 3
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+3+ACCESS
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSportAccess4.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport Access 4
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+4+ACCESS
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSportLive5.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport Live 5
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+5
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSportLive6.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport Live 6
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+6
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSportLive7.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport Live 7
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+7
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSportLive9.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport Live 9
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+9
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSportLive10.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport Live 10
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+10
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSportLive11.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport Live 11
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+11
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSportLive12.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport Live 12
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+12
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSportLive13.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport Live 13
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+13
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSportLive14.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport Live 14
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+14
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSportLive15.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport Live 15
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+15
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSportLive16.fr" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/14187_rmcsports.jpg" group-name="Sports",RMC Sport Live 16
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+16
+
+#EXTREM: #EXTINF:0 tvg-id="RMCSportNews.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_RMC_Sport_News_2018.svg/300px-Logo_RMC_Sport_News_2018.svg.png" group-name="Sports",RMC Sport News
+#EXTREM: plugin://plugin.video.vavooto/?name=RMC+SPORT+NEWS
+
+#EXTINF:0 tvg-id="TVASports.ca" tvg-logo="http://img.rapidstreams.io/1/data/images/14343_unnamed_5_150x150.png" group-name="Films",TVA Sports
+plugin://plugin.video.tvone112/play/145/2437/play.pvr
+
+#EXTINF:0 tvg-id="TVASports2.ca" tvg-logo="http://img.rapidstreams.io/1/data/images/64509_a975_150x150.png" group-name="Films",TVA Sports 2
+plugin://plugin.video.tvone112/play/145/2445/play.pvr
+
+#EXTREM: #EXTINF:0 tvg-id="TVSBoxing.us" tvg-logo="https://www.pressreleasewire.in/wp-content/uploads/2020/11/tvs-tv-networks-logo.jpg" group-name="Sports",TVS Boxing Network
+#EXTREM: https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTREM: https://www.watchyour.tv/channels/logo/tvs-boxing-network.jpg
+#EXTREM: https://i.imgur.com/30ZoF75.png
+#EXTREM: https://www.watchyour.tv/epg/channellogos/tvs-boxing-network.png
+
+#EXTINF:0 tvg-id="WWENetwork.ca" tvg-logo="https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/7455_wwe.jpg" group-name="Sports",WWE Network
+plugin://plugin.video.tvone112/play/38/1356/play.pvr
+#EXTREM: plugin://plugin.video.tvone111/play/1099/play.pvr
+#EXTREM: plugin://plugin.video.rbtv/play/1099/play.pvr
+#EXTREM: plugin://plugin.acme.livenet/play/108/play.pvr
+#EXTREM: plugin://plugin.video.tvone11/play/8/715/play.pvr
+#EXTREM: plugin://script.module.7of9-live/play/241/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/8/715/play.pvr
+
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: Musique
+#EXTREM: ------------------------------------------------------------------------------------------------
+
+#EXTINF:0 tvg-id="VH1Classic.fr" tvg-logo="https://pbs.twimg.com/profile_images/2840368659/0d24b134f99c2b520fa520bc0711804a.jpeg" group-name="Musique",VH1 Classic
+plugin://plugin.video.tvone112/play/36/139/play.pvr
+#EXTREM: plugin://plugin.video.tvone111/play/1361/play.pvr
+#EXTREM: plugin://plugin.video.vavootoUK/?name=VH1+CLASSIC
+#EXTREM: plugin://plugin.video.tvone11/play/4/334/play.pvr
+#EXTREM: plugin://plugin.video.tvone112/play/36/139/play.pvr
+
+#EXTREM: ------------------------------------------------------------------------------------------------
+#EXTREM: Tests
+#EXTREM: ------------------------------------------------------------------------------------------------
+
+#EXTINF:0 tvg-id="XXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png" group-name="Sports",beIN Sports
+plugin://plugin.video.tvone112/play/145/2408/play.pvr
+
+#EXTINF:0 tvg-id="XXXX" tvg-logo="XXXX" group-name="Sports",KO
+plugin://plugin.video.vavootoUK/?name=BOX+NATION
+
+#EXTINF:0 tvg-id="XXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-name="Sports",Premier Sports 1
+plugin://plugin.video.vavootoUK/?name=SKY+SPORT+PREMIER+LEAGUE
+
+#EXTINF:0 tvg-id="XXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-name="Sports",Premier Sports 2
+plugin://plugin.video.vavootoUK/?name=PREMIER+SPORT+2
+
+#EXTINF:0 tvg-id="XXXX" tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-name="Sports",Sky Sports Arena
+plugin://plugin.video.vavootoUK/?name=SKY+SPORTS+ARENA
+#EXTINF:0 tvg-id="XXXX" tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-name="Sports",Sky Sports Arena
+plugin://plugin.video.vavootoUK/?name=SKYS+PORTS+ARENA
+
+#EXTINF:0 tvg-id="XXXX" tvg-logo="https://ia800609.us.archive.org/8/items/SkySportsFootball_201708/sky%20sports%20football.png" group-name="Sports",Sky Sports Football
+plugin://plugin.video.vavootoUK/?name=SKYS+PORTS+FOOTBALL
+
+#EXTINF:0 tvg-id="XXXX" tvg-logo="https://ia600803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png" group-name="Sports",Sky Sports Main Event
+plugin://plugin.video.vavootoUK/?name=SKY+SPORTS+MAIN+EVENT
+#EXTINF:0 tvg-id="XXXX" tvg-logo="https://ia600803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png" group-name="Sports",Sky Sports Main Event
+plugin://plugin.video.vavootoUK/?name=SKYS+PORTS+MAIN+EVENT
+
+#EXTINF:0 tvg-id="XXXX" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png" group-name="Sports",TNT Sports 1
+plugin://plugin.video.vavootoUK/?name=BT+SPORT+1
+#EXTINF:0 tvg-id="XXXX" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png" group-name="Sports",TNT Sports 2
+plugin://plugin.video.vavootoUK/?name=BT+SPORT+2
+#EXTINF:0 tvg-id="XXXX" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png" group-name="Sports",TNT Sports 3
+plugin://plugin.video.vavootoUK/?name=BT+SPORT+3
+#EXTINF:0 tvg-id="XXXX" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png" group-name="Sports",TNT Sports 4
+plugin://plugin.video.vavootoUK/?name=BT+SPORT+4
+
+#EXTINF:0 tvg-id="XXXX" tvg-logo="https://ufc-video.s3.amazonaws.com/image/logos/UFC_FIGHTPASS_LOGO_F.PNG" group-name="Sports",UFC Fight Night Pass
+plugin://plugin.video.vavootoUK/?name=UFC+FIGHT+NIGHT+PASS

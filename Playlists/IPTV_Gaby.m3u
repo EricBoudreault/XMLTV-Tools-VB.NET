@@ -1,0 +1,358 @@
+#EXTM3U
+
+#EXTREM: #EXT-X-VERSION:1
+#EXTREM: #EXT-X-ALLOW-CACHE:YES
+#EXTREM: #EXT-X-MEDIA:TYPE=VIDEO
+
+#EXTREM: #EXTVLCOPT:network-caching=9000
+#EXTREM: #EXTVLCOPT–http-reconnect=true
+#EXTREM: #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/40.0
+
+#EXTREM: Généré pour être utilisé avec "PVR IPTV Simple Client" 
+#EXTREM: 2022-08-17
+
+#EXTINF:0 tvg-id="RMCDecouverte.fr" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1400.png" group-name="Généraliste",RMC Découverte
+plugin://plugin.video.vavooto/?name=RMC+DECOUVERTE
+#EXTREM: https://s13.tntendirect.com/rmcdecouverte/live/playlist.m3u8
+#EXTREM: https://i.imgur.com4:34 PM 2021-08-23/FVrOYXe.jpg
+#EXTREM: https://s6.tntendirect.com/rmcdecouverte/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="Animaux.fr" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/12.png" group-name="Documentaires",Animaux
+plugin://plugin.video.vavooto/?name=ANIMAUX
+#EXTINF:0 tvg-id="Animaux.fr" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/12.png" group-name="Documentaires",Animaux
+plugin://plugin.video.tvone11/play/20/1178/play.pvr
+#EXTINF:0 tvg-id="Animaux.fr" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/12.png" group-name="Documentaires",Animaux
+plugin://plugin.video.tvone111/play/1683/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1178/play.pvr
+#EXTREM: http://flusonic-4.platinum-tv.com/animaux/index.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/animaux/mono.m3u8?token=test
+#EXTREM: http://190.2.138.13/animaux/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:0 tvg-id="" tvg-logo="http://www.albo2000.com/tv/logos/LIVE%20ANIMAL.png" group-name="Documentaires",Nature Live Animal
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+
+#EXTINF:0 tvg-id="USBA3400003IP" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20210525T051505.png" group-name="Documentaires",Love Nature 4K
+plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=USBA3400003IP&amp;_is_live=1&amp;_noresume=.pvr
+#EXTINF:0 tvg-id="USBA3400003IP" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20210525T051505.png" group-name="Documentaires",Love Nature 4K
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTREM: https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTREM: https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTREM: https://image.xumo.com/v1/channels/channel/99991398/300x300.png?type=smartCast_channelTile
+#EXTREM: https://starsat.co.za/wp-content/uploads/2019/12/Love-Nature.png
+#EXTREM: https://vikacreativemedia.com/wp-content/uploads/2014/08/L_N_logo.jpg
+#EXTREM: https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png
+#EXTREM: https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+#EXTREM: https://bamus-eng-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-usa/CDN/playlist.m3u8
+#EXTREM: http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+#EXTREM: http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="NASATVUHD.us" tvg-logo="https://logodix.com/logo/5095.gif" group-name="Science",NASA TV Public
+plugin://plugin.video.youtube/play/?video_id=21X5lGlDOfg
+#EXTREM: https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTREM: https://usgeowall.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTREM: https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:0 tvg-id="NASATVUHD.us" tvg-logo="https://logodix.com/logo/5095.gif" group-name="Science",NASA TV Media
+plugin://plugin.video.youtube/play/?video_id=nA9UZF-SZoQ
+#EXTREM: https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTREM: http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTREM: http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTREM: https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://cdn6.aptoide.com/imgs/9/e/b/9eba0b8864e745da95f326faee04acb4_icon.png" group-name="Films",Rakuten TV Thriller
+https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="60c3472a51a2050008dad272" tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG.png" group-name="Films",Pluto TV Thrillers
+plugin://slyguy.pluto.tv.provider/?_=play&amp;_play=1&amp;id=60c3472a51a2050008dad272&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="FRBA3300059J5" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/77/FRBA3300059J5_20210811T022059.png" group-name="Films",Rakuten TV Krime
+https://alchimie-krime-rakuten.amagi.tv/playlist.m3u8
+#EXTREM: plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=FRBA3300059J5&amp;_is_live=1&amp;_noresume=.pvr
+#EXTREM: https://cdn6.aptoide.com/imgs/9/e/b/9eba0b8864e745da95f326faee04acb4_icon.png
+
+#EXTINF:0 tvg-id="CrimeDistrict.fr" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/2037.png" group-name="Films",Crime District
+plugin://plugin.video.vavooto/?name=CRIME+DISTRICT
+#EXTREM: plugin://plugin.video.tvone11/play/20/1908/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1908/play.pvr
+
+#EXTINF:0 tvg-id="PolarPlus.fr" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/2326.png" group-name="Films",Polar+
+plugin://plugin.video.vavooto/?name=CINE+POLAR
+#EXTINF:0 tvg-id="PolarPlus.fr" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/2326.png" group-name="Films",Polar+
+http://193.252.43.21:10200/play/a0at
+#EXTREM: plugin://plugin.video.vavooto/?name=CIN+POLAR
+#EXTREM: plugin://plugin.video.vavooto/?name=POLAR%2B
+#EXTREM: plugin://plugin.video.vavooto/?name=POLAR
+#EXTREM: plugin://plugin.video.tvone11/play/20/1141/play.pvr
+#EXTREM: https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/2326.png
+#EXTREM: https://www.swiftstreamz.cc/SwiftStreamzv2.4/images/29373_cinepolor.jpg
+#EXTREM: http://190.2.138.13/polar+/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/polar+/index.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/polar+/mono.m3u8?token=test
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1141/play.pvr
+
+#EXTINF:0 tvg-id="FRAJ38000089S" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" group-name="Films",Pluto TV Polar
+plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=FRAJ38000089S&amp;_is_live=1&amp;_noresume=.pvr
+#EXTINF:0 tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" group-name="Films",Pluto TV Polar
+plugin://slyguy.pluto.tv.provider/?_=play&amp;_play=1&amp;id=5f8ed4dbf6bb0800071ffbcb&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="5f914f4b36d67d0007a91a04" tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" group-name="Séries et divertissement",Pluto TV Investigation
+plugin://slyguy.pluto.tv.provider/?_=play&amp;_play=1&amp;id=5f914f4b36d67d0007a91a04&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="60c34592c911890007f29a73" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" group-name="Films",Pluto TV Sci-Fi
+plugin://slyguy.pluto.tv.provider/?_=play&amp;_play=1&amp;id=60c34592c911890007f29a73&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="5efbd39f8c4ce900075d7698" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-name="Séries et divertissement",Pluto TV Star Trek
+plugin://slyguy.pluto.tv.provider/?_=play&amp;_play=1&amp;id=5efbd39f8c4ce900075d7698&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="Syfy.fr" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/479.png" group-name="Séries et divertissement",Syfy
+plugin://plugin.video.tvone11/play/20/1149/play.pvr
+#EXTREM: plugin://plugin.video.vavooto/?name=SYFY
+#EXTREM: http://flusonic-4.platinum-tv.com/Syfy/mono.m3u8?token=test
+#EXTREM: http://flusonic-4.platinum-tv.com/Syfy/index.m3u8?token=test
+#EXTREM: http://190.2.138.13/Syfy/tracks-v1a1/mono.m3u8?token=test
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1149/play.pvr
+
+#EXTREM: #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-name="Généraliste",Noovo
+#EXTREM: https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+
+#EXTINF:0 tvg-id="CBVT.ca" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" group-name="Généraliste",ICI Télé
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
+#EXTREM: https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_1800.m3u8
+#EXTREM: #EXTREM: https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
+
+#EXTINF:0 tvg-id="TVAHD.ca" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-name="Généraliste",TVA
+https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
+#EXTREM: https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8
+#EXTREM: https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
+#EXTREM: https://tvalive.akamaized.net/hls/live/2012413-b/tva01/low_720p/low_720p.m3u8
+#EXTREM: https://tvalive.akamaized.net/hls/live/2012413-b/tva01/master.m3u8
+#EXTREM: https://tvalive.akamaized.net/hls/live/2012413-b/tva01/high_1080p/high_1080p.m3u8
+#EXTREM: https://tvalive.akamaized.net/hls/live/2012413-b/tva01/med_720p/med_720p.m3u8
+#EXTREM: https://tvalive.akamaized.net/hls/live/2012413-b/tva01/low_720p/low_720p.m3u8
+
+#EXTINF:0 tvg-id="TeleQuebec.ca" tvg-logo="https://i.imgur.com/uIZSky1.png" group-name="Généraliste",Télé-Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTREM: https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_0/chunklist.m3u8
+
+#EXTREM: #EXTINF:0 tvg-id="" tvg-logo="" group-name="Comédie",MS Comedy
+#EXTREM: plugin://plugin.video.vavooto/?name=MS+COMEDY
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/W1Vg3yP.png" group-name="Comédie",MyComedy
+plugin://plugin.video.vavooto/?name=MY+COMEDY
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/W1Vg3yP.png" group-name="Comédie",MyComedy
+https://stream-03.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW47NIMgACSMo-rG0frDvNcvLy8G-8MLZP3qCL0z7YDRP)/dm/3/x7zw8t0/s/live-1.m3u8#cell=lnyc
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/W1Vg3yP.png" group-name="Comédie",MyComedy
+https://stream-02.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW47NIMgACSMo-rG0frDvNcvLy8G-8MLZP3qCL0z7YDRP)/dm/3/x7zw8t0/s/live-1.m3u8#cell=lnyc
+#EXTREM: plugin://plugin.video.vavooto/?name=MYCOMEDY+TV
+#EXTREM: plugin://plugin.video.dailymotion_com/?url=x7zw8t0&mode=playLiveVideo
+#EXTREM: http://www.callofliberty.fr/stream/myCOMEDY/index.m3u8
+#EXTREM: https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
+#EXTREM: http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1418682929_b1928000.m3u8
+#EXTREM: https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/x7zw8t0
+#EXTREM: http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zw8t0
+#EXTREM: http://free.fullspeed.tv/query?url=https://www.dailymotion.com/video/x7zw8t0
+
+#EXTINF:0 tvg-id="ComediePlus.fr" tvg-logo="https://i1.wp.com/www.planetecsat.com/wp-content/uploads/2015/08/Com%C3%A9die-1-1.jpg?fit=822%2C737&ssl=1&w=640" group-name="Comédie",Comédie+
+plugin://plugin.video.vavooto/?name=COMEDIE+%2B
+#EXTINF:0 tvg-id="ComediePlus.fr" tvg-logo="https://i1.wp.com/www.planetecsat.com/wp-content/uploads/2015/08/Com%C3%A9die-1-1.jpg?fit=822%2C737&ssl=1&w=640" group-name="Comédie",Comédie+
+plugin://plugin.video.vavooto/?name=COMEDIE
+#EXTREM: plugin://plugin.video.vavooto/?name=COMEDIE%2B
+#EXTREM: plugin://plugin.video.tvone11/play/20/1160/play.pvr
+#EXTREM: https://i1.wp.com/www.planetecsat.com/wp-content/uploads/2015/08/Com%C3%A9die-1-1.jpg?fit=822%2C737&ssl=1&w=640
+#EXTREM: https://www.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/54.png
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1160/play.pvr
+
+#EXTINF:0 tvg-id="5f8eb91bb9b9e7000817e67f" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" group-name="Comédie",Pluto TV Comédie
+plugin://slyguy.pluto.tv.provider/?_=play&amp;_play=1&amp;id=5f8eb91bb9b9e7000817e67f&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="FRAJ4500024MR" tvg-logo="https://cdn6.aptoide.com/imgs/9/e/b/9eba0b8864e745da95f326faee04acb4_icon.png" group-name="Films",Rakuten TV Comédie
+https://rakuten-comedymovies-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTREM: plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=FRAJ4500024MR&amp;_is_live=1&amp;_noresume=.pvr
+#EXTREM: https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTREM: https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTREM: https://rakuten-comedymovies-7-fr.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="CanalPlusFamily.fr" tvg-logo="https://www.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/657.png" group-name="Jeunesse",Canal+ Family
+plugin://plugin.video.vavooto/?name=CANAL+FAMILY
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL%2B+FAMILY
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1136/play.pvr
+
+#EXTINF:0 tvg-id="FRAJ38000035M" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/FRAJ38000035M_20220323T080133.png" group-name="Jeunesse",Pluto TV Kids Séries
+plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=FRAJ38000035M&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-name="Jeunesse",Séries+ Kids
+plugin://plugin.video.vavooto/?name=KIDS+SERIES%2B
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-name="Jeunesse",Teen Séries
+plugin://plugin.video.vavooto/?name=TEEN+SERIES
+
+#EXTINF:0 tvg-id="CanalPlusKIDS.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_259.PNG" group-name="Jeunesse",Canal+ Kids
+http://193.252.43.21:10200/play/a0b5555
+#EXTINF:0 tvg-id="CanalPlusKIDS.fr" tvg-logo="https://yt3.ggpht.com/IfMii3LH68NnKdKPKpdNN6cfNdTn3lQ4AE_1AyManalNL2idWK4H3ZkxLGkBDB0mMkEa7nllX1Q=s900-c-k-c0x00ffffff-no-rj" group-name="Jeunesse",Canal+ Kids
+plugin://plugin.video.tvone11/play/20/1136/play.pvr
+#EXTINF:0 tvg-id="CanalPlusKIDS.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-name="Jeunesse",Canal+ Kids
+plugin://plugin.video.vavooto/?name=CANAL+KIDS
+#EXTREM: plugin://plugin.video.vavooto/?name=CANAL%2B+KIDS
+
+#EXTINF:0 tvg-id="FRBA3300026BR" tvg-logo="https://cdn6.aptoide.com/imgs/9/e/b/9eba0b8864e745da95f326faee04acb4_icon.png" group-name="Jeunesse",Rakuten TV Famille
+https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="FRBA3300026BR" tvg-logo="https://cdn6.aptoide.com/imgs/9/e/b/9eba0b8864e745da95f326faee04acb4_icon.png" group-name="Jeunesse",Rakuten TV Famille
+plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=FRBA3300026BR&amp;_is_live=1&amp;_noresume=.pvr
+#EXTREM: https://rakuten-family-7-fr.samsung.wurl.com/manifest/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTREM: https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTREM: https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="CinePlusFamiz.fr" tvg-logo="https://www.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/401.png" group-name="Jeunesse",Ciné+ Famiz
+http://193.252.43.21:10200/play/a0d5
+#EXTINF:0 tvg-id="CinePlusFamiz.fr" tvg-logo="https://www.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/401.png" group-name="Jeunesse",Ciné+ Famiz
+plugin://plugin.video.vavooto/?name=CINE+FAMIZ
+#EXTINF:0 tvg-id="CinePlusFamiz.fr" tvg-logo="https://www.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/401.png" group-name="Jeunesse",Ciné+ Famiz
+plugin://plugin.video.vavooto/?name=CINE%2B+FAMIZ
+#EXTINF:0 tvg-id="CinePlusFamiz.fr" tvg-logo="https://www.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/401.png" group-name="Jeunesse",Ciné+ Famiz
+plugin://plugin.video.tvone11/play/20/1144/play.pvr
+#EXTREM: plugin://plugin.video.swiftstreams/play/20/1144/play.pvr
+
+#EXTINF:0 tvg-id="5f8ed52a62fa750007733239" tvg-logo="https://images.pluto.tv/channels/5f8ed52a62fa750007733239/colorLogoPNG.png" group-name="Jeunesse",Pluto TV Animé All Day
+plugin://slyguy.pluto.tv.provider/?_=play&amp;_play=1&amp;id=5f8ed52a62fa750007733239&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-name="Jeunesse",Mangas
+plugin://plugin.video.vavooto/?name=MANGAS
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-name="Jeunesse",Disney Channel
+plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-name="Jeunesse",Donald Duck
+plugin://plugin.video.vavooto/?name=DONALD+DUCK
+
+#EXTINF:0 tvg-id="BobLepongePtv3.fr" tvg-logo="" group-name="Jeunesse",Bob L'éponge
+plugin://plugin.video.vavooto/?name=BOB+LEPONGE
+
+#EXTINF:0 tvg-id="TeleTOONplus1.fr" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/293.png" group-name="Jeunesse",TéléToon+1
+plugin://plugin.video.vavooto/?name=TELETOON+%2B
+#EXTINF:0 tvg-id="TeleTOONplus1.fr" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/293.png" group-name="Jeunesse",TéléToon+1
+plugin://plugin.video.vavooto/?name=TELETOON+%2B1
+#EXTINF:0 tvg-id="TeleTOONplus1.fr" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/293.png" group-name="Jeunesse",TéléToon+1
+plugin://plugin.video.vavooto/?name=TELETOON%2B
+#EXTINF:0 tvg-id="TeleTOONplus1.fr" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/293.png" group-name="Jeunesse",TéléToon+1
+http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8|X-Forwarded-For=194.4.244.50
+#EXTINF:0 tvg-id="TeleTOONplus1.fr" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/293.png" group-name="Jeunesse",TéléToon+1
+http://144.217.253.140/Teletoon/playlist.m3u8
+#EXTREM: https://pbs.twimg.com/profile_images/1703650437/avatar_TT_tw.001_2_400x400.png
+
+#EXTINF:0 tvg-id="FRBA3300029ZY" tvg-logo="https://i.imgur.com/20Vzf5S.jpg" group-name="Jeunesse",Super Toons
+https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8|X-Forwarded-For=194.4.244.50
+#EXTINF:0 tvg-id="FRBA3300029ZY" tvg-logo="https://i.imgur.com/20Vzf5S.jpg" group-name="Jeunesse",Super Toons
+https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0 tvg-id="611e6a9b4bb5790007a6f0f8" tvg-logo="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png" group-name="Jeunesse",Pluto TV Rétro Toons
+plugin://slyguy.pluto.tv.provider/?_=play&amp;_play=1&amp;id=611e6a9b4bb5790007a6f0f8&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="Boomerang.fr" tvg-logo="" group-name="Jeunesse",Boomerang
+plugin://plugin.video.vavooto/?name=BOOMERANG
+
+#EXTINF:0 tvg-id="CartoonNetwork.fr" tvg-logo="" group-name="Jeunesse",Cartoon Network
+plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
+
+#EXTINF:0 tvg-id="Gulli.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/57px-18._Gulli.png" group-name="Jeunesse",Gulli
+plugin://plugin.video.vavooto/?name=GULLI
+#EXTREM: plugin://plugin.video.tvone11/play/20/1162/play.pvr
+#EXTREM: https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTREM: plugin://plugin.video.tvone111/play/1679/play.pvr
+#EXTREM: https://iptv-france.com/wp-content/uploads/2014/07/gulli.png
+
+#EXTINF:0 tvg-id="Nickelodeon.fr" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/473.png" group-name="Jeunesse",Nickelodeon France
+plugin://plugin.video.vavooto/?name=NICKELODEON
+#EXTREM: #EXTINF:0 tvg-id="Nickelodeon.fr" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/473.png" group-name="Jeunesse",Nickelodeon France
+#EXTREM: plugin://plugin.video.youtube/play/?video_id=p_fKQh_ctJo
+#EXTREM: https://i.imgur.com/D3xJzOt.jpg
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-name="Jeunesse",Nick JR
+plugin://plugin.video.vavooto/?name=NICK+JR
+#EXTINF:0 tvg-id="" tvg-logo="" group-name="Jeunesse",Nick JR
+plugin://plugin.video.vavooto/?name=NICK+JUNIOR
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-name="Jeunesse",Tiji
+plugin://plugin.video.vavooto/?name=TIJI
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-name="Jeunesse",Piwi+
+plugin://plugin.video.vavooto/?name=PIWI
+#EXTINF:0 tvg-id="" tvg-logo="" group-name="Jeunesse",Piwi+
+plugin://plugin.video.vavooto/?name=PIWI%2B
+
+#EXTINF:0 tvg-id="60afa1508284e60007163c08" tvg-logo="https://images.pluto.tv/channels/60afa1508284e60007163c08/colorLogoPNG.png" group-name="Humour",Juste pour Rire
+plugin://plugin.video.vavooto/?name=JUSTE+POUR+RIRE
+#EXTINF:0 tvg-id="60afa1508284e60007163c08" tvg-logo="https://images.pluto.tv/channels/60afa1508284e60007163c08/colorLogoPNG.png" group-name="Humour",Juste pour Rire
+plugin://slyguy.pluto.tv.provider/?_=play&amp;_play=1&amp;id=60afa1508284e60007163c08&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="FRBA33000234L" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/59/FRBA33000234L_20220323T075839.png" group-name="Humour",FailArmy
+plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=FRBA33000234L&amp;_is_live=1&amp;_noresume=.pvr
+#EXTINF:0 tvg-id="5f8ecd9169d2d4000864a974" tvg-logo="https://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/colorLogoPNG.png" group-name="Humour",FailArmy
+plugin://slyguy.pluto.tv.provider/?_=play&amp;_play=1&amp;id=5f8ecd9169d2d4000864a974&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="CanalJ.fr" tvg-logo="" group-name="Jeunesse",Canal J
+plugin://plugin.video.vavooto/?name=CANAL+J
+
+#EXTINF:0 tvg-id="JOne.fr" tvg-logo="" group-name="Jeux",JOne
+plugin://plugin.video.vavooto/?name=J+ONE
+#EXTINF:0 tvg-id="JOne.fr" tvg-logo="" group-name="Jeux",JOne
+plugin://plugin.video.vavooto/?name=J-ONE
+
+#EXTINF:0 tvg-id="USAJ3504531A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/26/USAJ3504531A_20220621T075900.png" group-name="Jeux",MinecrafTV
+plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=USAJ3504531A&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="N31tv.fr" tvg-logo="https://i.imgur.com/6q3QKpO.jpg" group-name="Jeux",N31 (La chaîne des gamers)
+plugin://plugin.video.dailymotion_com/?url=x6nkjg1&mode=playLiveVideo
+#EXTREM: https://www.n31.tv/
+#EXTREM: https://www.dailymotion.com/video/x6nkjg1#tab_embed.m3u8
+
+#EXTINF:0 tvg-id="USBA30003672" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/26/USBA30003672_20220330T044521.png" group-name="Jeux",IGN
+plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=USBA30003672&amp;_is_live=1&amp;_noresume=.pvr
+#EXTINF:0 tvg-id="5f8ecee24576bc0007a13b79" tvg-logo="https://images.pluto.tv/channels/5f8ecee24576bc0007a13b79/colorLogoPNG.png" group-name="Jeux",IGN
+plugin://slyguy.pluto.tv.provider/?_=play&amp;_play=1&amp;id=5f8ecee24576bc0007a13b79&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="USAK3508726A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/USAK3508726A_20220330T044548.png" group-name="Jeux",BCC Gaming
+plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=USAK3508726A&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="5f8eccd81062c300078a11df" tvg-logo="https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png" group-name="Jeux",Gaming TV
+plugin://slyguy.pluto.tv.provider/?_=play&amp;_play=1&amp;id=5f8eccd81062c300078a11df&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-name="Jeux",Game One
+plugin://plugin.video.vavooto/?name=GAME+ONE
+
+#EXTINF:0 tvg-id="CABB25000288K" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/CABB25000288K_20220330T044503.png" group-name="",Classic Doctor Who
+plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=CABB25000288K&amp;_is_live=1&amp;_noresume=.pvr
+#EXTINF:0 tvg-id="USBC6000196L" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/90/USBC6000196L_20220330T044639.png" group-name="",Classic Doctor Who
+plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=USBC6000196L&amp;_is_live=1&amp;_noresume=.pvr
+#EXTINF:0 tvg-id="60d359c98f262f00070c364e" tvg-logo="https://images.pluto.tv/channels/60d359c98f262f00070c364e/colorLogoPNG.png" group-name="",Classic Doctor Who
+plugin://slyguy.pluto.tv.provider/?_=play&amp;_play=1&amp;id=60d359c98f262f00070c364e&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="DoctorWho.fr" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/66/FRBA3300019CI_20220323T075800.png" group-name="",Doctor Who ERIX
+plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=FRBA3300019CIERIX&amp;_is_live=1&amp;_noresume=.pvr
+#EXTINF:0 tvg-id="FRBA3300019CI" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/66/FRBA3300019CI_20220323T075800.png" group-name="",Doctor Who
+plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=FRBA3300019CI&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="CinePlusFrisson.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/300px-CinePlusFrisson.svg.png" group-name="Horreur",Ciné+ Frisson
+http://193.252.43.21:10200/play/a0bd
+#EXTINF:0 tvg-id="CinePlusFrisson.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/300px-CinePlusFrisson.svg.png" group-name="Horreur",Ciné+ Frisson
+plugin://plugin.video.vavooto/?name=CINE+FRISSON
+#EXTINF:0 tvg-id="CinePlusFrisson.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/300px-CinePlusFrisson.svg.png" group-name="Horreur",Ciné+ Frisson
+plugin://plugin.video.vavooto/?name=CINE%2B+FRISSON
+#EXTINF:0 tvg-id="CinePlusFrisson.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/300px-CinePlusFrisson.svg.png" group-name="Horreur",Ciné+ Frisson
+plugin://plugin.video.vavooto/?name=CINE%2B+ISSON
+
+#EXTINF:0 tvg-id="FRBB4600002K5" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/45/FRBB4600002K5_20220323T080533.png" group-name="Horreur",Scream'IN
+plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=FRBB4600002K5&amp;_is_live=1&amp;_noresume=.pvr
+#EXTINF:0 tvg-id="CHBB46000021V" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/CHBB46000021V_20220323T074154.png" group-name="Horreur",Scream'IN
+plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=CHBB46000021V&amp;_is_live=1&amp;_noresume=.pvr
+
+#EXTINF:0 tvg-id="EEntertainment.fr" tvg-logo="https://seeklogo.com/images/E/e-entertainment-logo-13642BF5FB-seeklogo.com.png" group-name="Jeunesse",E! Entertainment
+plugin://plugin.video.vavooto/?name=E%21+ENTERTAINMENT
+
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Elle_Girl_logo.svg/300px-Elle_Girl_logo.svg.png" group-name="Jeunesse",Elle Girl
+plugin://plugin.video.vavooto/?name=ELLE+GIRL
+
+#EXTINF:0 tvg-id="FRAJ38000050Z" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/21/FRAJ38000050Z_20220323T080001.png" group-name="",MTV Catfish
+plugin://slyguy.samsung.tv.plus/?_=play&amp;_play=1&amp;id=FRAJ38000050Z&amp;_is_live=1&amp;_noresume=.pvr
+#EXTINF:0 tvg-id="FRAJ38000050Z" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/21/FRAJ38000050Z_20220323T080001.png" group-name="",MTV Catfish
+plugin://plugin.video.vavooto/?name=CATFISH

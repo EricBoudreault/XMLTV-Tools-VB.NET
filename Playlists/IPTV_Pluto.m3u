@@ -1,0 +1,120 @@
+#EXTM3U
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: EPG
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: https://i.mjh.nz/PlutoTV/all.xml
+#EXTREM: https://i.mjh.nz/PlutoTV/fr.xml
+#EXTREM: https://i.mjh.nz/PlutoTV/gb.xml
+#EXTREM: https://i.mjh.nz/PlutoTV/us.xml
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: INFORMATION
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 channel-id="" tvg-id="55b285cd2665de274553d66f" tvg-logo="https://www.survation.com/wp-content/uploads/2014/02/large-square-sky-news-logo.png" group-name="News",Sky News
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5421f71da6af422839419cb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=209&terminate=false&userId=
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: DOCUMENTAIRES
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 channel-id="" tvg-id="63b579961bdba100071214cb" tvg-logo="https://images.pluto.tv/channels/63b579961bdba100071214cb/colorLogoPNG.png" group-title="Documentary",C'est pas sorcier
+https://r.mjh.nz/PlutoTV/63b579961bdba100071214cb-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=176.31.84.249
+
+#EXTINF:0 channel-id="" tvg-id="5812bd9f249444e05d09cc4e" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-name="Documentary",Stringray Naturescape
+https://i.mjh.nz/PlutoTV/5812bd9f249444e05d09cc4e-alt.m3u8
+
+#EXTINF:0 channel-id="61fc0df14159c40007250432" tvg-id="61fc0df14159c40007250432" tvg-logo="https://images.pluto.tv/channels/61fc0df14159c40007250432/colorLogoPNG.png" group-name="Documentary",Nature Time
+https://i.mjh.nz/PlutoTV/61fc0df14159c40007250432-alt.m3u8
+
+#EXTINF:0 channel-id="640a64bd73e013000893d4e0" tvg-id="640a64bd73e013000893d4e0" tvg-logo="https://images.pluto.tv/channels/640a64bd73e013000893d4e0/colorLogoPNG.png" group-name="Documentary",PBS Nature
+https://i.mjh.nz/PlutoTV/640a64bd73e013000893d4e0-alt.m3u8
+
+#EXTINF:0 channel-id="60925a44f0350600075a1fdc" tvg-id="60925a44f0350600075a1fdc" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-name="Documentary",Pluto TV Animaux
+https://bit.ly/animaux_inspiration_m3u8
+#EXTREM: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:0 channel-id="611e771e2f5f180007002224" tvg-id="611e771e2f5f180007002224" tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" group-name="Documentary",Pluto TV Histoire
+https://r.mjh.nz/PlutoTV/611e771e2f5f180007002224-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=176.31.84.249
+
+#EXTINF:0 channel-id="62f3e6aebcdda4000754fa47" tvg-id="62f3e6aebcdda4000754fa47" tvg-logo="https://images.pluto.tv/channels/62f3e6aebcdda4000754fa47/colorLogoPNG.png" group-title="Documentary",Toute une histoire
+https://r.mjh.nz/PlutoTV/62f3e6aebcdda4000754fa47-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=176.31.84.249
+
+#EXTINF:0 channel-id="62f3e6aebcdda4000754fa47" tvg-id="62f3e6aebcdda4000754fa47" tvg-logo="https://images.pluto.tv/channels/62f3e6aebcdda4000754fa47/colorLogoPNG.png" group-title="Documentary",Rakuten Documentaire
+https://r.mjh.nz/PlutoTV/62f3e6aebcdda4000754fa47-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=176.31.84.249
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: DIVERTISSEMENT
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 channel-id="62f215f41afad500077e2ef1" tvg-id="62f215f41afad500077e2ef1" tvg-logo="https://images.pluto.tv/channels/62f215f41afad500077e2ef1/colorLogoPNG.png" group-name="Entertainment",Masterchef
+https://r.mjh.nz/PlutoTV/62f215f41afad500077e2ef1-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=176.31.84.249
+
+#EXTINF:0 channel-id="64b82075e4391c0008c3c1fe" tvg-id="64b82075e4391c0008c3c1fe" tvg-logo="https://images.pluto.tv/channels/64b82075e4391c0008c3c1fe/colorLogoPNG.png" group-name="Entertainment",The Bob Ross Channel
+https://i.mjh.nz/PlutoTV/64b82075e4391c0008c3c1fe-alt.m3u8
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: FILMS
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 channel-id="5f8ed1ff5c39700007e2204a" tvg-id="5f8ed1ff5c39700007e2204a" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-name="Movies",Pluto TV Action
+https://i.mjh.nz/PlutoTV/5f8ed1ff5c39700007e2204a-alt.m3u8
+
+#EXTINF:0 channel-id="5f8ed0f17564a300082b676a" tvg-id="5f8ed0f17564a300082b676a" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG.png" group-name="Movies",Pluto TV Cine
+https://i.mjh.nz/PlutoTV/5f8ed0f17564a300082b676a-alt.m3u8
+
+#EXTINF:0 channel-id="5f8ed168f72fcd0007e56269" tvg-id="5f8ed168f72fcd0007e56269" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png" group-title="Movies",Pluto TV Cine Retro
+https://r.mjh.nz/PlutoTV/5f8ed168f72fcd0007e56269-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=176.31.84.249
+
+#EXTINF:0 channel-id="5f8eb91bb9b9e7000817e67f" tvg-id="5f8eb91bb9b9e7000817e67f" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" group-name="Movies",Pluto TV Comedie
+https://i.mjh.nz/PlutoTV/5f8eb91bb9b9e7000817e67f-alt.m3u8
+
+#EXTINF:0 channel-id="60c3472a51a2050008dad272" tvg-id="60c3472a51a2050008dad272" tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG.png" group-name="Movies",Pluto TV Thrillers
+https://i.mjh.nz/PlutoTV/60c3472a51a2050008dad272-alt.m3u8
+
+#EXTINF:0 channel-id="60c34592c911890007f29a73" tvg-id="60c34592c911890007f29a73" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" group-name="Movies",Pluto TV Sci-Fi
+https://i.mjh.nz/PlutoTV/60c34592c911890007f29a73-alt.m3u8
+
+#EXTINF:0 channel-id="60812fc8539963000707d1e1" tvg-id="60812fc8539963000707d1e1" tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG.png" group-name="Movies",Pluto TV Romance
+https://i.mjh.nz/PlutoTV/60812fc8539963000707d1e1-alt.m3u8
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: SERIES
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 channel-id="60d359c98f262f00070c364e" tvg-id="60d359c98f262f00070c364e" tvg-logo="https://images.pluto.tv/channels/60d359c98f262f00070c364e/colorLogoPNG.png" group-name="Series",Pluto TV BBC Doctor Who
+https://i.mjh.nz/PlutoTV/60d359c98f262f00070c364e-alt.m3u8
+
+#EXTINF:0 channel-id="60d35a74c63c3c0008df6a90" tvg-id="60d35a74c63c3c0008df6a90" tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG.png" group-name="Series",Pluto TV BBC Drama
+https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0 channel-id="5f8ed4dbf6bb0800071ffbcb" tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" group-name="Series",Pluto TV Polar
+https://i.mjh.nz/PlutoTV/5f8ed4dbf6bb0800071ffbcb-alt.m3u8
+
+#EXTINF:0 channel-id="5f8ed2d1c34c2300073bf02c" tvg-id="5f8ed2d1c34c2300073bf02c" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png" group-name="Series",Pluto TV Series
+https://i.mjh.nz/PlutoTV/5f8ed2d1c34c2300073bf02c-alt.m3u8
+
+#EXTINF:0 channel-id="5efbd39f8c4ce900075d7698" tvg-id="5efbd39f8c4ce900075d7698" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-name="Series",Star Trek
+https://i.mjh.nz/PlutoTV/5efbd39f8c4ce900075d7698-alt.m3u8
+
+#EXTINF:0 channel-id="634dacf51d90320007fcd5fa" tvg-id="634dacf51d90320007fcd5fa" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" group-name="Series",More Star Trek
+https://i.mjh.nz/PlutoTV/634dacf51d90320007fcd5fa-alt.m3u8
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: SPORTS
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 channel-id="60492fdd9989d30007ccd30a" tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-name="Sports",beIN Sports Xtra en Espanol
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5421f71da6af422839419cb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=209&terminate=false&userId=
+
+#EXTINF:0 channel-id="64d626ac9b414d000820e2fc" tvg-id="64d626ac9b414d000820e2fc" tvg-logo="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/colorLogoPNG.png" group-title="Sports",DAZN Combat
+https://r.mjh.nz/PlutoTV/64d626ac9b414d000820e2fc-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=176.31.84.249
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: MUSIQUE
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 channel-id="61d4b38226b8a50007fe03a6" tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-name="Music",Vevo Retro Rock
+https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8

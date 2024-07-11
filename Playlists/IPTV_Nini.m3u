@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: INFORMATION
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://www.albo2000.com/tv/logos/icirdi_logo-2017.jpg" group-name="Information",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://www.albo2000.com/tv/logos/lcn.jpg" group-name="Information",LCN
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300010E4_20230627T214840SQUARE.png_20230627214841.png" group-name="Information",Radio-Canada INFO
+https://i.mjh.nz/SamsungTVPlus/CABC2300010E4.m3u8|user-agent=okhttp/4.10.0
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: FILMS
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://i.imgur.com/haUJ1ez.jpg" group-name="Films",MyTime Movie Network
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://cdn6.aptoide.com/imgs/9/e/b/9eba0b8864e745da95f326faee04acb4_icon.png" group-name="Films",Rakuten Action
+https://rakuten-actionmovies-7-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://cdn6.aptoide.com/imgs/9/e/b/9eba0b8864e745da95f326faee04acb4_icon.png" group-name="Films",Rakuten Comédie
+https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://cdn6.aptoide.com/imgs/9/e/b/9eba0b8864e745da95f326faee04acb4_icon.png" group-name="Films",Rakuten Films français
+https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://cdn6.aptoide.com/imgs/9/e/b/9eba0b8864e745da95f326faee04acb4_icon.png" group-name="Films",Rakuten Romance
+https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://cdn6.aptoide.com/imgs/9/e/b/9eba0b8864e745da95f326faee04acb4_icon.png" group-name="Films",Rakuten Thriller
+https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: SERIES
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG.png" group-name="Series",BBC Drama
+https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://cdn6.aptoide.com/imgs/9/e/b/9eba0b8864e745da95f326faee04acb4_icon.png" group-name="Series",Rakuten Séries Crime
+https://rakuten-seriescrime-7-fr.lg.wurl.tv/playlist.m3u8
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: GENERALISTES
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://icitelevision.ca/wp-content/uploads/2017/10/logo75.png" group-name="Generaliste",Ici Télévision
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/3d39ab9f6d6d1c5644229d8741e1995e/1.m3u8
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ici_Tele_logo.png/556px-Ici_Tele_logo.png" group-name="Generaliste",ICI Télé
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ici_Tele_logo.png/556px-Ici_Tele_logo.png" group-name="Generaliste",ICI Télé
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://www.albo2000.com/tv/logos/LATELE.jpg" group-name="Généraliste",La Télé
+https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Noovo_logo.svg/320px-Noovo_logo.svg.png" group-name="Generaliste",Noovo
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/400px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-name="Generaliste",Télé Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" group-name="Generaliste",TVA
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8

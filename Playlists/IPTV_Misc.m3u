@@ -1,0 +1,136 @@
+#EXTM3U
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: EPG
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: https://i.mjh.nz/Plex/ca.xml
+#EXTREM: https://i.mjh.nz/Roku/epg.xml
+#EXTREM: https://i.mjh.nz/SamsungTVPlus/fr.xml
+#EXTREM: https://i.mjh.nz/SamsungTVPlus/us.xml
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: https://i.mjh.nz/SamsungTVPlus/all.xml
+#EXTREM: 	https://i.mjh.nz/SamsungTVPlus/ca.xml
+#EXTREM: 	https://i.mjh.nz/SamsungTVPlus/ch.xml
+#EXTREM: 	https://i.mjh.nz/SamsungTVPlus/fr.xml
+#EXTREM: 	https://i.mjh.nz/SamsungTVPlus/gb.xml
+#EXTREM: 	https://i.mjh.nz/SamsungTVPlus/us.xml
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: https://www.apsattv.com/tubi.m3u
+#EXTREM: https://www.apsattv.com/lg.m3u
+#EXTREM: https://www.apsattv.com/redbox.m3u
+#EXTREM: https://www.apsattv.com/tcl.m3u
+#EXTREM: https://www.apsattv.com/tablo.m3u
+#EXTREM: https://www.apsattv.com/xumo.m3u
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: INFORMATION
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 channel-id="samsung-US4000033L" tvg-id="US4000033L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20240319T022550SQUARE.png" tvg-chno="1012" group-title="News",BBC News
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+#EXTINF:0 channel-id="samsung-US4000033L" tvg-id="US4000033L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20240319T022550SQUARE.png" tvg-chno="1012" group-title="News",BBC News
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+
+#EXTINF:0 channel-id="" tvg-id="CNN.us" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/53.png" group-name="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: DOCUMENTAIRES
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 channel-id="plex-647f8d22a2fc3fadb4721685-64879f0908027d8957214048" tvg-id="647f8d22a2fc3fadb4721685-64879f0908027d8957214048" tvg-logo="https://provider-static.plex.tv/epg/cms/production/99a5a7ac-7036-4526-a86e-a5ecc5274fad/Logo_American_Pickers_1500_x_1000_dark_-_Matt_Mattysiak.png" group-title="Documentary",American Pickers Channel
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-64879f0908027d8957214048.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=e5cU_9hcz-vaSQchhmbz&X-Forwarded-For=192.206.151.131
+
+#EXTINF:0 channel-id="roku-479fe0d11f3f5132a3f36b617547da3b" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/479fe0d11f3f5132a3f36b617547da3b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659563307973_LoveNature_260x147.png" tvg-chno="471" group-name="Documentary",Love Nature
+https://i.mjh.nz/Roku/479fe0d11f3f5132a3f36b617547da3b.m3u8|user-agent=rokuandroid
+
+#EXTREM: #EXTINF:0 channel-id="plex-647f8d22a2fc3fadb4721685-60d324f59adce5002c41dbc5" tvg-id="647f8d22a2fc3fadb4721685-60d324f59adce5002c41dbc5" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c01ebda0-1d80-4935-ad6a-a5d3c3ef108e/Stingray-Naturescape_Logo_Lightrdx.png" group-name="Documentary",Stringray Naturescape
+#EXTREM: https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-60d324f59adce5002c41dbc5.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=e5cU_9hcz-vaSQchhmbz&X-Forwarded-For=192.206.151.131
+
+#EXTINF:0 channel-id="samsung-FRAJ4500026AB" tvg-id="FRAJ4500026AB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500026AB_20221214T045045SQUARE.png_20221214045046.png" tvg-chno="4229" group-title="Documentary",Rakuten Documentaires
+https://i.mjh.nz/SamsungTVPlus/FRAJ4500026AB.m3u8
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: DIVERTISSEMENT
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTREM: #EXTINF:0 channel-id="roku-1d3f60995d80521882a379fc06e47679" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/1d3f60995d80521882a379fc06e47679/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655142477923_TheBobRossChannel_Roku_ChannelLogos_260x147.png" tvg-chno="465" group-name="Entertainment",The Bob Ross Channel
+#EXTREM: https://i.mjh.nz/Roku/1d3f60995d80521882a379fc06e47679.m3u8|user-agent=rokuandroid
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: FILMS
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 channel-id="FRBA2200010VN" tvg-id="FRBA2200010VN" tvg-logo="https://i.imgur.com/haUJ1ez.jpg" group-name="Movies",MyTime Movie Network
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:0 channel-id="samsung-FRAJ4500023UP" tvg-id="FRAJ4500023UP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500023UP_20220323T075857SQUARE.png_20220323075900.png" tvg-chno="4999" group-title="Movies",Rakuten Action
+https://i.mjh.nz/SamsungTVPlus/FRAJ4500023UP.m3u8
+#EXTINF:0 channel-id="samsung-FRAJ4500023UP" tvg-id="FRAJ4500023UP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500023UP_20220323T075857SQUARE.png_20220323075900.png" tvg-chno="4999" group-title="Movies",Rakuten Action
+https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 channel-id="samsung-FRAJ4500023UP" tvg-id="FRAJ4500023UP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500023UP_20220323T075857SQUARE.png_20220323075900.png" tvg-chno="4999" group-title="Movies",Rakuten Action
+https://rakuten-actionmovies-7-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:0 channel-id="samsung-FRAJ4500024MR" tvg-id="FRAJ4500024MR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500024MR_20240507T094222SQUARE.png" tvg-chno="4983" group-title="Movies",Rakuten Comedies
+https://i.mjh.nz/SamsungTVPlus/FRAJ4500024MR.m3u8
+#EXTINF:0 channel-id="samsung-FRAJ4500024MR" tvg-id="FRAJ4500024MR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500024MR_20240507T094222SQUARE.png" tvg-chno="4983" group-title="Movies",Rakuten Comedies
+https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0 channel-id="samsung-FRAJ4500025AN" tvg-id="FRAJ4500025AN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500025AN_20221026T004313SQUARE.png_20221026004313.png" tvg-chno="4998" group-title="Movies",Rakuten Drame
+https://i.mjh.nz/SamsungTVPlus/FRAJ4500025AN.m3u8
+
+#EXTINF:0 channel-id="9eba0b8864e745da95f326faee04acb4" tvg-id="9eba0b8864e745da95f326faee04acb4" tvg-logo="https://cdn6.aptoide.com/imgs/9/e/b/9eba0b8864e745da95f326faee04acb4_icon.png" group-name="Movies",Rakuten Films francais
+https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0 channel-id="samsung-FRBA33000341O" tvg-id="FRBA33000341O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA33000341O_20240507T094249SQUARE.png" tvg-chno="4004" group-title="Movies",Rakuten Romance
+https://i.mjh.nz/SamsungTVPlus/FRBA33000341O.m3u8
+#EXTINF:0 channel-id="samsung-FRBA33000341O" tvg-id="FRBA33000341O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA33000341O_20240507T094249SQUARE.png" tvg-chno="4004" group-title="Movies",Rakuten Romance
+https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0 channel-id="samsung-FRBA3300033GO" tvg-id="FRBA3300033GO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300033GO_20221012T021124SQUARE.png_20221012021125.png" tvg-chno="4994" group-title="Movies",Rakuten Top Films
+https://i.mjh.nz/SamsungTVPlus/FRBA3300033GO.m3u8
+#EXTINF:0 channel-id="samsung-FRBA3300033GO" tvg-id="FRBA3300033GO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300033GO_20221012T021124SQUARE.png_20221012021125.png" tvg-chno="4994" group-title="Movies",Rakuten Top Films
+https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0 channel-id="9eba0b8864e745da95f326faee04acb4" tvg-id="9eba0b8864e745da95f326faee04acb4" tvg-logo="https://cdn6.aptoide.com/imgs/9/e/b/9eba0b8864e745da95f326faee04acb4_icon.png" group-name="Movies",Rakuten Thriller
+https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: SERIES
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 channel-id="samsung-FRBA33000365W" tvg-id="FRBA33000365W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA33000365W_20230510T043936SQUARE.png_20230510043937.png" tvg-chno="4165" group-title="Series",Rakuten Crime
+https://i.mjh.nz/SamsungTVPlus/FRBA33000365W.m3u8
+#EXTINF:0 channel-id="samsung-FRBA33000365W" tvg-id="FRBA33000365W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA33000365W_20230510T043936SQUARE.png_20230510043937.png" tvg-chno="4165" group-title="Series",Rakuten Crime
+https://rakuten-seriescrime-7-fr.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:0 channel-id="9eba0b8864e745da95f326faee04acb4" tvg-id="9eba0b8864e745da95f326faee04acb4" tvg-logo="https://cdn6.aptoide.com/imgs/9/e/b/9eba0b8864e745da95f326faee04acb4_icon.png" group-name="Series",Rakuten Shows
+https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 channel-id="9eba0b8864e745da95f326faee04acb4" tvg-id="9eba0b8864e745da95f326faee04acb4" tvg-logo="https://cdn6.aptoide.com/imgs/9/e/b/9eba0b8864e745da95f326faee04acb4_icon.png" group-name="Series",Rakuten Shows
+https://rakuten-tvshows-7-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: SPORTS
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 channel-id="CABA8000043F" tvg-id="CABA8000043F" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/70/CABA8000043F_20210909T003516.png" group-name="Sports",beIN Sports Xtra Canada
+https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
+
+#EXTREM: #EXTINF:0 channel-id="roku-909b135136a1567eaf3f65fb64988323" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" tvg-chno="930" group-name="Sports",beIN Sports Xtra en Espanol
+#EXTREM: https://i.mjh.nz/Roku/909b135136a1567eaf3f65fb64988323.m3u8|user-agent=rokuandroid
+
+#EXTINF:0 channel-id="USAJ4300001Q7" tvg-id="USAJ4300001Q7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-name="Sports",beIN Sports Xtra USA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-bein-xtra-samsungca/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTREM: #EXTINF:0 channel-id="roku-bc932f13c31e542db6e3e6247e7131bc" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/bc932f13c31e542db6e3e6247e7131bc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652896913644_beIN-SPORTS-XTRA_LOGO_ROKU_HUD_260x147%255B1%255D.png" tvg-chno="225" group-name="Sports",beIN Sports Xtra
+#EXTREM: https://i.mjh.nz/Roku/bc932f13c31e542db6e3e6247e7131bc.m3u8|user-agent=rokuandroid
+
+#EXTINF:0 channel-id="roku-b6a492b04d7d534fa0e9e69380382d02" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/b6a492b04d7d534fa0e9e69380382d02/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694819506729_DAZN_TV_Ringside_Channel_HUD_Logo.png" tvg-chno="242" group-title="Sports",DAZN Ringside
+https://i.mjh.nz/Roku/b6a492b04d7d534fa0e9e69380382d02.m3u8|user-agent=rokuandroid
+
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTREM: MUSIQUE
+#EXTREM: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:0 channel-id="roku-fd8d765f98605129914b581147e7e8b2" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/fd8d765f98605129914b581147e7e8b2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112947403_Info_HUD_Logo_260X147_center_%252817%2529.png" tvg-chno="1170" group-name="Music",Vevo '80s
+https://i.mjh.nz/Roku/fd8d765f98605129914b581147e7e8b2.m3u8|user-agent=rokuandroid
