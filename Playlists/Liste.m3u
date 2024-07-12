@@ -5,11 +5,11 @@
 #EXTREM: #EXT-X-MEDIA:TYPE=VIDEO
 
 #EXTREM: #EXTVLCOPT:network-caching=9000
-#EXTREM: #EXTVLCOPTâ€“http-reconnect=true
+#EXTREM: #EXTVLCOPT–http-reconnect=true
 #EXTREM: #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/40.0
 
-#EXTREM: GÃ©nÃ©rÃ© pour Ãªtre utilisÃ© avec "PVR IPTV Simple Client" 
-#EXTREM: 2024-07-11 15:19:56
+#EXTREM: Généré pour être utilisé avec "PVR IPTV Simple Client" 
+#EXTREM: 2024-07-12 15:26:02
 
 #EXTREM: ------------------------------------------------------------------------------------------------
 #EXTREM: http://totv.org/channels
@@ -184,7 +184,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=
 #EXTREM: https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/BFM-Paris-IDF-2022.svg/240px-BFM-Paris-IDF-2022.svg.png
 
 #EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-226.png" group-name="Information",CNews
-https://live-b.cf.dmcdn.net/sec2(zQAROCvey1UWDe1K7R9ZLY424_7FfiGiianKrqc-8fb-2KGGidjK90TM1IplqyHGW5ObXO0FmIgWz2e7bGspewVFVtxLY6SbiTyxQR9mv4c)/dm/3/x3b68jn/d/live-4.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(AkVC26_3PRtvhz-ae2fPZZOKudcxBM5v7la86rxtSgRMUxdcaHju5WupYVMbKr2ihXXzZ9Ms8V-6-BsNnWBQmPxp_oh4pZ93vaJGjYsTp38)/dm/3/x3b68jn/d/live-4.m3u8#cell=lcfb
 
 #EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-226.png" group-name="Information",CNews
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/CNEWS.m3u8
@@ -260,7 +260,7 @@ plugin://plugin.video.tvone111/play/1252/play.pvr
 #EXTREM: https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 
 #EXTINF:0 tvg-id="FranceInfo.fr" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-name="Information",franceinfo:
-https://live-b.cf.dmcdn.net/sec2(hHZAqPzOOgtGgHFRw5Z7_6SjjgVs7Ponlexte79srCJM5lJ3YWu1mhnOPFNl_gOBfpJPAdN4h9GPuTDNVrhyndYVaLOG-ZjaR2wzzJyVE6k)/dm/3/x4rdeu6/d/live-3.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(DMKceb_d9Rd1zZAvdF3NtqUy1a7vF7PRy7a4T4LXeTki6bQSNR9sIWmfP9OmUwnZ8WXlCixejqkRCrfVY9wt5s_AAtyPj1t0AwC-BNJoGbk)/dm/3/x4rdeu6/d/live-3.m3u8#cell=lcfb
 
 #EXTINF:0 tvg-id="FranceInfo.fr" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-name="Information",franceinfo:
 plugin://plugin.video.vavooto/?name=FRANCEINFO
@@ -290,7 +290,7 @@ http://gratuittv.free.fr/Files/i24news/live/playlist.m3u8|X-Forwarded-For=163.17
 #EXTREM: http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTREM: https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 
-#EXTINF:0 tvg-id="Martinique1ere.mq" tvg-logo="https://i.imgur.com/rBhc87a.png" group-name="Undefined",Martinique la 1Ã¨re
+#EXTINF:0 tvg-id="Martinique1ere.mq" tvg-logo="https://i.imgur.com/rBhc87a.png" group-name="Undefined",Martinique la 1ère
 https://ythls.armelin.one/channel/UCgA9V57lQlZFXkDfhVGTWSg.m3u8
 
 #EXTINF:0 tvg-id="NewsmaxTV.us" tvg-logo="https://logodix.com/logo/2063472.gif" group-name="Information",Newsmax
@@ -322,16 +322,16 @@ plugin://plugin.video.vavooto/?name=CRIME+DISTRICT
 #EXTREM: plugin://plugin.video.tvone11/play/20/1908/play.pvr
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1908/play.pvr
 
-#EXTINF:0 tvg-id="PlanetePlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-147.png" group-name="Documentaires",PlanÃ¨te+ Aventure
+#EXTINF:0 tvg-id="PlanetePlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-147.png" group-name="Documentaires",Planète+ Aventure
 plugin://plugin.video.vavooto/?name=PLANET
 
-#EXTINF:0 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1400.png" group-name="Documentaires",RMC DÃ©couverte
+#EXTINF:0 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1400.png" group-name="Documentaires",RMC Découverte
 plugin://plugin.video.vavooto/?name=RMC+DECOUVERTE
-#EXTINF:0 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1400.png" group-name="Documentaires",RMC DÃ©couverte
+#EXTINF:0 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1400.png" group-name="Documentaires",RMC Découverte
 https://i.mjh.nz/SamsungTVPlus/FRBD4100008QS.m3u8
-#EXTINF:0 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1400.png" group-name="Documentaires",RMC DÃ©couverte
+#EXTINF:0 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1400.png" group-name="Documentaires",RMC Découverte
 plugin://plugin.video.vavooto/?name=USHUAIA+TV
-#EXTINF:0 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1400.png" group-name="Documentaires",RMC DÃ©couverte
+#EXTINF:0 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1400.png" group-name="Documentaires",RMC Découverte
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTREM: https://s13.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 #EXTREM: https://i.imgur.com4:34 PM 2021-08-23/FVrOYXe.jpg
@@ -403,9 +403,9 @@ plugin://plugin.video.vavootoUK/?name=SKY+NATURE
 #EXTREM: #EXTINF:0 tvg-id="UltraNature.fr" tvg-logo="https://www.hdnumerique.com/medias/articles/500/ultra-nature-logo.jpg" group-name="Nature",Ultra Nature 4K
 #EXTREM: http://185.236.229.31:9981/play/a01d
 
-#EXTINF:0 tvg-id="UshuaiaTV.fr" tvg-logo="https://tf1pub.fr/sites/default/files/thumbnails/image/ushuaia-tv.jpg" group-name="Nature",UshuaÃ¯a TV
+#EXTINF:0 tvg-id="UshuaiaTV.fr" tvg-logo="https://tf1pub.fr/sites/default/files/thumbnails/image/ushuaia-tv.jpg" group-name="Nature",Ushuaïa TV
 plugin://plugin.video.vavooto/?name=USHUAIA
-#EXTINF:0 tvg-id="UshuaiaTV.fr" tvg-logo="https://tf1pub.fr/sites/default/files/thumbnails/image/ushuaia-tv.jpg" group-name="Nature",UshuaÃ¯a TV
+#EXTINF:0 tvg-id="UshuaiaTV.fr" tvg-logo="https://tf1pub.fr/sites/default/files/thumbnails/image/ushuaia-tv.jpg" group-name="Nature",Ushuaïa TV
 plugin://plugin.video.vavooto/?name=USHUA%C3%8FA+TV
 #EXTREM: http://193.252.43.21:10200/play/a0ch
 
@@ -459,23 +459,23 @@ plugin://plugin.video.vavooto/?name=HISTOIRE+TV
 #EXTREM: ------------------------------------------------------------------------------------------------
 
 #EXTREM: ------------------------------------------------------------------------------------------------
-#EXTREM: ComÃ©die
+#EXTREM: Comédie
 #EXTREM: ------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-id="ComediePlus.fr" tvg-logo="https://i1.wp.com/www.planetecsat.com/wp-content/uploads/2015/08/Com%C3%A9die-1-1.jpg?fit=822%2C737&ssl=1&w=640" group-name="ComÃ©die",ComÃ©die+
+#EXTINF:0 tvg-id="ComediePlus.fr" tvg-logo="https://i1.wp.com/www.planetecsat.com/wp-content/uploads/2015/08/Com%C3%A9die-1-1.jpg?fit=822%2C737&ssl=1&w=640" group-name="Comédie",Comédie+
 plugin://plugin.video.vavooto/?name=COMEDIE
-#EXTINF:0 tvg-id="ComediePlus.fr" tvg-logo="https://i1.wp.com/www.planetecsat.com/wp-content/uploads/2015/08/Com%C3%A9die-1-1.jpg?fit=822%2C737&ssl=1&w=640" group-name="ComÃ©die",ComÃ©die+
+#EXTINF:0 tvg-id="ComediePlus.fr" tvg-logo="https://i1.wp.com/www.planetecsat.com/wp-content/uploads/2015/08/Com%C3%A9die-1-1.jpg?fit=822%2C737&ssl=1&w=640" group-name="Comédie",Comédie+
 plugin://plugin.video.vavooto/?name=COMEDIE%2B
 #EXTREM: plugin://plugin.video.tvone11/play/20/1160/play.pvr
 #EXTREM: https://i1.wp.com/www.planetecsat.com/wp-content/uploads/2015/08/Com%C3%A9die-1-1.jpg?fit=822%2C737&ssl=1&w=640
 #EXTREM: https://focus.telerama.fr/250x250/60/0000/00/01/clear-54.png
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1160/play.pvr
 
-#EXTREM: #EXTINF:0 tvg-id="ComedyCentral.fr" tvg-logo="https://www.creativefabrica.com/wp-content/uploads/2019/03/Monogram-MS-Logo-Design-by-Greenlines-Studios-580x386.jpg" group-name="ComÃ©die",MS Comedy
+#EXTREM: #EXTINF:0 tvg-id="ComedyCentral.fr" tvg-logo="https://www.creativefabrica.com/wp-content/uploads/2019/03/Monogram-MS-Logo-Design-by-Greenlines-Studios-580x386.jpg" group-name="Comédie",MS Comedy
 #EXTREM: plugin://plugin.video.vavooto/?name=MS+COMEDY
 
 #EXTREM: ------------------------------------------------------------------------------------------------
-#EXTREM: SÃ©ries et Films
+#EXTREM: Séries et Films
 #EXTREM: ------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-id="Action.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-10.png" group-name="Films",Action
@@ -491,27 +491,27 @@ plugin://plugin.video.vavooto/?name=ACTION
 #EXTREM: http://flusonic-4.platinum-tv.com/action/mono.m3u8?token=test
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1177/play.pvr
 
-#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",Ã€ la carte 1
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 1
 #EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+1
-#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",Ã€ la carte 2
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 2
 #EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+2
-#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",Ã€ la carte 3
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 3
 #EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+3
-#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",Ã€ la carte 4
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 4
 #EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+4
-#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",Ã€ la carte 5
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 5
 #EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+5
-#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",Ã€ la carte 6
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 6
 #EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+6
-#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",Ã€ la carte 7
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 7
 #EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+7
-#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",Ã€ la carte 8
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 8
 #EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+8
-#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",Ã€ la carte 9
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 9
 #EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+9
-#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",Ã€ la carte 10
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 10
 #EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+10
-#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",Ã€ la carte 11
+#EXTREM: #EXTINF:0 tvg-id="CineAlacarte.fr" tvg-logo="https://iili.io/mwqGig.png" group-name="Films",À la carte 11
 #EXTREM: plugin://plugin.video.vavooto/?name=A+LA+CARTE+11
 
 #EXTREM: #EXTINF:0 tvg-id="AmazonPrime1.fr" tvg-logo="https://focus.telerama.fr/0000/00/02/clear-106.png" group-name="Films",Amazon Prime 1
@@ -604,11 +604,11 @@ plugin://plugin.video.vavooto/?name=ACTION
 #EXTREM: #EXTINF:0 tvg-id="EVENEMENTALACARTE.fr" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-name="Films",CanalPlay 18
 #EXTREM: plugin://plugin.video.vavooto/?name=CANAL+PLAY+18
 
-#EXTINF:0 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-34.png" group-name="GÃ©nÃ©raliste",Canal+
+#EXTINF:0 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-34.png" group-name="Généraliste",Canal+
 plugin://plugin.video.vavooto/?name=CANAL
-#EXTINF:0 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-34.png" group-name="GÃ©nÃ©raliste",Canal+
+#EXTINF:0 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-34.png" group-name="Généraliste",Canal+
 plugin://plugin.video.vavooto/?name=CANAL%2B
-#EXTINF:0 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-34.png" group-name="GÃ©nÃ©raliste",Canal+
+#EXTINF:0 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-34.png" group-name="Généraliste",Canal+
 plugin://plugin.video.vavooto/?name=CINE%2B+ISSON
 #EXTREM: https://dailymotionlive.akamaized.net/sec(3uHXKsK7_-J9YIYIiNPgOBfPWlkyo4f9dh9ulgXaIvGIevx3n7gfDKi-MzkXvZYw)/p/dm/3/x5gv6be/d/live-4.m3u8#cell=lcore
 #EXTREM: http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5gv6be
@@ -621,15 +621,15 @@ plugin://plugin.video.vavooto/?name=CINE%2B+ISSON
 #EXTREM: http://flusonic-4.platinum-tv.com/canal+/mono.m3u8?token=test
 #EXTREM: http://stream.tvtap.live:8081/live/fr-canaplus.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="CanalPlusDecale.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-30.png" group-name="GÃ©nÃ©raliste",Canal+ DÃ©calÃ©
+#EXTINF:0 tvg-id="CanalPlusDecale.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-30.png" group-name="Généraliste",Canal+ Décalé
 plugin://plugin.video.vavooto/?name=CANAL%2B+DECALE
-#EXTINF:0 tvg-id="CanalPlusDecale.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-30.png" group-name="GÃ©nÃ©raliste",Canal+ DÃ©calÃ©
+#EXTINF:0 tvg-id="CanalPlusDecale.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-30.png" group-name="Généraliste",Canal+ Décalé
 plugin://plugin.video.vavooto/?name=CANAL+DECALE
 #EXTREM: http://193.252.43.21:10200/play/a0b6
 
-#EXTINF:0 tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-33.png" group-name="Films",Canal+ CinÃ©ma
+#EXTINF:0 tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-33.png" group-name="Films",Canal+ Cinéma
 plugin://plugin.video.vavooto/?name=CANAL+PLUS+C+NEMA
-#EXTINF:0 tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-33.png" group-name="Films",Canal+ CinÃ©ma
+#EXTINF:0 tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-33.png" group-name="Films",Canal+ Cinéma
 plugin://plugin.video.vavooto/?name=CANAL%2B+CINEMA
 #EXTREM: plugin://plugin.video.tvone11/play/20/1138/play.pvr
 #EXTREM: https://focus.telerama.fr/250x250/60/0000/00/01/clear-33.png
@@ -645,44 +645,44 @@ plugin://plugin.video.vavooto/?name=CANAL%2B+CINEMA
 #EXTREM: plugin://plugin.video.vavooto/?name=CANAL%2B+FAMILY
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1136/play.pvr
 
-#EXTINF:0 tvg-id="CanalPlusSeries.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1563.png" group-name="SÃ©ries",Canal+ SÃ©ries
+#EXTINF:0 tvg-id="CanalPlusSeries.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1563.png" group-name="Séries",Canal+ Séries
 plugin://plugin.video.vavooto/?name=CANAL%2B+SERIES
 #EXTREM: plugin://plugin.video.tvone11/play/20/1135/play.pvr
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1135/play.pvr
 #EXTREM: http://193.252.43.21:10200/play/a0b1
 
-#EXTINF:0 tvg-id="CinePlusClassic.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-287.png" group-name="Films",CinÃ©+ Classic
+#EXTINF:0 tvg-id="CinePlusClassic.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-287.png" group-name="Films",Ciné+ Classic
 plugin://plugin.video.vavooto/?name=CINE+CLASSIC
-#EXTINF:0 tvg-id="CinePlusClassic.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-287.png" group-name="Films",CinÃ©+ Classic
+#EXTINF:0 tvg-id="CinePlusClassic.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-287.png" group-name="Films",Ciné+ Classic
 plugin://plugin.video.vavooto/?name=CINA%2B+CLASSIC
 #EXTREM: plugin://plugin.video.vavooto/?name=CINE%2B+CLASSIC
 #EXTREM: plugin://plugin.video.tvone11/play/20/1145/play.pvr
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1145/play.pvr
 
-#EXTINF:0 tvg-id="CinePlusClub.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-285.png" group-name="Films",CinÃ©+ Club
+#EXTINF:0 tvg-id="CinePlusClub.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-285.png" group-name="Films",Ciné+ Club
 plugin://plugin.video.vavooto/?name=CINE+CLUB
-#EXTINF:0 tvg-id="CinePlusClub.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-285.png" group-name="Films",CinÃ©+ Club
+#EXTINF:0 tvg-id="CinePlusClub.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-285.png" group-name="Films",Ciné+ Club
 plugin://plugin.video.vavooto/?name=CINE%2B+CLUB
 
-#EXTINF:0 tvg-id="CinePlusEmotion.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-283.png" group-name="Films",CinÃ©+ Ã‰motion
+#EXTINF:0 tvg-id="CinePlusEmotion.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-283.png" group-name="Films",Ciné+ Émotion
 plugin://plugin.video.vavooto/?name=CINE%2B+EMOTION
 
-#EXTINF:0 tvg-id="CinePlusFamiz.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-401.png" group-name="Films",CinÃ©+ Famiz
+#EXTINF:0 tvg-id="CinePlusFamiz.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-401.png" group-name="Films",Ciné+ Famiz
 plugin://plugin.video.vavooto/?name=CINE+FAMIZ
-#EXTINF:0 tvg-id="CinePlusFamiz.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-401.png" group-name="Films",CinÃ©+ Famiz
+#EXTINF:0 tvg-id="CinePlusFamiz.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-401.png" group-name="Films",Ciné+ Famiz
 plugin://plugin.video.vavooto/?name=CINE%2B+FAMIZ
 #EXTREM: http://193.252.43.21:10200/play/a0d5
 #EXTREM: plugin://plugin.video.tvone11/play/20/1144/play.pvr
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1144/play.pvr
 
-#EXTINF:0 tvg-id="CinePlusFrisson.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/320px-CinePlusFrisson.svg.png" group-name="Films",CinÃ©+ Frisson
+#EXTINF:0 tvg-id="CinePlusFrisson.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/320px-CinePlusFrisson.svg.png" group-name="Films",Ciné+ Frisson
 plugin://plugin.video.vavooto/?name=CINE+FRISSON
-#EXTINF:0 tvg-id="CinePlusFrisson.fr" tvg-logo="https://canalplus.azureedge.net/media/15e360a3-e879-4d4a-8560-e9e44b70d4fb.png" group-name="Films",CinÃ©+ Frisson
+#EXTINF:0 tvg-id="CinePlusFrisson.fr" tvg-logo="https://canalplus.azureedge.net/media/15e360a3-e879-4d4a-8560-e9e44b70d4fb.png" group-name="Films",Ciné+ Frisson
 plugin://plugin.video.vavooto/?name=CINE%2B+FRISSON
 
-#EXTINF:0 tvg-id="PolarPlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-2326.png" group-name="Films",CinÃ© Polar+
+#EXTINF:0 tvg-id="PolarPlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-2326.png" group-name="Films",Ciné Polar+
 plugin://plugin.video.vavooto/?name=CINE+POLAR%2B
-#EXTINF:0 tvg-id="PolarPlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-2326.png" group-name="Films",CinÃ© Polar+
+#EXTINF:0 tvg-id="PolarPlus.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-2326.png" group-name="Films",Ciné Polar+
 plugin://plugin.video.vavooto/?name=POLAR
 #EXTREM: http://193.252.43.21:10200/play/a0at
 #EXTREM: plugin://plugin.video.vavooto/?name=CIN+POLAR
@@ -695,9 +695,9 @@ plugin://plugin.video.vavooto/?name=POLAR
 #EXTREM: http://flusonic-4.platinum-tv.com/polar+/mono.m3u8?token=test
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1141/play.pvr
 
-#EXTINF:0 tvg-id="CinePlusPremier.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-282.png" group-name="Films",CinÃ©+ Premier
+#EXTINF:0 tvg-id="CinePlusPremier.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-282.png" group-name="Films",Ciné+ Premier
 plugin://plugin.video.vavooto/?name=CINE+PREMIER
-#EXTINF:0 tvg-id="CinePlusPremier.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-282.png" group-name="Films",CinÃ©+ Premier
+#EXTINF:0 tvg-id="CinePlusPremier.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-282.png" group-name="Films",Ciné+ Premier
 plugin://plugin.video.vavooto/?name=CINE%2B+PREMIER
 #EXTREM: plugin://plugin.video.tvone11/play/20/1140/play.pvr
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1140/play.pvr
@@ -733,11 +733,11 @@ plugin://plugin.video.tvone112/play/45/154/play.pvr
 #EXTREM: plugin://plugin.video.tvone111/play/1678/play.pvr
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1153/play.pvr
 
-#EXTINF:0 tvg-id="OCSGeants.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-734.png" group-name="Films",OCS gÃ©ants
+#EXTINF:0 tvg-id="OCSGeants.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-734.png" group-name="Films",OCS géants
 plugin://plugin.video.vavooto/?name=OCS+GEANTS
-#EXTINF:0 tvg-id="OCSGeants.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-734.png" group-name="Films",OCS gÃ©ants
+#EXTINF:0 tvg-id="OCSGeants.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-734.png" group-name="Films",OCS géants
 plugin://plugin.video.vavooto/?name=OCS+GEANET
-#EXTINF:0 tvg-id="OCSGeants.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-734.png" group-name="Films",OCS gÃ©ants
+#EXTINF:0 tvg-id="OCSGeants.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-734.png" group-name="Films",OCS géants
 plugin://plugin.video.tvone112/play/45/2687/play.pvr
 #EXTREM: plugin://plugin.video.vavooto/?name=OCS+GEANT
 
@@ -754,30 +754,30 @@ plugin://plugin.video.tvone112/play/45/156/play.pvr
 #EXTINF:0 tvg-id="ParamountChannel.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1562.png" group-name="Films",Paramount Channel
 plugin://plugin.video.vavooto/?name=PARAMOUNT+CHANNEL
 
-#EXTINF:0 tvg-id="ParamountChannelDecale.fr" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/5f5f638c20919/uploads/media/Paramount_Channel.png" group-name="Films",Paramount Channel DÃ©calÃ©
+#EXTINF:0 tvg-id="ParamountChannelDecale.fr" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/5f5f638c20919/uploads/media/Paramount_Channel.png" group-name="Films",Paramount Channel Décalé
 plugin://plugin.video.vavooto/?name=PARAMOUNT+CHANNEL+DECALE
-#EXTINF:0 tvg-id="ParamountChannelDecale.fr" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/5f5f638c20919/uploads/media/Paramount_Channel.png" group-name="Films",Paramount Channel DÃ©calÃ©
+#EXTINF:0 tvg-id="ParamountChannelDecale.fr" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/5f5f638c20919/uploads/media/Paramount_Channel.png" group-name="Films",Paramount Channel Décalé
 plugin://plugin.video.vavooto/?name=PARAMOUNT+DECALE
 
-#EXTINF:0 tvg-id="serieclub.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Serie_club_hd.png/300px-Serie_club_hd.png" group-name="SÃ©ries",serieclub
+#EXTINF:0 tvg-id="serieclub.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Serie_club_hd.png/300px-Serie_club_hd.png" group-name="Séries",serieclub
 plugin://plugin.video.vavooto/?name=SERIE+CLUB
 #EXTREM: plugin://plugin.video.vavooto/?name=SERIES+CLUB
 
-#EXTINF:0 tvg-id="Super.Ecran.(SE).ca" tvg-logo="http://img.rapidstreams.io/1/data/images/62004_Super_Ecran_logo_150x150.png" group-name="Films",Super Ã‰cran 1
+#EXTINF:0 tvg-id="Super.Ecran.(SE).ca" tvg-logo="http://img.rapidstreams.io/1/data/images/62004_Super_Ecran_logo_150x150.png" group-name="Films",Super Écran 1
 plugin://plugin.video.tvone112/play/145/2555/play.pvr
 #EXTREM: Super.Ecran.HDTV.(SEHD).ca
 
-#EXTINF:0 tvg-id="Super.Ecran.2.(SE2).ca" tvg-logo="http://img.rapidstreams.io/1/data/images/62004_Super_Ecran_logo_150x150.png" group-name="Films",Super Ã‰cran 2
+#EXTINF:0 tvg-id="Super.Ecran.2.(SE2).ca" tvg-logo="http://img.rapidstreams.io/1/data/images/62004_Super_Ecran_logo_150x150.png" group-name="Films",Super Écran 2
 plugin://plugin.video.tvone112/play/145/2555/play.pvr
 #EXTREM: Super.Ecran.2.HDTV.(SE2HD).ca
 
-#EXTINF:0 tvg-id="Super.Ecran.3.(SE3).ca" tvg-logo="http://img.rapidstreams.io/1/data/images/62004_Super_Ecran_logo_150x150.png" group-name="Films",Super Ã‰cran 3
+#EXTINF:0 tvg-id="Super.Ecran.3.(SE3).ca" tvg-logo="http://img.rapidstreams.io/1/data/images/62004_Super_Ecran_logo_150x150.png" group-name="Films",Super Écran 3
 plugin://plugin.video.tvone112/play/145/2555/play.pvr
 
-#EXTINF:0 tvg-id="Super.Ecran.4.(SE4).ca" tvg-logo="http://img.rapidstreams.io/1/data/images/62004_Super_Ecran_logo_150x150.png" group-name="Films",Super Ã‰cran 4
+#EXTINF:0 tvg-id="Super.Ecran.4.(SE4).ca" tvg-logo="http://img.rapidstreams.io/1/data/images/62004_Super_Ecran_logo_150x150.png" group-name="Films",Super Écran 4
 plugin://plugin.video.tvone112/play/145/2555/play.pvr
 
-#EXTINF:0 tvg-id="Syfy.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-479.png" group-name="SÃ©ries",Syfy
+#EXTINF:0 tvg-id="Syfy.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-479.png" group-name="Séries",Syfy
 plugin://plugin.video.vavooto/?name=SYFY
 #EXTREM: plugin://plugin.video.tvone11/play/20/1149/play.pvr
 #EXTREM: http://flusonic-4.platinum-tv.com/Syfy/mono.m3u8?token=test
@@ -785,21 +785,21 @@ plugin://plugin.video.vavooto/?name=SYFY
 #EXTREM: http://190.2.138.13/Syfy/tracks-v1a1/mono.m3u8?token=test
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1149/play.pvr
 
-#EXTINF:0 tvg-id="TCM.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-185.png" group-name="Films",TCM CinÃ©ma
+#EXTINF:0 tvg-id="TCM.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-185.png" group-name="Films",TCM Cinéma
 plugin://plugin.video.vavooto/?name=TCM+CINEMA
 #EXTREM: plugin://plugin.video.rbtv/play/1673/play.pvr
 #EXTREM: plugin://plugin.video.tvone111/play/1673/play.pvr
 
-#EXTINF:0 tvg-id="temoin.ca" tvg-logo="https://aliant.bell.ca/Styles/tv/channels/logos/TEMOIN_logo_Noir_Plein_RGB.jpg" group-name="SÃ©ries",TÃ©moin
+#EXTINF:0 tvg-id="temoin.ca" tvg-logo="https://aliant.bell.ca/Styles/tv/channels/logos/TEMOIN_logo_Noir_Plein_RGB.jpg" group-name="Séries",Témoin
 https://temoindirect.akamaized.net/no/V-MOICIE/V-MOICIE.isml/playlist.m3u8
-#EXTINF:0 tvg-id="temoin.ca" tvg-logo="https://aliant.bell.ca/Styles/tv/channels/logos/TEMOIN_logo_Noir_Plein_RGB.jpg" group-name="SÃ©ries",TÃ©moin
+#EXTINF:0 tvg-id="temoin.ca" tvg-logo="https://aliant.bell.ca/Styles/tv/channels/logos/TEMOIN_logo_Noir_Plein_RGB.jpg" group-name="Séries",Témoin
 https://temoindirect.akamaized.net/no/V-MOICIE/V-MOICIE.isml/V-MOICIE.m3u8
-#EXTINF:0 tvg-id="temoin.ca" tvg-logo="https://aliant.bell.ca/Styles/tv/channels/logos/TEMOIN_logo_Noir_Plein_RGB.jpg" group-name="SÃ©ries",TÃ©moin
+#EXTINF:0 tvg-id="temoin.ca" tvg-logo="https://aliant.bell.ca/Styles/tv/channels/logos/TEMOIN_logo_Noir_Plein_RGB.jpg" group-name="Séries",Témoin
 https://temoindirect.akamaized.net/no/V-MOICIE/V-MOICIE.isml/V-MOICIE-audio_track_0_0_fre=128000-video_track=1850000.m3u8?__nn__=5529128749001
 
-#EXTINF:0 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1404.png" group-name="SÃ©ries",TF1 SÃ©ries Films
+#EXTINF:0 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1404.png" group-name="Séries",TF1 Séries Films
 plugin://plugin.video.vavooto/?name=TF+1+SERIES+FILMS
-#EXTINF:0 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1404.png" group-name="SÃ©ries",TF1 SÃ©ries Films
+#EXTINF:0 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1404.png" group-name="Séries",TF1 Séries Films
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1sf.m3u8
 #EXTREM: plugin://plugin.video.vavooto/?name=TFI+SERIES+AND+FILM
 #EXTREM: plugin://plugin.video.vavooto/?name=HD1
@@ -820,42 +820,42 @@ plugin://plugin.video.vavooto/?name=WARNER+TV
 #EXTREM: http://193.252.43.21:10200/play/a0au
 
 #EXTREM: ------------------------------------------------------------------------------------------------
-#EXTREM: GÃ©nÃ©raliste
+#EXTREM: Généraliste
 #EXTREM: ------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-id="13eRue.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/13EME_RUE_2018.png" group-name="GÃ©nÃ©raliste",13Ã¨me Rue
+#EXTINF:0 tvg-id="13eRue.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/13EME_RUE_2018.png" group-name="Généraliste",13ème Rue
 plugin://plugin.video.vavooto/?name=13+EME+RUE
-#EXTINF:0 tvg-id="13eRue.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/13EME_RUE_2018.png" group-name="GÃ©nÃ©raliste",13Ã¨me Rue
+#EXTINF:0 tvg-id="13eRue.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/13EME_RUE_2018.png" group-name="Généraliste",13ème Rue
 plugin://plugin.video.vavooto/?name=13EME+RUE
 #EXTREM: https://pbs.twimg.com/profile_images/837739597748649986/V8aYLf5R_400x400.jpg
 
-#EXTINF:0 tvg-id="6ter.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1403.png" group-name="GÃ©nÃ©raliste",6ter
+#EXTINF:0 tvg-id="6ter.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1403.png" group-name="Généraliste",6ter
 plugin://plugin.video.vavooto/?name=6TER
-#EXTINF:0 tvg-id="6ter.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1403.png" group-name="GÃ©nÃ©raliste",6ter
+#EXTINF:0 tvg-id="6ter.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1403.png" group-name="Généraliste",6ter
 plugin://plugin.video.vavooto/?name=6+TER
 #EXTREM: http://stream.tvtap.live:8081/live/fr-6ter.stream/playlist.m3u8
 #EXTREM: https://static1.ozap.com/articles/5/47/42/05/@/4488475-logo-6ter-article_media_image-1.jpg
 #EXTREM: http://31.220.41.86:8081/live/fr-6ter.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-5.png" group-name="GÃ©nÃ©raliste",AB1
+#EXTINF:0 tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-5.png" group-name="Généraliste",AB1
 plugin://plugin.video.vavooto/?name=AB+1
-#EXTINF:0 tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-5.png" group-name="GÃ©nÃ©raliste",AB1
+#EXTINF:0 tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-5.png" group-name="Généraliste",AB1
 plugin://plugin.video.vavooto/?name=AB1
 #EXTREM: http://flusonic-4.platinum-tv.com/AB1/tracks-v1a1/mono.m3u8?token=test
 #EXTREM: http://190.2.138.13/AB1/tracks-v1a1/mono.m3u8?token=test
 #EXTREM: https://i.imgur.com/alYq7vX.png
 
-#EXTINF:0 tvg-id="AB3.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-254.png" group-name="GÃ©nÃ©raliste",AB3
+#EXTINF:0 tvg-id="AB3.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-254.png" group-name="Généraliste",AB3
 plugin://plugin.video.vavooto/?name=AB+3
-#EXTINF:0 tvg-id="AB3.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-254.png" group-name="GÃ©nÃ©raliste",AB3
+#EXTINF:0 tvg-id="AB3.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-254.png" group-name="Généraliste",AB3
 plugin://plugin.video.vavooto/?name=AB3
 #EXTREM: http://flusonic-4.platinum-tv.com/AB3/tracks-v1a1/mono.m3u8?token=test
 #EXTREM: https://static.wikia.nocookie.net/logopedia/images/7/73/AB3_2004.jpg
 #EXTREM: http://190.2.138.13/AB3/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:0 tvg-id="Arte.fr" tvg-logo="https://focus.telerama.fr/0000/00/02/clear-11.png" group-name="GÃ©nÃ©raliste",arte
+#EXTINF:0 tvg-id="Arte.fr" tvg-logo="https://focus.telerama.fr/0000/00/02/clear-11.png" group-name="Généraliste",arte
 plugin://plugin.video.vavooto/?name=ARTE
-#EXTINF:0 tvg-id="Arte.fr" tvg-logo="https://focus.telerama.fr/0000/00/02/clear-11.png" group-name="GÃ©nÃ©raliste",arte
+#EXTINF:0 tvg-id="Arte.fr" tvg-logo="https://focus.telerama.fr/0000/00/02/clear-11.png" group-name="Généraliste",arte
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1729?protocol=hls
 #EXTREM: http://www.callofliberty.fr/stream/ARTE/master.m3u8
 #EXTREM: plugin://plugin.acme.tvnsports/?mode=play&amp;category=live_tv&amp;url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Farte-francais&amp;title=ARTE+Fran%C3%A7ais&amp;img=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F1729%2Fbig_logo.png&amp;site=filmon&amp;play=True
@@ -875,9 +875,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1729?p
 #EXTREM: http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8
 #EXTREM: http://stream.tvtap.net:8081/live/fr-arte.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-445.png" group-name="GÃ©nÃ©raliste",C8
+#EXTINF:0 tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-445.png" group-name="Généraliste",C8
 plugin://plugin.video.vavooto/?name=C8
-#EXTINF:0 tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-445.png" group-name="GÃ©nÃ©raliste",C8
+#EXTINF:0 tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-445.png" group-name="Généraliste",C8
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/C8.m3u8
 #EXTREM: plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
 #EXTREM: plugin://plugin.video.vavooto/?name=D8
@@ -892,17 +892,17 @@ https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/C8.m3u8
 #EXTREM: plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/mycanal/get_live_url/?_pickle_=80049545000000000000007d94288c075f7469746c655f948c024338948c08786d6c74765f6964948c14433434352e6170692e74656c6572616d612e6672948c076974656d5f6964948c02633894752e
 #EXTREM: https://i.ibb.co/cQbcrGZ/c8.png
 
-#EXTINF:0 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1399.png" group-name="GÃ©nÃ©raliste",ChÃ©rie 25
+#EXTINF:0 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1399.png" group-name="Généraliste",Chérie 25
 plugin://plugin.video.vavooto/?name=CHERIE+25
-#EXTINF:0 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1399.png" group-name="GÃ©nÃ©raliste",ChÃ©rie 25
+#EXTINF:0 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1399.png" group-name="Généraliste",Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
 #EXTREM: https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/master.m3u8?|X-Forwarded-For=217.70.184.38
 #EXTREM: https://s13.tntendirect.com/cherie25/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
 #EXTREM: https://s6.tntendirect.com/cherie25/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
 
-#EXTINF:0 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-4.png" group-name="GÃ©nÃ©raliste",France 2
+#EXTINF:0 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-4.png" group-name="Généraliste",France 2
 plugin://plugin.video.vavooto/?name=FRANCE+2
-#EXTINF:0 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-4.png" group-name="GÃ©nÃ©raliste",France 2
+#EXTINF:0 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-4.png" group-name="Généraliste",France 2
 http://livetv.ktv.zone/104/play.m3u8
 #EXTREM: plugin://plugin.video.vavooto/?name=FRANCE+02
 #EXTREM: plugin://plugin.video.tvone11/play/20/1123/play.pvr
@@ -922,9 +922,9 @@ http://livetv.ktv.zone/104/play.m3u8
 #EXTREM: http://190.2.138.13/france2/tracks-v1a1/mono.m3u8?token=test|X-Forwarded-For=194.4.244.50
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1123/play.pvr
 
-#EXTINF:0 tvg-id="France3.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-80.png" group-name="GÃ©nÃ©raliste",France 3
+#EXTINF:0 tvg-id="France3.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-80.png" group-name="Généraliste",France 3
 plugin://plugin.video.vavooto/?name=FRANCE+3
-#EXTINF:0 tvg-id="France3.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-80.png" group-name="GÃ©nÃ©raliste",France 3
+#EXTINF:0 tvg-id="France3.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-80.png" group-name="Généraliste",France 3
 http://livetv.ktv.zone/105/play.m3u8
 #EXTREM: plugin://plugin.video.rbtv/play/1667/play.pvr
 #EXTREM: plugin://plugin.video.tvone11/play/20/1124/play.pvr
@@ -944,17 +944,17 @@ http://livetv.ktv.zone/105/play.m3u8
 #EXTREM: http://95.211.153.98/live/france3/chunks.m3u8
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1124/play.pvr
 
-#EXTREM: #EXTINF:0 tvg-id="France3Alpes.fr" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/france-3.jpg" group-name="GÃ©nÃ©raliste",France 3 Alpes
+#EXTREM: #EXTINF:0 tvg-id="France3Alpes.fr" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/france-3.jpg" group-name="Généraliste",France 3 Alpes
 #EXTREM: https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3890?protocol=hls
 #EXTREM: https://www.filmon.com/vr-streams/3893.high/playlist.m3u8
 
-#EXTREM: #EXTINF:0 tvg-id="France3RhoneAlpes.fr" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/france-3.jpg" group-name="GÃ©nÃ©raliste",France 3 RhÃ´ne-Alpes
+#EXTREM: #EXTINF:0 tvg-id="France3RhoneAlpes.fr" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/france-3.jpg" group-name="Généraliste",France 3 Rhône-Alpes
 #EXTREM: https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3893?protocol=hls
 #EXTREM: plugin://plugin.acme.tvnsports/?mode=play&amp;category=live_tv&amp;url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Ffrance-3-rhone-alpes&amp;title=France+3+Rh%C3%B4ne-Alpes&amp;img=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F3890%2Fbig_logo.png&amp;site=filmon&amp;play=True
 #EXTREM: https://www.filmon.com/vr-streams/3890.high/playlist.m3u8
 #EXTREM: http://antoinegassion.com/2015/wp-content/uploads/2020/10/Logo-FR-3.jpg
 
-#EXTINF:0 tvg-id="France4.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-78.png" group-name="GÃ©nÃ©raliste",France 4
+#EXTINF:0 tvg-id="France4.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-78.png" group-name="Généraliste",France 4
 plugin://plugin.video.vavooto/?name=FRANCE+4
 #EXTREM: plugin://plugin.video.tvone11/play/20/1125/play.pvr
 #EXTREM: plugin://plugin.video.tvone111/play/1668/play.pvr
@@ -974,7 +974,7 @@ plugin://plugin.video.vavooto/?name=FRANCE+4
 #EXTREM: http://edge9.iptvnetwork.net/live/france4/playlist.m3u8|X-Forwarded-For=194.4.244.50
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1125/play.pvr
 
-#EXTINF:0 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-47.png" group-name="GÃ©nÃ©raliste",France 5
+#EXTINF:0 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-47.png" group-name="Généraliste",France 5
 plugin://plugin.video.vavooto/?name=FRANCE+5
 #EXTREM: plugin://plugin.video.tvone11/play/20/1126/play.pvr
 #EXTREM: plugin://plugin.video.tvone111/play/1669/play.pvr
@@ -991,7 +991,7 @@ plugin://plugin.video.vavooto/?name=FRANCE+5
 #EXTREM: http://190.2.138.13/france5/tracks-v1a1/mono.m3u8?token=test|X-Forwarded-For=194.4.244.50
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1126/play.pvr
 
-#EXTINF:0 tvg-id="LaUne.be" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-164.png" group-name="GÃ©nÃ©raliste",La Une
+#EXTINF:0 tvg-id="LaUne.be" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-164.png" group-name="Généraliste",La Une
 plugin://plugin.video.vavooto/?name=LA+UNE
 #EXTREM: plugin://plugin.video.vavooto/?name=LA+UNE+BE
 #EXTREM: plugin://plugin.video.tvone11/play/31/1451/play.pvr
@@ -1000,7 +1000,7 @@ plugin://plugin.video.vavooto/?name=LA+UNE
 #EXTREM: http://www.callofliberty.fr/stream/laune/04.m3u8
 #EXTREM: plugin://plugin.video.swiftstreams/play/31/1451/play.pvr
 
-#EXTINF:0 tvg-id="LaTrois.be" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-892.png" group-name="GÃ©nÃ©raliste",La Trois
+#EXTINF:0 tvg-id="LaTrois.be" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-892.png" group-name="Généraliste",La Trois
 plugin://plugin.video.vavooto/?name=LA+TROIS
 #EXTREM: plugin://plugin.video.tvone11/play/31/1449/play.pvr
 #EXTREM: plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?_pickle_=80049550000000000000007d94288c075f7469746c655f948c084c612054726f6973948c08786d6c74765f6964948c14433839322e6170692e74656c6572616d612e6672948c076974656d5f6964948c076c6174726f697394752e
@@ -1008,11 +1008,11 @@ plugin://plugin.video.vavooto/?name=LA+TROIS
 #EXTREM: http://www.callofliberty.fr/stream/latrois/04.m3u8
 #EXTREM: plugin://plugin.video.swiftstreams/play/31/1449/play.pvr
 
-#EXTINF:0 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-118.png" group-name="GÃ©nÃ©raliste",M6
+#EXTINF:0 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-118.png" group-name="Généraliste",M6
 plugin://plugin.video.vavooto/?name=M6
-#EXTINF:0 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-118.png" group-name="GÃ©nÃ©raliste",M6
+#EXTINF:0 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-118.png" group-name="Généraliste",M6
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/m6.m3u8
-#EXTINF:0 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-118.png" group-name="GÃ©nÃ©raliste",M6
+#EXTINF:0 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-118.png" group-name="Généraliste",M6
 https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_2.m3u8
 #EXTREM: https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTREM: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/317px-M6_logo.svg.png
@@ -1029,18 +1029,18 @@ https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d
 #EXTREM: http://190.2.138.13/M6/tracks-v1a1/mono.m3u8?token=test
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1130/play.pvr
 
-#EXTINF:0 tvg-id="M6International.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/M6_International_logo_2020.png" group-name="GÃ©nÃ©raliste",M6 International
+#EXTINF:0 tvg-id="M6International.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/M6_International_logo_2020.png" group-name="Généraliste",M6 International
 plugin://plugin.video.vavooto/?name=M6+INTERNATIONAL
-#EXTINF:0 tvg-id="M6International.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/M6_International_logo_2020.png" group-name="GÃ©nÃ©raliste",M6 International
+#EXTINF:0 tvg-id="M6International.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/M6_International_logo_2020.png" group-name="Généraliste",M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8|X-Forwarded-For=194.4.244.50
-#EXTINF:0 tvg-id="M6International.fr" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-name="GÃ©nÃ©raliste",M6 International
+#EXTINF:0 tvg-id="M6International.fr" tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-name="Généraliste",M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
 #EXTREM: https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8|X-Forwarded-For=194.4.244.50
 #EXTREM: plugin://plugin.video.tvone111/play/1672/play.pvr
 
-#EXTINF:0 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-444.png" group-name="GÃ©nÃ©raliste",NRJ 12
+#EXTINF:0 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-444.png" group-name="Généraliste",NRJ 12
 plugin://plugin.video.vavooto/?name=NRJ+12
-#EXTINF:0 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-444.png" group-name="GÃ©nÃ©raliste",NRJ 12
+#EXTINF:0 tvg-id="NRJ12.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-444.png" group-name="Généraliste",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTREM: plugin://plugin.video.vavooto/?name=NRJ12
 #EXTREM: https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8
@@ -1049,20 +1049,20 @@ https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTREM: https://s13.tntendirect.com/nrj12/live/playlist.m3u8
 #EXTREM: https://s6.tntendirect.com/nrj12/live/playlist.m3u8
 
-#EXTINF:0 tvg-id="Numero23.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1402.png" group-name="GÃ©nÃ©raliste",RMC Story
+#EXTINF:0 tvg-id="Numero23.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1402.png" group-name="Généraliste",RMC Story
 plugin://plugin.video.vavooto/?name=NUMERO+23
-#EXTINF:0 tvg-id="Numero23.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1402.png" group-name="GÃ©nÃ©raliste",RMC Story
+#EXTINF:0 tvg-id="Numero23.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1402.png" group-name="Généraliste",RMC Story
 plugin://plugin.video.vavooto/?name=RMC+STORY
-#EXTINF:0 tvg-id="Numero23.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1402.png" group-name="GÃ©nÃ©raliste",RMC Story
+#EXTINF:0 tvg-id="Numero23.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1402.png" group-name="Généraliste",RMC Story
 https://i.mjh.nz/SamsungTVPlus/FRBD41000097I.m3u8
-#EXTINF:0 tvg-id="Numero23.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1402.png" group-name="GÃ©nÃ©raliste",RMC Story
+#EXTINF:0 tvg-id="Numero23.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-1402.png" group-name="Généraliste",RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 
-#EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac1-neg.jpg" group-name="GÃ©nÃ©raliste",carac1
+#EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac1-neg.jpg" group-name="Généraliste",carac1
 http://edge17.vedge.infomaniak.com/livecast/ik:rougetv/chunklist.m3u8
-#EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac1-neg.jpg" group-name="GÃ©nÃ©raliste",carac1
+#EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac1-neg.jpg" group-name="Généraliste",carac1
 https://edge14.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
-#EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac1-neg.jpg" group-name="GÃ©nÃ©raliste",carac1
+#EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac1-neg.jpg" group-name="Généraliste",carac1
 https://rougetv.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 #EXTREM: https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/CARAC1_logo_2023.svg/750px-CARAC1_logo_2023.svg.png
 #EXTREM: plugin://plugin.video.vavooto/?name=ROUGE+TV
@@ -1090,43 +1090,43 @@ https://rougetv.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 #EXTREM: https://www.bejart.ch/wp-content/uploads//carac-400x304.png
 #EXTREM: http://edge17.vedge.infomaniak.com/livecast/ik:rougetv/chunklist_w187773015.m3u8
 
-#EXTREM: #EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac2-neg.jpg" group-name="GÃ©nÃ©raliste",Carac2
+#EXTREM: #EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac2-neg.jpg" group-name="Généraliste",Carac2
 #EXTREM: https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8
 #EXTREM: http://edge18.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w1196062371_b3000000.m3u8
 #EXTREM: http://edge18.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
 
-#EXTREM: #EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac3-neg.jpg" group-name="GÃ©nÃ©raliste",Carac3
+#EXTREM: #EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac3-neg.jpg" group-name="Généraliste",Carac3
 #EXTREM: https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8
 #EXTREM: http://edge16.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1745452948_b3000000.m3u8
 #EXTREM: http://edge16.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist.m3u8
 #EXTREM: https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 
-#EXTREM: #EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac4-neg.jpg" group-name="GÃ©nÃ©raliste",Carac4
+#EXTREM: #EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac4-neg.jpg" group-name="Généraliste",Carac4
 #EXTREM: https://edge.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8
 
-#EXTREM: #EXTINF:0 tvg-id="RTSUn.ch" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7072.1566905659.png" group-name="GÃ©nÃ©raliste",RTS Un
+#EXTREM: #EXTINF:0 tvg-id="RTSUn.ch" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7072.1566905659.png" group-name="Généraliste",RTS Un
 #EXTREM: http://62.2.85.68:39981/play/a004
 #EXTREM: http://185.236.229.31:9981/play/a00j
 
-#EXTINF:0 tvg-id="RTSDeux.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1200px-RTS_2_logo_2019.svg.png" group-name="GÃ©nÃ©raliste",RTS Deux
+#EXTINF:0 tvg-id="RTSDeux.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1200px-RTS_2_logo_2019.svg.png" group-name="Généraliste",RTS Deux
 plugin://plugin.video.vavooto/?name=RTS+DEUX
-#EXTINF:0 tvg-id="RTSDeux.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1200px-RTS_2_logo_2019.svg.png" group-name="GÃ©nÃ©raliste",RTS Deux
+#EXTINF:0 tvg-id="RTSDeux.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1200px-RTS_2_logo_2019.svg.png" group-name="Généraliste",RTS Deux
 plugin://plugin.video.vavooto/?name=RTS+2
 #EXTREM: http://185.236.229.31:9981/play/a00k
 
-#EXTINF:0 tvg-id="RTL9.fr" tvg-logo="https://www.rtl9.com/upload/media/rtl9-600af3b43b005.png" group-name="GÃ©nÃ©raliste",RTL9
+#EXTINF:0 tvg-id="RTL9.fr" tvg-logo="https://www.rtl9.com/upload/media/rtl9-600af3b43b005.png" group-name="Généraliste",RTL9
 plugin://plugin.video.swiftstreams/play/20/1175/play.pvr
-#EXTINF:0 tvg-id="RTL9.fr" tvg-logo="https://www.rtl9.com/upload/media/rtl9-600af3b43b005.png" group-name="GÃ©nÃ©raliste",RTL9
+#EXTINF:0 tvg-id="RTL9.fr" tvg-logo="https://www.rtl9.com/upload/media/rtl9-600af3b43b005.png" group-name="Généraliste",RTL9
 plugin://plugin.video.tvone112/play/45/157/play.pvr
 #EXTREM: plugin://plugin.video.rbtv/play/1680/play.pvr
 #EXTREM: plugin://plugin.video.tvone111/play/1680/play.pvr
 #EXTREM: plugin://plugin.video.tvone11/play/20/1175/play.pvr
 
-#EXTINF:0 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-192.png" group-name="GÃ©nÃ©raliste",TF1
+#EXTINF:0 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-192.png" group-name="Généraliste",TF1
 plugin://plugin.video.vavooto/?name=TF1
-#EXTINF:0 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-192.png" group-name="GÃ©nÃ©raliste",TF1
+#EXTINF:0 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-192.png" group-name="Généraliste",TF1
 https://live-tf1-hls-dai.cdn-1.diff.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
-#EXTINF:0 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-192.png" group-name="GÃ©nÃ©raliste",TF1
+#EXTINF:0 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-192.png" group-name="Généraliste",TF1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 #EXTREM: plugin://plugin.video.vavooto/?name=TF+1
 #EXTREM: plugin://plugin.video.vavooto/?name=TFI
@@ -1148,9 +1148,9 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 #EXTREM: http://stream.suboroiptv.tv:80/TF1/playlist.m3u8
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1129/play.pvr
 
-#EXTINF:0 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-195.png" group-name="GÃ©nÃ©raliste",TMC
+#EXTINF:0 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-195.png" group-name="Généraliste",TMC
 plugin://plugin.video.vavooto/?name=TMC
-#EXTINF:0 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-195.png" group-name="GÃ©nÃ©raliste",TMC
+#EXTINF:0 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-195.png" group-name="Généraliste",TMC
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tmc.m3u8
 #EXTREM: https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 #EXTREM: http://stream.suboroiptv.tv/TMC/playlist.m3u8
@@ -1161,13 +1161,13 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tmc.m3u8
 #EXTREM: https://s6.tntendirect.com/tmc/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
 #EXTREM: http://flusonic-1.platinum-tv.com/TMC/mono.m3u8?token=test
 
-#EXTINF:0 tvg-id="NT1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-446.png" group-name="GÃ©nÃ©raliste",TFX
+#EXTINF:0 tvg-id="NT1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-446.png" group-name="Généraliste",TFX
 plugin://plugin.video.vavooto/?name=TFX
-#EXTINF:0 tvg-id="NT1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-446.png" group-name="GÃ©nÃ©raliste",TFX
+#EXTINF:0 tvg-id="NT1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-446.png" group-name="Généraliste",TFX
 plugin://plugin.video.vavooto/?name=NT1
-#EXTINF:0 tvg-id="NT1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-446.png" group-name="GÃ©nÃ©raliste",TFX
+#EXTINF:0 tvg-id="NT1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-446.png" group-name="Généraliste",TFX
 plugin://plugin.video.vavooto/?name=CINE%2B+FX
-#EXTINF:0 tvg-id="NT1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-446.png" group-name="GÃ©nÃ©raliste",TFX
+#EXTINF:0 tvg-id="NT1.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-446.png" group-name="Généraliste",TFX
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tfx.m3u8
 #EXTREM: plugin://plugin.video.tvone11/play/20/1143/play.pvr
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1143/play.pvr
@@ -1180,10 +1180,10 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tfx.m3u8
 #EXTREM: https://s6.tntendirect.com/nt1/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
 #EXTREM: http://flusonic-1.platinum-tv.com/NT1/mono.m3u8?token=test
 
-#EXTINF:0 tvg-id="TvBreizh.fr" tvg-logo="https://images.ladepeche.fr/api/v1/images/view/5d247b328fe56f73481f64a7/full/image.jpg" group-name="GÃ©nÃ©raliste",TV Breizh
+#EXTINF:0 tvg-id="TvBreizh.fr" tvg-logo="https://images.ladepeche.fr/api/v1/images/view/5d247b328fe56f73481f64a7/full/image.jpg" group-name="Généraliste",TV Breizh
 plugin://plugin.video.vavooto/?name=TV+BREIZH
 
-#EXTINF:0 tvg-id="W9.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-119.png" group-name="GÃ©nÃ©raliste",W9
+#EXTINF:0 tvg-id="W9.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-119.png" group-name="Généraliste",W9
 plugin://plugin.video.vavooto/?name=W9
 #EXTREM: plugin://plugin.video.tvone11/play/20/1174/play.pvr
 #EXTREM: https://s13.tntendirect.com/w9/live/playlist.m3u8|X-Forwarded-For=194.4.244.50
