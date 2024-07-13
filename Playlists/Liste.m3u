@@ -9,7 +9,7 @@
 #EXTREM: #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/40.0
 
 #EXTREM: Généré pour être utilisé avec "PVR IPTV Simple Client" 
-#EXTREM: 2024-07-12 18:36:18
+#EXTREM: 2024-07-13 16:02:07
 
 #EXTREM: ------------------------------------------------------------------------------------------------
 #EXTREM: http://totv.org/channels
@@ -23,7 +23,7 @@
 #EXTREM: https://xmltvfr.fr/xmltv/xmltv.zip
 #EXTREM: https://github.com/Catch-up-TV-and-More/xmltv
 #EXTREM: https://xmltv.ch/xmltv/xmltv-complet.zip
-#EXTREM: http://tlofnorogepg.alwaysdata.net/epg/quebec_spe.xml
+#EXTREM: https://www.bevy.be/epg-guide
 #EXTREM: ------------------------------------------------------------------------------------------------
 #EXTREM: https://github.com/pshanmu3/dailymotion_to_m3u8/tree/main/scripts
 #EXTREM: 
@@ -184,7 +184,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=
 #EXTREM: https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/BFM-Paris-IDF-2022.svg/240px-BFM-Paris-IDF-2022.svg.png
 
 #EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-226.png" group-name="Information",CNews
-https://live-b.cf.dmcdn.net/sec2(CeXh3m7551OnvTYAIDciF5HLzWzW543iYhUHMleSZLy0MtHLBTTcgdfxt2TG8OVo8cBhQDALqkQCmBiM8Mrd2z0AkrG5_nDAJ2qG-2AcTlQ)/dm/3/x3b68jn/d/live-4.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(vwVlJgCF0rSzMFlyTndzTWlBw6Fix5qLfBX_HPTs2K-LQpwJgmRI2VMwIOZUeO4GQU1Ze0CJ2W-_0pfCxuSHMYy8IE8cvSs72cFZ93IpzuU)/dm/3/x3b68jn/d/live-4.m3u8#cell=lcfb
 
 #EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-226.png" group-name="Information",CNews
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/CNEWS.m3u8
@@ -260,7 +260,7 @@ plugin://plugin.video.tvone111/play/1252/play.pvr
 #EXTREM: https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 
 #EXTINF:0 tvg-id="FranceInfo.fr" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-name="Information",franceinfo:
-https://live-b.cf.dmcdn.net/sec2(55YZbGU5_BL86YtKjdgJVz-azGy7GbAxhIcB9vq1f0yTNCb9NoM6gXmSLx7QPPKttOfjilDCTsImVqUHdxRNXinUMZN4RsfruVuI6ndmqOQ)/dm/3/x4rdeu6/d/live-3.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(-4OZODg_OVhjdt_3bQJhBXjKJdUFD626kYPvJZnxneb6l_ii7jcp8aqV7c9ApVED4T4eQ5n91rcZCIql-6mF20aN7IWXIXFSX9CFhF-HNuU)/dm/3/x4rdeu6/d/live-3.m3u8#cell=lcfb
 
 #EXTINF:0 tvg-id="FranceInfo.fr" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-name="Information",franceinfo:
 plugin://plugin.video.vavooto/?name=FRANCEINFO
@@ -1473,40 +1473,3 @@ plugin://plugin.video.tvone112/play/36/139/play.pvr
 #EXTREM: ------------------------------------------------------------------------------------------------
 #EXTREM: Tests
 #EXTREM: ------------------------------------------------------------------------------------------------
-
-#EXTINF:0 tvg-id="XXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png" group-name="Sports",beIN Sports
-plugin://plugin.video.tvone112/play/145/2408/play.pvr
-
-#EXTINF:0 tvg-id="XXXX" tvg-logo="XXXX" group-name="Sports",KO
-plugin://plugin.video.vavootoUK/?name=BOX+NATION
-
-#EXTINF:0 tvg-id="XXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-name="Sports",Premier Sports 1
-plugin://plugin.video.vavootoUK/?name=SKY+SPORT+PREMIER+LEAGUE
-
-#EXTINF:0 tvg-id="XXXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-name="Sports",Premier Sports 2
-plugin://plugin.video.vavootoUK/?name=PREMIER+SPORT+2
-
-#EXTINF:0 tvg-id="XXXX" tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-name="Sports",Sky Sports Arena
-plugin://plugin.video.vavootoUK/?name=SKY+SPORTS+ARENA
-#EXTINF:0 tvg-id="XXXX" tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-name="Sports",Sky Sports Arena
-plugin://plugin.video.vavootoUK/?name=SKYS+PORTS+ARENA
-
-#EXTINF:0 tvg-id="XXXX" tvg-logo="https://ia800609.us.archive.org/8/items/SkySportsFootball_201708/sky%20sports%20football.png" group-name="Sports",Sky Sports Football
-plugin://plugin.video.vavootoUK/?name=SKYS+PORTS+FOOTBALL
-
-#EXTINF:0 tvg-id="XXXX" tvg-logo="https://ia600803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png" group-name="Sports",Sky Sports Main Event
-plugin://plugin.video.vavootoUK/?name=SKY+SPORTS+MAIN+EVENT
-#EXTINF:0 tvg-id="XXXX" tvg-logo="https://ia600803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png" group-name="Sports",Sky Sports Main Event
-plugin://plugin.video.vavootoUK/?name=SKYS+PORTS+MAIN+EVENT
-
-#EXTINF:0 tvg-id="XXXX" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png" group-name="Sports",TNT Sports 1
-plugin://plugin.video.vavootoUK/?name=BT+SPORT+1
-#EXTINF:0 tvg-id="XXXX" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png" group-name="Sports",TNT Sports 2
-plugin://plugin.video.vavootoUK/?name=BT+SPORT+2
-#EXTINF:0 tvg-id="XXXX" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png" group-name="Sports",TNT Sports 3
-plugin://plugin.video.vavootoUK/?name=BT+SPORT+3
-#EXTINF:0 tvg-id="XXXX" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png" group-name="Sports",TNT Sports 4
-plugin://plugin.video.vavootoUK/?name=BT+SPORT+4
-
-#EXTINF:0 tvg-id="XXXX" tvg-logo="https://ufc-video.s3.amazonaws.com/image/logos/UFC_FIGHTPASS_LOGO_F.PNG" group-name="Sports",UFC Fight Night Pass
-plugin://plugin.video.vavootoUK/?name=UFC+FIGHT+NIGHT+PASS
