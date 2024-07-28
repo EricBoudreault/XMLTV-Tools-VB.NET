@@ -9,7 +9,7 @@
 #EXTREM: #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/40.0
 
 #EXTREM: Généré pour être utilisé avec "PVR IPTV Simple Client" 
-#EXTREM: 2024-07-27 15:08:21
+#EXTREM: 2024-07-28 14:22:26
 
 #EXTREM: ------------------------------------------------------------------------------------------------
 #EXTREM: http://totv.org/channels
@@ -185,7 +185,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=
 #EXTREM: https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/BFM-Paris-IDF-2022.svg/240px-BFM-Paris-IDF-2022.svg.png
 
 #EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-226.png" group-name="Information",CNews
-https://live-b.cf.dmcdn.net/sec2(XpVL3LHUs-qG9vt0DfcbEyKukagutU8jkpvXoDGpZjq8ipgnpWr21-zs1KOij1-_I0IpsE0tTC5OI9DSR39IAIZD9l0t2T62rbGMpgjqpsc)/dm/3/x3b68jn/d/live-1080@60.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(p54gOnLOXDgHtIu1p3FaSPpm3YMPMok4TIUxSPoUKpQJ_-6rB8jHNVHVhs0g2tFeMn6aMszv2De-1IE3UVWrrobpb-YgFUPNOvG7iygL5Kk)/dm/3/x3b68jn/d/live-1080@60.m3u8#cell=lcfb
 
 #EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-226.png" group-name="Information",CNews
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/CNEWS.m3u8
@@ -261,7 +261,7 @@ plugin://plugin.video.tvone111/play/1252/play.pvr
 #EXTREM: https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 
 #EXTINF:0 tvg-id="FranceInfo.fr" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-name="Information",franceinfo:
-https://live-b.cf.dmcdn.net/sec2(w5Avk9VNms69GNS7EXAwYUU1ZbNT5Q_U0ZQ8UEQILbKVVI_VHTxIv8d7ZarQlrcCUZ_m16vvC1TO63djGed93vl7ecI0ZQ-CAsRpBznbwp0)/dm/3/x4rdeu6/d/live-720.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(FJkSBChW33eoc4uf1G-ZZAMckE4Nx5JidvF-hflsjba8dX98F7llXhk4NcBAxMvlWR9HTKn0IIElaWc43W6IpBxNSSZXZyRQgkeVrJZlx5o)/dm/3/x4rdeu6/d/live-720.m3u8#cell=lcfb
 
 #EXTINF:0 tvg-id="FranceInfo.fr" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-name="Information",franceinfo:
 plugin://plugin.video.vavooto/?name=FRANCEINFO
@@ -1531,3 +1531,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/palmas
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/AR0WjAE.png" group-name="Nature",Ushuaïa TV For Change
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ushuaia-for-change.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/WQWr91P.png" group-title="Sports",Paris 2024
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/paris2024.m3u8
