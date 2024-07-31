@@ -9,7 +9,7 @@
 #EXTREM: #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/40.0
 
 #EXTREM: Généré pour être utilisé avec "PVR IPTV Simple Client" 
-#EXTREM: 2024-07-31 18:31:11
+#EXTREM: 2024-07-31 18:43:35
 
 #EXTREM: ------------------------------------------------------------------------------------------------
 #EXTREM: http://totv.org/channels
@@ -1481,6 +1481,17 @@ plugin://plugin.video.tvone112/play/36/139/play.pvr
 #EXTREM: ------------------------------------------------------------------------------------------------
 #EXTREM: Tests
 #EXTREM: ------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-name="Euronews Français ?" tvg-logo="https://i.imgur.com/3Lr5iAj.png" tvg-id="EuronewsFrench.fr" group-title="France",Euronews Français 1?
+https://www.youtube.com/watch?v=NiRIbKwAejk
+#EXTINF:-1 tvg-name="Euronews Français ?" tvg-logo="https://i.imgur.com/3Lr5iAj.png" tvg-id="EuronewsFrench.fr" group-title="France",Euronews Français 2?
+plugin://plugin.video.youtube/play/?video_id=NiRIbKwAejk
+#EXTINF:-1 tvg-name="Euronews Français ?" tvg-logo="https://i.imgur.com/3Lr5iAj.png" tvg-id="EuronewsFrench.fr" group-title="France",Euronews Français 3?
+plugin://plugin.video.youtube/play/?v=NiRIbKwAejk
+#EXTINF:-1 tvg-name="Euronews Français ?" tvg-logo="https://i.imgur.com/3Lr5iAj.png" tvg-id="EuronewsFrench.fr" group-title="France",Euronews Français 4?
+plugin://plugin.video.youtube/play/watch?v=NiRIbKwAejk
+#EXTINF:-1 tvg-name="Euronews Français ?" tvg-logo="https://i.imgur.com/3Lr5iAj.png" tvg-id="EuronewsFrench.fr" group-title="France",Euronews Français 5?
+plugin://plugin.video.youtube/watch?v=NiRIbKwAejk
 
 #EXTINF:0 tvg-id="LEquipe21.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" group-name="Sports",L'Équipe
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct.m3u8
