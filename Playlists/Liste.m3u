@@ -9,7 +9,7 @@
 #EXTREM: #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/40.0
 
 #EXTREM: Généré pour être utilisé avec "PVR IPTV Simple Client" 
-#EXTREM: 2024-07-29 21:28:40
+#EXTREM: 2024-07-31 18:31:11
 
 #EXTREM: ------------------------------------------------------------------------------------------------
 #EXTREM: http://totv.org/channels
@@ -24,6 +24,7 @@
 #EXTREM: https://github.com/Catch-up-TV-and-More/xmltv
 #EXTREM: https://xmltv.ch/xmltv/xmltv-complet.zip
 #EXTREM: https://www.bevy.be/epg-guide
+#EXTREM: https://github.com/Free-TV/IPTV/blob/master/epglist.txt
 #EXTREM: ------------------------------------------------------------------------------------------------
 #EXTREM: https://github.com/Paradise-91/ParaTV/tree/main/streams
 #EXTREM: https://github.com/pshanmu3/dailymotion_to_m3u8/tree/main/scripts
@@ -185,7 +186,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=
 #EXTREM: https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/BFM-Paris-IDF-2022.svg/240px-BFM-Paris-IDF-2022.svg.png
 
 #EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-226.png" group-name="Information",CNews
-https://live-b.cf.dmcdn.net/sec2(aql7dKPve5WIRR2jig-HEu5GlUfbOEDxTJIjJddeVooVc0eTLQacDftJgtSfeGPLabPYX6u66KXxnJ_rb09TFmPTgfe9Gmc6VzI_g3vbp8M)/dm/3/x3b68jn/d/live-1080@60.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(jo-SJokYHpp2NQTvn7W06P2_47F_X0MBEIVUC-9-ADrNM7Wc9gtiMU_Cxqkmp8aipQ-1NeRErLKtItTnZyoY4NsbANiNchDgmyv74jQJbJw)/dm/3/x3b68jn/d/live-1080@60.m3u8#cell=lcfb
 
 #EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-226.png" group-name="Information",CNews
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/CNEWS.m3u8
@@ -261,7 +262,7 @@ plugin://plugin.video.tvone111/play/1252/play.pvr
 #EXTREM: https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 
 #EXTINF:0 tvg-id="FranceInfo.fr" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-name="Information",franceinfo:
-https://live-b.cf.dmcdn.net/sec2(xPZC73CIFvwBmqGN_8nmyI3Du1kjfZo8lBkO_7z_Ps2W1FhmLPL7HBIRpaOknJ2NonXeB2IG8tEmWeAqObxcdFSXj25SxuQ7G9MBbfI1-nc)/dm/3/x4rdeu6/d/live-720.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(IQ-izXbKA28bWCdGNs3a2OBJXnOEO2WtgQTTMTGAlV0u8jqzgWquTBUhCnjBefIPyw2Skyb4491gM7_IZTdPJvhmuuQRaQX0WQFkvYGkI1c)/dm/3/x4rdeu6/d/live-720.m3u8#cell=lcfb
 
 #EXTINF:0 tvg-id="FranceInfo.fr" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-name="Information",franceinfo:
 plugin://plugin.video.vavooto/?name=FRANCEINFO
