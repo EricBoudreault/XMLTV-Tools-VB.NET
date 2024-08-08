@@ -9,7 +9,7 @@
 #EXTREM: #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/40.0
 
 #EXTREM: Généré pour être utilisé avec "PVR IPTV Simple Client" 
-#EXTREM: 2024-07-31 18:43:35
+#EXTREM: 2024-08-08 16:08:01
 
 #EXTREM: ------------------------------------------------------------------------------------------------
 #EXTREM: http://totv.org/channels
@@ -186,7 +186,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=
 #EXTREM: https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/BFM-Paris-IDF-2022.svg/240px-BFM-Paris-IDF-2022.svg.png
 
 #EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-226.png" group-name="Information",CNews
-https://live-b.cf.dmcdn.net/sec2(jo-SJokYHpp2NQTvn7W06P2_47F_X0MBEIVUC-9-ADrNM7Wc9gtiMU_Cxqkmp8aipQ-1NeRErLKtItTnZyoY4NsbANiNchDgmyv74jQJbJw)/dm/3/x3b68jn/d/live-1080@60.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(jyGqTa1mJqD1BbxZ8HD6g5eAAywpyS86j9PQ13y2WNnZLwEgWpUJK5oVJXGtNdaiu3mCwB0Ry9be79P8-sTnDD-zuMvKMXDqpmz4L6I2MIo)/dm/3/x3b68jn/d/live-1080@60.m3u8#cell=lcfb
 
 #EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/250x250/60/0000/00/01/clear-226.png" group-name="Information",CNews
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/CNEWS.m3u8
@@ -262,7 +262,7 @@ plugin://plugin.video.tvone111/play/1252/play.pvr
 #EXTREM: https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 
 #EXTINF:0 tvg-id="FranceInfo.fr" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-name="Information",franceinfo:
-https://live-b.cf.dmcdn.net/sec2(IQ-izXbKA28bWCdGNs3a2OBJXnOEO2WtgQTTMTGAlV0u8jqzgWquTBUhCnjBefIPyw2Skyb4491gM7_IZTdPJvhmuuQRaQX0WQFkvYGkI1c)/dm/3/x4rdeu6/d/live-720.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(AXtafHMFOZuwA47OQsJ-TvZ14n78D2p-GrtyKMC1cCjecU9RFF9PGlIqbV0XbMoGwcJ5PcnFTTbD_drnU3aD__4Epg9qTrc93PnPHcYbIEY)/dm/3/x4rdeu6/d/live-720.m3u8#cell=lcfb
 
 #EXTINF:0 tvg-id="FranceInfo.fr" tvg-logo="https://i.imgur.com/t3zNbmr.png" group-name="Information",franceinfo:
 plugin://plugin.video.vavooto/?name=FRANCEINFO
