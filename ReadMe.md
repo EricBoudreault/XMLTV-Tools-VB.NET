@@ -1,4 +1,4 @@
-# XMLTV-Tools
+# XMLTV-Tools-VB.NET
 Outils développés en Visual Basic.NET pour faciliter la manipulation et la gestion de fichiers **XMLTV**.
 
 XMLTV est un format standard pour la description des programmes télévisés, utilisé par de nombreux services de télévision et applications de gestion des programmes.
