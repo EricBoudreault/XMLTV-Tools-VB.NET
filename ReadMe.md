@@ -15,7 +15,7 @@ XMLTV est un format standard pour la description des programmes télévisés, ut
 
 #### Exemple d'utilisation
 ```sh
-FilterEPG.exe "C:\source.xml" "CNN.us|BBCNews.uk|BFMParis.fr" "C:\destination.xml"
+FilterEPG.exe "C:\epg\source.xml" "CNN.us|BBCNews.uk|BFMParis.fr" "C:\epg\destination.xml"
 ```
 &nbsp;&nbsp;
 
@@ -29,7 +29,7 @@ FilterEPG.exe "C:\source.xml" "CNN.us|BBCNews.uk|BFMParis.fr" "C:\destination.xm
 
 #### Exemple d'utilisation
 ```sh
-MergeEPG.exe "C:\guide1.xml" "C:\guide2.xml" "C:\guide1+2.xml"
+MergeEPG.exe "C:\epg\guide1.xml" "C:\epg\guide2.xml" "C:\epg\guide1+2.xml"
 ```
 &nbsp;&nbsp;
 
@@ -43,7 +43,7 @@ MergeEPG.exe "C:\guide1.xml" "C:\guide2.xml" "C:\guide1+2.xml"
 
 #### Exemple d'utilisation
 ```sh
-PrettyXMLTV.exe "C:\guide.xml" "C:\guide.xml"
+PrettyXMLTV.exe "C:\epg\guide.xml" "C:\epg\guide.xml"
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;
 
