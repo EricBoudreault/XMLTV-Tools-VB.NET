@@ -4,6 +4,12 @@
 #EXTREM: Information
 #EXTREM: ------------------------------------------------------------------------------------------------
 
+#EXTINF:0 tvg-id="BBCNews.uk" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" group-title="Information",BBC News
+#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
+https://jmp2.uk/PlutoTV/65d92a8c8b24c80008e285c0-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
+#EXTINF:0 tvg-id="BBCNews.uk" tvg-logo="https://static.filmon.com/assets/channels/27/big_logo.png" group-name="Information",BBC News
+#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
+https://jmp2.uk/PlutoTV/65d92a8c8b24c80008e285c0-alt.m3u8
 #EXTINF:0 tvg-id="BBCNews.uk" tvg-logo="https://static.filmon.com/assets/channels/27/big_logo.png" group-name="Information",BBC News
 plugin://plugin.video.vavootoUK/?name=BBC+NEWS
 #EXTREM: https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
@@ -201,7 +207,6 @@ plugin://plugin.video.vavootoUK/?name=SKY+NEWS
 #EXTREM: plugin://plugin.video.tvone/play/203/play.pvr
 #EXTREM: https://seeklogo.com/images/S/sky-news-logo-58C26F12A7-seeklogo.com.png
 
-
 #EXTREM: ------------------------------------------------------------------------------------------------
 #EXTREM: Documentaires
 #EXTREM: ------------------------------------------------------------------------------------------------
@@ -238,6 +243,10 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTREM: ca#821693763/smithsonian-channel-canada
 #EXTREM: https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/40965_smithsonian.jpg
 #EXTREM: plugin://plugin.video.swiftstreams/play/5/1914/play.pvr
+
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/colorLogoPNG.png" group-title="Documentaires",Smithsonian Channel Selects
+#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
+https://jmp2.uk/PlutoTV/5f21ea08007a49000762d349-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
 #EXTREM: ------------------------------------------------------------------------------------------------
 #EXTREM: Nature
@@ -303,6 +312,9 @@ plugin://plugin.video.vavooto/?name=USHUAIA
 plugin://plugin.video.vavooto/?name=USHUA%C3%8FA+TV
 #EXTREM: http://193.252.43.21:10200/play/a0ch
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/AR0WjAE.png" group-name="Nature",Ushuaïa TV For Change
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ushuaia-for-change.m3u8
+
 #EXTREM: ------------------------------------------------------------------------------------------------
 #EXTREM: Science
 #EXTREM: ------------------------------------------------------------------------------------------------
@@ -352,6 +364,15 @@ plugin://plugin.video.vavooto/?name=HISTOIRE+TV
 #EXTREM: Divertissement
 #EXTREM: ------------------------------------------------------------------------------------------------
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/SrPQVxp.png" group-name="Divertissement",François Damiens
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/francois-lembrouille.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/31w3MTI.png" group-name="Divertissement",Les Inconnus
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-inconnus.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/yKzaS2p.png" group-name="Divertissement",Palmashow
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/palmashow.m3u8
+
 #EXTREM: ------------------------------------------------------------------------------------------------
 #EXTREM: Comédie
 #EXTREM: ------------------------------------------------------------------------------------------------
@@ -364,6 +385,9 @@ plugin://plugin.video.vavooto/?name=COMEDIE%2B
 #EXTREM: https://i1.wp.com/www.planetecsat.com/wp-content/uploads/2015/08/Com%C3%A9die-1-1.jpg?fit=822%2C737&ssl=1&w=640
 #EXTREM: https://focus.telerama.fr/250x250/60/0000/00/01/clear-54.png
 #EXTREM: plugin://plugin.video.swiftstreams/play/20/1160/play.pvr
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/xYTnqgs.png" group-name="Comédie",Comédie Fiction
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/comedie-fiction.m3u8
 
 #EXTREM: #EXTINF:0 tvg-id="ComedyCentral.fr" tvg-logo="https://www.creativefabrica.com/wp-content/uploads/2019/03/Monogram-MS-Logo-Design-by-Greenlines-Studios-580x386.jpg" group-name="Comédie",MS Comedy
 #EXTREM: plugin://plugin.video.vavooto/?name=MS+COMEDY
@@ -653,6 +677,9 @@ plugin://plugin.video.vavooto/?name=PARAMOUNT+CHANNEL+DECALE
 #EXTINF:0 tvg-id="ParamountChannelDecale.fr" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/5f5f638c20919/uploads/media/Paramount_Channel.png" group-name="Films",Paramount Channel Décalé
 plugin://plugin.video.vavooto/?name=PARAMOUNT+DECALE
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/gGcEmJy.png" group-name="Séries",Polar Fiction
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/police-fiction.m3u8
+
 #EXTINF:0 tvg-id="serieclub.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Serie_club_hd.png/300px-Serie_club_hd.png" group-name="Séries",serieclub
 plugin://plugin.video.vavooto/?name=SERIE+CLUB
 #EXTREM: plugin://plugin.video.vavooto/?name=SERIES+CLUB
@@ -708,6 +735,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.
 #EXTREM: http://flusonic-1.platinum-tv.com/HD1/mono.m3u8?token=test
 #EXTREM: https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8|X-Forwarded-For=194.4.244.50
 #EXTREM: http://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8|X-Forwarded-For=194.4.244.50
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/4qgvfWz.png" group-name="Séries",Thriller Fiction
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/thriller-fiction.m3u8
 
 #EXTINF:0 tvg-id="WarnerTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WarnerTV_France_2021.svg/130px-WarnerTV_France_2021.svg.png" group-name="Films",Warner TV
 plugin://plugin.video.vavooto/?name=WARNER
@@ -1216,10 +1246,39 @@ plugin://plugin.acme.livenet/play/601/play.pvr
 #EXTREM: #EXTINF:0 tvg-id="CanalPlusSport5.af" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/canal-plus-sport.jpg" group-name="Sports",Canal+ Sport 5
 #EXTREM: plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT+5
 
-#EXTINF:0 channel-id="plex-5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" tvg-id="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" tvg-logo="https://provider-static.plex.tv/epg/cms/production/20712b16-67ae-4edf-9440-3466c18d82b3/FIFA_WHITE.png" group-name="Sports", FIFA+ USA
+#EXTINF:0 tvg-id="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" tvg-logo="https://provider-static.plex.tv/epg/cms/production/20712b16-67ae-4edf-9440-3466c18d82b3/FIFA_WHITE.png" group-name="Sports",FIFA+ USA
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=cyReG88SXjskK-H8LRYx&X-Forwarded-For=173.166.164.121
-#EXTINF:0 channel-id="plex-647f8d22a2fc3fadb4721685-666292508dfc36b8c8a399ca" tvg-id="647f8d22a2fc3fadb4721685-666292508dfc36b8c8a399ca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/46b0af26-4e23-4a72-9a40-59db4dca6582/FIFA_WHITE.png" group-name="Sports", FIFA+ Canada
+#EXTINF:0 tvg-id="647f8d22a2fc3fadb4721685-666292508dfc36b8c8a399ca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/46b0af26-4e23-4a72-9a40-59db4dca6582/FIFA_WHITE.png" group-name="Sports",FIFA+ Canada
 https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-666292508dfc36b8c8a399ca.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=cyReG88SXjskK-H8LRYx&X-Forwarded-For=192.206.151.131
+#EXTINF:0 tvg-id="647f8d22a2fc3fadb4721685-666292508dfc36b8c8a399ca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/46b0af26-4e23-4a72-9a40-59db4dca6582/FIFA_WHITE.png" group-name="Sports",FIFA+ Canada
+https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-666292508dfc36b8c8a399ca.m3u8
+
+#EXTINF:0 tvg-id="LEquipe21.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" group-name="Sports",L'Équipe
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct.m3u8
+
+#EXTREM: #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/3gfaW8a.png" group-name="Sports",L'Équipe Live 1
+#EXTREM: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-1.m3u8
+#EXTREM: 
+#EXTREM: #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/bmXOZME.png" group-name="Sports",L'Équipe Live 2
+#EXTREM: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-2.m3u8
+#EXTREM: 
+#EXTREM: #EXTINF:0 tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/lequipe.png" group-name="Sports",L'Équipe Live 3
+#EXTREM: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-3.m3u8
+#EXTREM: 
+#EXTREM: #EXTINF:0 tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/lequipe.png" group-name="Sports",L'Équipe Live 4
+#EXTREM: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-4.m3u8
+#EXTREM: 
+#EXTREM: #EXTINF:0 tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/lequipe.png" group-name="Sports",L'Équipe Live 5
+#EXTREM: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-5.m3u8
+#EXTREM: 
+#EXTREM: #EXTINF:0 tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/lequipe.png" group-name="Sports",L'Équipe Live 6
+#EXTREM: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-6.m3u8
+#EXTREM: 
+#EXTREM: #EXTINF:0 tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/lequipe.png" group-name="Sports",L'Équipe Live 7
+#EXTREM: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-7.m3u8
+#EXTREM: 
+#EXTREM: #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/p7UiaCG.png" group-name="Sports",L'Équipe Live Foot
+#EXTREM: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot.m3u8
 
 #EXTINF:0 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-logo="http://163.172.111.138:8030/data/img/files/nhl.png" group-name="Sports",NHL Network
 plugin://plugin.video.tvone111/play/2167/play.pvr
@@ -1228,11 +1287,11 @@ plugin://plugin.video.tvone111/play/2167/play.pvr
 #EXTREM: https://www.swiftstreamz.cc/SwiftStreamzv2.2/images/42536_nhlnetwork.jpg
 #EXTREM: plugin://plugin.video.swiftstreams/play/5/1916/play.pvr
 
-#EXTINF:0 tvg-id="Réseau.des.Sports.HDTV.(RDSHD).ca" tvg-logo="http://img.rapidstreams.io/1/data/images/91466_android-chrome-192x192_150x150.png" group-name="Sports",RDS
+#EXTINF:0 tvg-id="RDS.ca" tvg-logo="http://img.rapidstreams.io/1/data/images/91466_android-chrome-192x192_150x150.png" group-name="Sports",RDS
 plugin://plugin.video.tvone112/play/145/2563/play.pvr
 #EXTREM: RDS.ca
 
-#EXTINF:0 tvg-id="CTV.--.Réseau.des.Sports.2.HDTV.(RDS2HD).ca" tvg-logo="http://img.rapidstreams.io/1/data/images/91466_android-chrome-192x192_150x150.png" group-name="Sports",RDS 2
+#EXTINF:0 tvg-id="RDS2.ca" tvg-logo="http://img.rapidstreams.io/1/data/images/91466_android-chrome-192x192_150x150.png" group-name="Sports",RDS 2
 plugin://plugin.video.tvone112/play/145/2563/play.pvr
 #EXTREM: RDS2.ca
 
@@ -1386,172 +1445,115 @@ plugin://plugin.video.tvone112/play/36/139/play.pvr
 #EXTREM: Tests
 #EXTREM: ------------------------------------------------------------------------------------------------
 
-#EXTINF:0 channel-id="pluto-65d92a8c8b24c80008e285c0" tvg-id="BBCNews.uk" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" tvg-chno="2629" group-title="USA", BBC News
-#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
-https://jmp2.uk/PlutoTV/65d92a8c8b24c80008e285c0-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
-
-#EXTINF:0 channel-id="pluto-55b285cd2665de274553d66f" tvg-id="Sky.News.HD.uk" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" tvg-chno="2630" group-title="USA", Sky News
+#EXTINF:0 tvg-id="Sky.News.HD.uk" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="Information",Sky News
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/55b285cd2665de274553d66f-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
-#EXTINF:0 channel-id="pluto-55b179af994403942f3061d6" tvg-id="55b179af994403942f3061d6" tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" tvg-chno="2670" group-title="USA", Newsmax2
-#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
-https://jmp2.uk/PlutoTV/55b179af994403942f3061d6-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 channel-id="pluto-63a0e33a45264d000850ed7e" tvg-id="63a0e33a45264d000850ed7e" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" tvg-chno="2830" group-title="USA", Golazo Network
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="Sports",Golazo Network
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 channel-id="pluto-5812b0f2237a6ff45d16c3f9" tvg-id="5812b0f2237a6ff45d16c3f9" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG-1543864366762.png" tvg-chno="2860" group-title="USA", Fight
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG-1543864366762.png" group-title="Sports",Fight
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/5812b0f2237a6ff45d16c3f9-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 channel-id="pluto-64d160f53c785e0008df525e" tvg-id="64d160f53c785e0008df525e" tvg-logo="https://images.pluto.tv/channels/64d160f53c785e0008df525e/colorLogoPNG.png" tvg-chno="2862" group-title="USA", Top Rank Classics
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/64d160f53c785e0008df525e/colorLogoPNG.png" group-title="Sports",Top Rank Classics
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/64d160f53c785e0008df525e-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 channel-id="pluto-649b6898f2ec0000081a9460" tvg-id="649b6898f2ec0000081a9460" tvg-logo="https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png" tvg-chno="2864" group-title="USA", DAZN Ringside USA
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png" group-title="Sports",DAZN Ringside USA
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/649b6898f2ec0000081a9460-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
-#EXTINF:0 channel-id="pluto-65b14aae0cb1a100087a216e" tvg-id="65b14aae0cb1a100087a216e" tvg-logo="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/colorLogoPNG.png" tvg-chno="875" group-title="Great Britain", DAZN Ringside UK
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/colorLogoPNG.png" group-title="Sports",DAZN Ringside UK
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/65b14aae0cb1a100087a216e-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=178.238.11.6
 
-#EXTINF:0 channel-id="pluto-5f21ea08007a49000762d349" tvg-id="5f21ea08007a49000762d349" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/colorLogoPNG.png" tvg-chno="3130" group-title="USA", Smithsonian Channel Selects
-#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
-https://jmp2.uk/PlutoTV/5f21ea08007a49000762d349-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 channel-id="pluto-656535fc2c46f30008870fae" tvg-id="BBC.Earth.(BBCE).ca" tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" tvg-chno="3560" group-title="USA", BBC Earth
+#EXTINF:0 tvg-id="BBC.Earth.(BBCE).ca" tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" group-title="Nature",BBC Earth
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/656535fc2c46f30008870fae-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 channel-id="pluto-640a64bd73e013000893d4e0" tvg-id="640a64bd73e013000893d4e0" tvg-logo="https://images.pluto.tv/channels/640a64bd73e013000893d4e0/colorLogoPNG.png" tvg-chno="3580" group-title="USA", PBS Nature
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/640a64bd73e013000893d4e0/colorLogoPNG.png" group-title="Nature",PBS Nature
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/640a64bd73e013000893d4e0-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 channel-id="pluto-5fd7b8bf927e090007685853" tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" tvg-chno="4650" group-title="USA", Vevo '80s
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Musique",Vevo '80s
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 channel-id="pluto-5fd7bb1f86d94a000796e2c2" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" tvg-chno="4660" group-title="USA", Vevo '90s
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Musique",Vevo '90s
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 channel-id="pluto-61d4b38226b8a50007fe03a6" tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" tvg-chno="4740" group-title="USA", Vevo Retro Rock
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="Musique",Vevo Retro Rock
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 channel-id="pluto-623a1b5188ecdc0007c9ef5a" tvg-id="623a1b5188ecdc0007c9ef5a" tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" tvg-chno="4750" group-title="USA", XITE Rock x Metal
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="Musique",XITE Rock x Metal
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 channel-id="pluto-635bfb89b5cd9b0007ca9d63" tvg-id="635bfb89b5cd9b0007ca9d63" tvg-logo="https://images.pluto.tv/channels/635bfb89b5cd9b0007ca9d63/colorLogoPNG.png" tvg-chno="901" group-title="Great Britain", MTV Classic UK
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/635bfb89b5cd9b0007ca9d63/colorLogoPNG.png" group-title="Musique",MTV Classic UK
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=178.238.11.6
-#EXTINF:0 channel-id="pluto-654100b4bdf3cf0008aa49c7" tvg-id="654100b4bdf3cf0008aa49c7" tvg-logo="https://images.pluto.tv/channels/654100b4bdf3cf0008aa49c7/colorLogoPNG.png" tvg-chno="753" group-title="Canada", MTV Classic Canada
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/654100b4bdf3cf0008aa49c7/colorLogoPNG.png" group-title="Musique",MTV Classic Canada
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/654100b4bdf3cf0008aa49c7-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=192.206.151.131
-#EXTINF:0 channel-id="pluto-5f92b56a367e170007cd43f4" tvg-id="5f92b56a367e170007cd43f4" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" tvg-chno="915" group-title="France", MTV Classics France
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="Musique",MTV Classics France
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/5f92b56a367e170007cd43f4-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=176.31.84.249
 
-#EXTINF:0 channel-id="pluto-624303598e45140007d765c1" tvg-id="624303598e45140007d765c1" tvg-logo="https://images.pluto.tv/channels/624303598e45140007d765c1/colorLogoPNG.png" tvg-chno="905" group-title="Great Britain", MTV Rocks
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/624303598e45140007d765c1/colorLogoPNG.png" group-title="Musique",MTV Rocks
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/624303598e45140007d765c1-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=178.238.11.6
 
-#EXTINF:0 channel-id="pluto-6568a78d635c3c0008765f41" tvg-id="6568a78d635c3c0008765f41" tvg-logo="https://images.pluto.tv/channels/6568a78d635c3c0008765f41/colorLogoPNG.png" tvg-chno="908" group-title="Great Britain", Now Rock
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/6568a78d635c3c0008765f41/colorLogoPNG.png" group-title="Musique",Now Rock
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/6568a78d635c3c0008765f41-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=178.238.11.6
 
-#EXTINF:0 channel-id="pluto-6490254fd2c47c00083a5743" tvg-id="6490254fd2c47c00083a5743" tvg-logo="https://images.pluto.tv/channels/6490254fd2c47c00083a5743/colorLogoPNG.png" tvg-chno="910" group-title="Great Britain", Now 80's
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/6490254fd2c47c00083a5743/colorLogoPNG.png" group-title="Musique",Now 80's
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/6490254fd2c47c00083a5743-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=178.238.11.6
 
-#EXTINF:0 channel-id="pluto-60492fdd9989d30007ccd30a" tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" tvg-chno="4560" group-title="USA", beIN Sports Xtra USA en español
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="Sports",beIN Sports Xtra en Español
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 channel-id="pluto-5df975e2b27cf5000921c102" tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-chno="2910" group-title="USA", beIN Sports Xtra USA
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",beIN Sports Xtra USA
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 channel-id="pluto-62b97ef310e33f0007eea65f" tvg-id="62b97ef310e33f0007eea65f" tvg-logo="https://images.pluto.tv/channels/62b97ef310e33f0007eea65f/colorLogoPNG.png" tvg-chno="704" group-title="Canada", beIN Sports Xtra Canada
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/62b97ef310e33f0007eea65f/colorLogoPNG.png" group-title="Sports",beIN Sports Xtra Canada
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/62b97ef310e33f0007eea65f-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=192.206.151.131
 
-#EXTINF:0 channel-id="pluto-6447d08f2858cb0008b9957c" tvg-id="6447d08f2858cb0008b9957c" tvg-logo="https://images.pluto.tv/channels/6447d08f2858cb0008b9957c/colorLogoPNG.png" tvg-chno="1515" group-title="France", Pluto TV Classic Rock
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/6447d08f2858cb0008b9957c/colorLogoPNG.png" group-title="France",Pluto TV Classic Rock
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/6447d08f2858cb0008b9957c-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=176.31.84.249
 
-#EXTINF:0 channel-id="pluto-662a6309307fa30008196b4e" tvg-id="662a6309307fa30008196b4e" tvg-logo="https://images.pluto.tv/channels/662a6309307fa30008196b4e/colorLogoPNG.png" tvg-chno="30" group-title="France", Plus Belle la Vie 2
-#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
-https://jmp2.uk/PlutoTV/662a6309307fa30008196b4e-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=176.31.84.249
 
-#EXTINF:0 channel-id="pluto-5efbd39f8c4ce900075d7698" tvg-id="5efbd39f8c4ce900075d7698" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" tvg-chno="840" group-title="USA", Star Trek
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="Séries",Star Trek
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/5efbd39f8c4ce900075d7698-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 channel-id="pluto-634dacf51d90320007fcd5fa" tvg-id="634dacf51d90320007fcd5fa" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" tvg-chno="850" group-title="USA", Star Trek Voyager
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" group-title="Séries",Star Trek: Voyager
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/634dacf51d90320007fcd5fa-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 channel-id="pluto-65c69bbfd77d450008c7ffee" tvg-id="65c69bbfd77d450008c7ffee" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG.png" tvg-chno="855" group-title="USA", Star Trek Deep Space Nine
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG.png" group-title="Séries",Star Trek: Deep Space Nine
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/65c69bbfd77d450008c7ffee-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 channel-id="pluto-6695a2e4fe11e50008341303" tvg-id="6695a2e4fe11e50008341303" tvg-logo="https://images.pluto.tv/channels/6695a2e4fe11e50008341303/colorLogoPNG.png" tvg-chno="857" group-title="USA", Star Trek: The Motion Pictures
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/6695a2e4fe11e50008341303/colorLogoPNG.png" group-title="Séries",Star Trek: The Motion Pictures
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/6695a2e4fe11e50008341303-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
-#EXTINF:0 channel-id="pluto-6675c88da1d7ad00084762cb" tvg-id="6675c88da1d7ad00084762cb" tvg-logo="https://images.pluto.tv/channels/6675c88da1d7ad00084762cb/colorLogoPNG.png" tvg-chno="25" group-title="USA", Star Trek: The Motion Pictures
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/6675c88da1d7ad00084762cb/colorLogoPNG.png" group-title="Séries",Star Trek: The Motion Pictures
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/6675c88da1d7ad00084762cb-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:0 tvg-id="LEquipe21.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" group-name="Sports",L'Équipe
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/p7UiaCG.png" group-name="Sports",L'Équipe Live Foot
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/3gfaW8a.png" group-name="Sports",L'Équipe Live 1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-1.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/bmXOZME.png" group-name="Sports",L'Équipe Live 2
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-2.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/lequipe.png" group-name="Sports",L'Équipe Live 3
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-3.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/lequipe.png" group-name="Sports",L'Équipe Live 4
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-4.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/lequipe.png" group-name="Sports",L'Équipe Live 5
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-5.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/lequipe.png" group-name="Sports",L'Équipe Live 6
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-6.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/lequipe.png" group-name="Sports",L'Équipe Live 7
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-7.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/vuegmgX.png" group-name="Séries",RIS Police Scientifique
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://i.imgur.com/vuegmgX.png" group-name="Séries",RIS Police Scientifique
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ris-police-scientifique.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/gGcEmJy.png" group-name="Séries",Polar Fiction
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/police-fiction.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/4qgvfWz.png" group-name="Séries",Thriller Fiction
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/thriller-fiction.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/xYTnqgs.png" group-name="Séries",Comédie Fiction
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/comedie-fiction.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/SrPQVxp.png" group-name="Divertissement",François Damiens
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/francois-lembrouille.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/31w3MTI.png" group-name="Divertissement",Les Inconnus
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/les-inconnus.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/yKzaS2p.png" group-name="Divertissement",Palmashow
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/palmashow.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/AR0WjAE.png" group-name="Nature",Ushuaïa TV For Change
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ushuaia-for-change.m3u8
+#EXTINF:0 tvg-id="XXXXX" tvg-logo="https://images.pluto.tv/channels/662a6309307fa30008196b4e/colorLogoPNG.png" group-title="Séries",Plus Belle la Vie 2
+#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
+https://jmp2.uk/PlutoTV/662a6309307fa30008196b4e-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=176.31.84.249
