@@ -55,17 +55,12 @@ Public NotInheritable Class Main
     End Sub
 
     Private Shared Function GetChannel(ByVal line As String) As String
-        Dim templine = line.Replace(" ", String.Empty)
         Dim first = "channel id=" & Convert.ToChar(34)
-
-        first = first.Replace(" ", "")
-
-        Dim channel = Tools.Between(templine, first, Convert.ToChar(34), StringComparison.CurrentCultureIgnoreCase)
+        Dim channel = Tools.Between(line, first, Convert.ToChar(34), StringComparison.CurrentCultureIgnoreCase)
 
         If channel.Length = 0 Then
             first = "channel=" & Convert.ToChar(34)
-            first = first.Replace(" ", "")
-            channel = Tools.Between(templine, first, Convert.ToChar(34), StringComparison.CurrentCultureIgnoreCase)
+            channel = Tools.Between(line, first, Convert.ToChar(34), StringComparison.CurrentCultureIgnoreCase)
         End If
 
         Return channel
